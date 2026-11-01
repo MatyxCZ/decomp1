@@ -1,0 +1,121 @@
+call_va	helper_va	module_literal	label_literal	pattern_literal	module_load_va	label_load_va	pattern_load_va
+1803cb39c	1803ca5d0	client.dll	entity_list	48 8B 0D ? ? ? ? 8B FB C1 EB 0E	1803cb37c	1803cb371	1803cb366
+1803cb440	1803ca5d0	client.dll	local_player_controller	48 39 1D ? ? ? ? 75 04 B0 01	1803cb439	1803cb432	1803cb424
+1803cb4da	1803ca5d0	client.dll	view_matrix	48 8D 0D ? ? ? ? 48 C1 E0 06	1803cb4d3	1803cb4cc	1803cb4be
+1803cb574	1803ca5d0	scenesystem.dll	generate_primitives	48 8D 05 ? ? ? ? 48 89 07 48 8B 7C 24 48	1803cb56d	1803cb566	1803cb558
+1803cb9c2	1803ca5d0	scenesystem.dll	light_scene_object	E8 ? ? ? ? 44 0F 28 5C 24 60	1803cb9bb	1803cb9b4	1803cb9a6
+1803cba8c	1803ca5d0	scenesystem.dll	light_data_queue	48 8B 05 ? ? ? ? 48 C1 E1 04	1803cba85	1803cba77	1803cba68
+1803cbb29	1803ca5d0	client.dll	is_glowing	00 00 48 8B EA 48 8B F9 E8 ? ? ? ? 45 33 F6 84 C0	1803cbb22	1803cbb1b	1803cbb14
+1803cbbec	1803ca5d0	client.dll	get_glow_color	E8 ? ? ? ? F3 0F 10 BE ? ? ? ? 48 8B CF	1803cbbe5	1803cbbde	1803cbbd0
+1803cbfe7	1803ca5d0	client.dll	create_move	FF FF FF FF 48 8D 05 ? ? ? ? 48 89 0D ? ? ? ?	1803cbfe0	1803cbfd9	1803cbfcb
+1803cc0be	1803ca5d0	client.dll	csgo_input	84 C0 74 0C 48 8D 0D ? ? ? ? E8 ? ? ? ?	1803cc0b7	1803cc0b0	1803cc0a9
+1803cc417	1803ca5d0	client.dll	predicted_commands	48 8D 0D ? ? ? ? 48 89 7C 24 28 48 89 74 24 30 48 89 6C 24 38 E8	1803cc410	1803cc409	1803cc402
+1803cc6dd	1803ca5d0	client.dll	global_vars	48 8B 05 ? ? ? ? 44 8B 40 44	1803cc6d6	1803cc6cf	1803cc6c8
+1803cc777	1803ca5d0	client.dll	prediction_state	48 8B 0D ? ? ? ? 33 D2 8B 5B 38	1803cc770	1803cc769	1803cc75b
+1803cc811	1803ca5d0	client.dll	prediction_seed	8B 3D ? ? ? ? 48 8B 03 48 8B CB	1803cc80a	1803cc803	1803cc7f5
+1803cc8ab	1803ca5d0	client.dll	simulation_player	4C 39 0D ? ? ? ? 41 0F 94 C7	1803cc8a4	1803cc89d	1803cc88f
+1803cc945	1803ca5d0	client.dll	prediction_player	48 89 05 ? ? ? ? 48 8D 15 ? ? ? ? 83 FD 03	1803cc93e	1803cc937	1803cc929
+1803ccd18	1803ca5d0	client.dll	prediction_setup_move	45 8B 40 44 E8 ? ? ? ? 48 8B 07 4D 8B C6	1803ccd11	1803ccd0a	1803cccfc
+1803ccddb	1803ca5d0	client.dll	prediction_process_movement	45 0F B6 CC 4D 8B C6 49 8B D5 48 8B CF 48 8B D8 E8 ? ? ? ?	1803ccdd4	1803ccdcd	1803ccdbf
+1803cce9e	1803ca5d0	client.dll	prediction_finish_move	E8 ? ? ? ? 48 8B 87 98 01 00 00 48 8D 9F	1803cce97	1803cce90	1803cce82
+1803cd073	1803ca5d0	client.dll	hud	48 8B 05 ? ? ? ? 48 85 C0 74 71	1803cd06c	1803cd065	1803cd057
+1803cd10d	1803ca5d0	client.dll	main_menu	48 8B 05 ? ? ? ? EB 07 48 8B 05 ? ? ? ? 48 85 C0	1803cd106	1803cd0ff	1803cd0f1
+1803cd1a7	1803ca5d0	client.dll	global_popups	48 89 3D ? ? ? ? 48 8B 4F 08 48 8B 01 FF 50 78 48 8B 4F 08 48 8D 15	1803cd1a0	1803cd199	1803cd18b
+1803cd467	1803ca5d0	client.dll	inventory_manager	E8 ? ? ? ? 48 8B D7 48 8B C8 4C 8B 00 41 FF 90 ? ? ? ? 48 8B CF	1803cd460	1803cd459	1803cd44b
+1803ce0fa	1803ca5d0	client.dll	spawn_entity_system	48 8B C4 55 41 56 48 8D 68 98 48 81 EC 58 01 00 00	1803ce0f3	1803ce0ec	1803ce0de
+1803ce1ad	1803ca5d0	client.dll	spawn_manager	48 8B C4 55 41 56 48 8D 68 98 48 81 EC 58 01 00 00	1803ce1a6	1803ce19f	1803ce191
+1803d1165	1803ca5d0	client.dll	weapon_calculate_spread	28 F3 44 0F 11 44 24 20 E8 ? ? ? ? 48 8D 85 B0 00 00 00	1803d115e	1803d1157	1803d1149
+1803d1228	1803ca5d0	client.dll	get_aim_punch	48 8D 54 24 20 E8 ? ? ? ? F3 0F 10 15 ? ? ? ? F3 0F 10 44 24 20	1803d1221	1803d121a	1803d120c
+1803d12eb	1803ca5d0	client.dll	set_shader_param	BA 0E C4 90 FF 66 0F 7F 45 ? 48 8D 8D ? ? ? ? E8	1803d12e4	1803d12dd	1803d12cf
+1803d13ae	1803ca5d0	engine2.dll	set_postprocess_vec	E8 ? ? ? ? 44 0F 28 94 24	1803d13a7	1803d13a0	1803d1392
+1803d1a15	1803ca5d0	engine2.dll	frame_input_ring	48 8D 05 ? ? ? ? 0F 10 04 C8	1803d1a0e	1803d1a07	1803d1a00
+1803d1aaf	1803ca5d0	engine2.dll	frame_input_index	48 63 15 ? ? ? ? 83 FA 0A 7D 61	1803d1aa8	1803d1aa1	1803d1a93
+1803d1b49	1803ca5d0	client.dll	get_interp_amount	E8 ? ? ? ? 41 8B 96 68 03 00 00	1803d1b42	1803d1b3b	1803d1b2d
+1803d1c0b	1803ca5d0	client.dll	set_voice_data	E8 ? ? ? ? 33 D2 48 8D 4D ? FF 15 ? ? ? ? 4C 39 65	1803d1c04	1803d1bfd	1803d1bef
+1803d3d4e	1803ca5d0	client.dll	composite_make_container	48 89 5C 24 20 48 89 54 24 10 56 57 41 54 41 55 41 57 48 83 EC 20	1803d3d47	1803d3d40	1803d3d32
+1803d3d6f	1803ca5d0	client.dll	composite_add_container	48 89 6C 24 18 48 89 7C 24 20 41 56 48 83 EC 20 48 63 29 4C 8B F2 48 8B F9 3B 69 10 0F 85 ? ? ? ? F7 41 14 00 00 00 40 0F 85 ? ? ? ? 8B 49 10 48 89 5C 24 30 48 89 74 24 38 81 F9 FE FF FF 7F 7E ? BA 01 00 00 00 FF 15 ? ? ? ? 8B 4F 10 41 B9 38 01 00 00	1803d3d68	1803d3d61	1803d3d53
+1803d3d90	1803ca5d0	client.dll	composite_free_container	40 53 48 83 EC 20 48 89 6C 24 30 48 8B D9 48 89 74 24 38 8B B1 20 01 00 00 83 EE 01	1803d3d89	1803d3d82	1803d3d74
+1803d3db1	1803ca5d0	client.dll	regenerate_weapon_skins	48 83 EC ? E8 ? ? ? ? 48 85 C0 0F 84 ? ? ? ? 48 8B 10	1803d3daa	1803d3da3	1803d3d95
+1803d3fa0	1803ca5d0	client.dll	set_attribute	40 53 48 83 EC 20 48 8B D9 48 81 C1 08 02 00 00	1803d3f99	1803d3f92	1803d3f8b
+1803d40c5	1803ca5d0	client.dll	invalidate_description	48 89 5C 24 ? 48 89 74 24 ? 57 48 83 EC 20 48 8D B9 ? ? ? ? 48 8B F1	1803d40be	1803d40b7	1803d40a9
+1803d40e6	1803ca5d0	client.dll	add_nametag_entity	40 55 53 56 48 8D AC 24 ? ? ? ? 48 81 EC ? ? ? ? 48 8B DA 48 8B F1 48 85 C9 75	1803d40df	1803d40d8	1803d40ca
+1803d4107	1803ca5d0	client.dll	add_stattrak_entity	48 89 5C 24 ? 55 56 57 41 54 41 55 41 56 41 57 48 8D 6C 24 ? 48 81 EC 40 01 00 00 48 8B DA	1803d4100	1803d40f9	1803d40eb
+1803d4128	1803ca5d0	client.dll	set_mesh_group_mask	48 89 5C 24 ? 48 89 74 24 ? 57 48 83 EC ? 48 8D 99 ? ? ? ? 48 8B 71	1803d4121	1803d411a	1803d410c
+1803d4149	1803ca5d0	client.dll	get_viewmodel	40 53 48 83 EC 20 48 8B D9 E8 ? ? ? ? 48 83 BB 88 03 00 00	1803d4142	1803d413b	1803d412d
+1803d416a	1803ca5d0	client.dll	get_model_path	48 89 5C 24 10 56 48 83 EC 20 48 8B 1D ? ? ? ?	1803d4163	1803d415c	1803d414e
+1803d4191	1803ca6d0	client.dll	set_model	48 8D 15 ? ? ? ? 48 8B CB E8 ? ? ? ? 48 8B D7 48 8B CB	1803d418a	1803d4183	1803d417c
+1803d41b2	1803ca5d0	client.dll	add_keychain_entity	44 88 44 24 ? 48 89 54 24 ? 48 89 4C 24 ? 55	1803d41ab	1803d41a4	1803d4196
+1803d41d3	1803ca5d0	client.dll	remove_keychain_entity	48 83 EC 28 48 85 C9 0F 84 ? ? ? ? 48 8B 51 10 8B 42 30 0F BA E0 0B 73 07 C1 E8 06 24 01 EB 26	1803d41cc	1803d41c5	1803d41b7
+1803d41f4	1803ca5d0	client.dll	hud_addon_map	48 8D 15 ? ? ? ? 48 81 C1 ? ? ? ? 45 33 C9 41 B8 2A 27 A5 0A	1803d41ed	1803d41e6	1803d41d8
+1803d4222	1803ca5d0	client.dll	composite_owner	48 8D 8E ? ? ? ? 48 8D 05 ? ? ? ? 48 89 86 ? ? ? ? E8 ? ? ? ? 48 8D 05 ? ? ? ? 48 89 06	1803d421b	1803d4214	1803d420d
+1803d4250	1803ca5d0	client.dll	mouse_trace_target	48 8B 05 ? ? ? ? 8B 48 04 89 0D ? ? ? ? 48 89 15	1803d4249	1803d4242	1803d423b
+1803d42c2	1803ca5d0	client.dll	set_bodygroup	85 D2 0F 88 ? ? ? ? 55 56 57	1803d42bb	1803d42b4	1803d42ad
+1803d42e3	1803ca5d0	client.dll	body_group_commit	48 8B C4 55 48 8B EC 48 83 EC 70 48 89 58 10 48 89 70 18	1803d42dc	1803d42d5	1803d42c7
+1803d4304	1803ca5d0	client.dll	set_material_group	3B 91 ? ? ? ? 74 24 89 91 ? ? ? ? 48 8B 81	1803d42fd	1803d42f6	1803d42e8
+1803d4325	1803ca5d0	client.dll	reflect_weapon_state	40 55 53 56 57 41 57 48 8D 6C 24 C9 48 81 EC A0 00 00 00 48 8D 05	1803d431e	1803d4317	1803d4309
+1803d4349	1803ca6d0	client.dll	clear_hud_weapon_icon	E8 ? ? ? ? 8B F8 C6 84 24	1803d4342	1803d433b	1803d4334
+1803d436a	1803ca5d0	client.dll	level_init	48 89 74 24 ? 57 48 83 EC 30 48 8B 0D ? ? ? ? 48 8B FA 45 33 C9 48 8D 15 ? ? ? ? 45 33 C0 48 8B 01 FF 50 30	1803d4363	1803d435c	1803d434e
+1803d438b	1803ca5d0	client.dll	level_shutdown	48 83 EC ? 48 8B 0D ? ? ? ? 48 8D 15 ? ? ? ? 45 33 C9 45 33 C0 48 8B 01 FF 50 30 48 85 C0 74 ? 48 8B 0D ? ? ? ? 48 8B D0 4C 8B 01 41 FF 50 40 48 83 C4	1803d4384	1803d437d	1803d436f
+1803d43c1	1803ca790	client.dll	game_trace_manager	48 8B 0D ? ? ? ? 48 8D 34 52	1803d43ba	1803d43aa	1803d439c
+1803d43e2	1803ca5d0	client.dll	trace_ray	48 89 54 24 ? 48 89 4C 24 ? 55 53 56 57 41 54 41 56 41 57 48 8D AC 24 ? ? ? ? B8 ? ? 00 00 E8	1803d43db	1803d43d4	1803d43c6
+1803d4403	1803ca5d0	client.dll	trace_filter_init	48 89 5C 24 ? 48 89 74 24 ? 57 48 83 EC ? 0F B6 41 ? 33 FF 24	1803d43fc	1803d43f5	1803d43e7
+1803d4424	1803ca5d0	client.dll	point_contents	48 83 EC 38 F3 0F 10 15 ? ? ? ? 44 88 4C 24 20 4D 8B C8 E8	1803d441d	1803d4416	1803d4408
+1803d4445	1803ca5d0	client.dll	trace_bullet_data_init	48 89 5C 24 ? 48 89 6C 24 ? 48 89 74 24 ? 57 41 56 41 57 48 83 EC ? F2 0F 10 02 4D 8D 71 08	1803d443e	1803d4437	1803d4429
+1803d4466	1803ca5d0	client.dll	trace_bullet	40 53 57 41 56 48 83 EC 50 8B 84 24	1803d445f	1803d4458	1803d444a
+1803d4487	1803ca5d0	client.dll	bullet_trace_build	48 8B C4 48 89 58 10 4C 89 48 20 55 56 57 41 54 41 55 41 56 41 57 48 8D A8 18 FF FF FF 48 81 EC	1803d4480	1803d4479	1803d446b
+1803d44a8	1803ca5d0	client.dll	bullet_trace_rebuild	40 55 56 41 54 41 55 41 56 48 8B EC 48 81 EC 80 00 00 00 4C 8D A9 20 1C	1803d44a1	1803d449a	1803d448c
+1803d44c9	1803ca5d0	client.dll	bullet_penetration	48 8B C4 44 89 48 20 48 89 50 10 48 89 48 08 55 57 41 57 48 8D A8 78 FE FF FF 48 81 EC 70 02 00	1803d44c2	1803d44bb	1803d44b4
+1803d44ea	1803ca5d0	client.dll	hitboxes_and_transforms	48 89 74 24 18 48 89 7C 24 20 41 56 48 83 EC 20 48 8B F9 41 8B C1	1803d44e3	1803d44dc	1803d44ce
+1803d450b	1803ca5d0	client.dll	transform_blend	48 89 5C 24 08 48 89 74 24 10 57 48 81 EC E0 00 00 00 48 8B F2 0F 29 B4 24 D0 00 00 00 41 8B 10 0F 28 F3 49 8B D8 48 8B F9 E8	1803d4504	1803d44fd	1803d44ef
+1803d452c	1803ca5d0	client.dll	shoot_position_at	48 89 5C 24 18 48 89 6C 24 20 56 57 41 56 48 83 EC 60 44 8B 92 ? ? ? ?	1803d4525	1803d451e	1803d4510
+1803d454d	1803ca5d0	client.dll	aim_punch_decay	48 8B C4 48 89 58 18 48 89 48 08 55 56 57 41 54 41 55 41 56 41 57 48 8D A8 28 FF FF FF	1803d4546	1803d453f	1803d4531
+1803d456e	1803ca5d0	client.dll	weapon_recoil	48 89 5C 24 10 55 56 41 56 48 83 EC 60 4D 8B F0 8B EA 48 8B D9 E8 ? ? ? ? 48 8B F0 48 85 C0 0F 84 ? ? ? ? 4C 8B 0B 48 8B CB	1803d4567	1803d4560	1803d4552
+1803d458f	1803ca5d0	client.dll	taser_trace	40 55 53 57 41 56 41 57 48 8D AC 24 10 FF FF FF 48 81 EC F0 01 00 00 4D 8B F1 4D 8B F8 48 8B DA E8 ? ? ? ? 48 8B F8 48 85 C0 75 0F	1803d4588	1803d4581	1803d4573
+1803d45b0	1803ca5d0	client.dll	smoke_line_density	48 8B C4 55 53 56 41 55 41 57 48 8D 68 A8 48 81 EC 30 01 00 00 0F 29 78 A8 0F 57 FF 44 0F 29 48 88 49 8B F0 4C 8B EA 4C 8B F9 4D 85 C0 74 ? F2 0F 10 02 F2 41 0F 11 00 8B 42 08 41 89 40 08 48 8B 1D	1803d45a9	1803d45a2	1803d4594
+1803d45d1	1803ca5d0	client.dll	use_cone	40 53 48 83 EC 20 48 83 79 38 00 48 8B D9 75 05 E8 ? ? ? ? 48 8B 5B 38 48 85 DB 74 57 48 8B 05 ? ? ? ? 80 78 58 00	1803d45ca	1803d45c3	1803d45b5
+1803d45f2	1803ca5d0	client.dll	find_use_entity	40 55 56 41 55 48 8D AC 24 F0 FE FF FF 48 81 EC 10 02 00 00 48 83 79 38 00 48 8B F1 0F 29 B4 24 E0 01 00 00 0F 28 F1 75 05	1803d45eb	1803d45e4	1803d45d6
+1803d4613	1803ca5d0	client.dll	use_target_info	48 89 5C 24 08 48 89 6C 24 18 56 57 41 56 48 83 EC 40 49 8B F8 48 8B DA 48 8B E9 48 85 D2 0F 84 ? ? ? ? 45 33 F6 4C 8D 0D ? ? ? ?	1803d460c	1803d4605	1803d45f7
+1803d4634	1803ca5d0	client.dll	use_target_check	48 8B C4 48 89 58 08 48 89 70 18 55 57 41 54 41 56 41 57 48 8D A8 F8 FE FF FF 48 81 EC E0 01 00 00 0F 29 70 C8 4D 8B F1	1803d462d	1803d4626	1803d4618
+1803d466d	1803ca790	filesystem_stdio.dll	service_read	00 48 89 07 48 8D 05 ? ? ? ? 48 89 87 E0 00 00 00	1803d4666	1803d4656	1803d4648
+1803d46a1	1803ca6d0	filesystem_stdio.dll	filesystem_close	48 8D 8F 20 FF FF FF 8B D5 E8 ? ? ? ? FF D3	1803d469a	1803d4693	1803d468c
+1803d46d7	1803ca790	client.dll	particle_manager	48 8B 35 ? ? ? ? 44 89 6C 24 ?	1803d46d0	1803d46c0	1803d46b2
+1803d46f8	1803ca5d0	client.dll	particle_create	4C 8B DC 53 48 81 EC 90 00 00 00 F2 0F 10 05	1803d46f1	1803d46ea	1803d46dc
+1803d4719	1803ca5d0	client.dll	particle_set_control_point	48 83 EC 58 F3 41 0F 10 51 04 F3 41 0F 10 09 F3 41 0F 10 59 08	1803d4712	1803d470b	1803d46fd
+1803d473a	1803ca5d0	client.dll	particle_set_transform	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 57 48 83 EC 40 48 8B F9 49 8B E9 33 C9 41 8B F0 83 FA FF	1803d4733	1803d472c	1803d471e
+1803d475b	1803ca5d0	client.dll	particle_init_effect	40 56 48 83 EC ? 41 8B F0	1803d4754	1803d474d	1803d473f
+1803d477c	1803ca5d0	client.dll	particle_destroy	83 FA ? 0F 84 ? ? ? ? 41 54	1803d4775	1803d476e	1803d4760
+1803d479d	1803ca5d0	client.dll	particle_set_entity_binding	41 54 41 55 41 57 48 81 EC 90 00 00 00 4D 8B F9	1803d4796	1803d478f	1803d4781
+1803d47be	1803ca5d0	client.dll	view_ambient_copy	48 89 5C 24 10 48 89 74 24 18 48 89 7C 24 20 55 48 8B EC 48 83 EC 40 48 8B F1 0F 57 C9	1803d47b7	1803d47b0	1803d47a2
+1803d47f4	1803ca790	client.dll	game_event_manager	48 8B 0D ? ? ? ? 48 8B 01 FF 50 ? FF C3	1803d47ed	1803d47dd	1803d47cf
+1803d482a	1803ca790	client.dll	game_event_get_controller	48 8D 05 ? ? ? ? 4D 8B F8 48 89 01	1803d4823	1803d4813	1803d4805
+1803d485f	1803ca6d0	client.dll	game_event_get_float	E8 ? ? ? ? 0F 28 D8 89 5C 24 20	1803d4858	1803d4851	1803d484a
+1803d4919	1803ca5d0	client.dll	init_path_buffer	48 89 5C 24 ? 57 48 83 EC ? 8B 41 ? 48 8D 79	1803d4912	1803d490b	1803d4904
+1803d493a	1803ca5d0	client.dll	get_matrix_for_view	48 8B C4 48 89 68 08 48 89 70 10 57 48 81 EC 40 01 00 00 0F 29 70 E8 49 8B F1 F3 0F 10 B2 D4 04 00 00	1803d4933	1803d492c	1803d491e
+1803d495b	1803ca5d0	client.dll	set_up_views	48 89 5C 24 10 48 89 6C 24 18 56 57 41 56 48 81 EC B0 00 00 00 4C 8B F1 48 8D 94 24	1803d4954	1803d494d	1803d493f
+1803d497c	1803ca5d0	resourcesystem.dll	resource_precache	40 53 55 57 48 81 EC 80 00 00 00	1803d4975	1803d496e	1803d4960
+1803d499d	1803ca5d0	rendersystemdx11.dll	get_resource_view	48 89 5C 24 ? 48 89 74 24 ? 48 89 7C 24 ? 48 89 4C 24 ? 55 41 54 41 55 41 56 41 57 48 8D 6C 24 ? 48 81 EC ? ? ? ? 33 FF 4D 0F BE F8 89 7D ? 45 0F B6 E1 4C 8B 2D	1803d4996	1803d498f	1803d4981
+1803d4a5d	1803ca5d0	tier0.dll	kv3_alloc	40 53 48 83 EC 30 80 FA 06 0F B6 C2 41 B9 16	1803d4a56	1803d4a4f	1803d4a48
+1803d4a7e	1803ca5d0	tier0.dll	kv3_destroy	40 57 41 57 48 83 EC 38 4C 8B 01 44 8B FA 49 8B C0 48 8B F9 48 C1 E8 02	1803d4a77	1803d4a70	1803d4a62
+1803d4a9f	1803ca5d0	materialsystem2.dll	material_create	48 89 5C 24 ? 48 89 6C 24 ? 48 89 74 24 ? 48 89 7C 24 ? 41 56 48 81 EC ? ? ? ? 48 8B 05 ? ? ? ? 48 8B F2	1803d4a98	1803d4a91	1803d4a83
+1803d4ac0	1803ca5d0	materialsystem2.dll	material_copy	48 89 5C 24 ? 56 57 41 56 48 81 EC ? ? ? ? 4D 8B F0 48 8B FA 4D 85 C9	1803d4ab9	1803d4ab2	1803d4aa4
+1803d4ae1	1803ca5d0	materialsystem2.dll	prepare_scene_material	48 89 5C 24 08 48 89 74 24 10 57 48 83 EC 30 48 8B 59 20	1803d4ada	1803d4ad3	1803d4ac5
+1803d4b02	1803ca5d0	client.dll	draw_flash_effect	85 D2 0F 88 ? ? ? ? 48 89 4C 24 ? 55 56	1803d4afb	1803d4af4	1803d4ae6
+1803d4b23	1803ca5d0	client.dll	render_scope	48 8B C4 53 57 48 83 EC 68 48 8B FA	1803d4b1c	1803d4b15	1803d4b07
+1803d4b44	1803ca5d0	client.dll	first_person_pawn	48 83 EC 28 FF 15 ? ? ? ? 84 C0 74 ? 33 C9 E8 ? ? ? ? 8B 05 ? ? ? ? 33 D2 83 F8 FF	1803d4b3d	1803d4b36	1803d4b28
+1803d4b65	1803ca5d0	client.dll	spectator_command	40 53 48 83 EC 20 83 B9 38 04 00 00 00 48 8B D9 0F 84 ? ? ? ? 33 C9 48 89 7C 24 40 E8	1803d4b5e	1803d4b57	1803d4b49
+1803d4b86	1803ca5d0	client.dll	event_listener_register	40 53 41 54 41 56 41 57 48 83 EC 78 48 8B D9 45 0F B6 F1 48 8B 8C 24 C0 00 00 00 45 8B F8 4C 8B E2	1803d4b7f	1803d4b78	1803d4b6a
+1803d4ba7	1803ca5d0	client.dll	event_listener_unregister	4D 85 C0 0F 84 ? ? ? ? 48 89 5C 24 10 4C 89 44 24 18 56 48 83 EC 20 48 8B D9 48 8B F2 49 8B C8 E8	1803d4ba0	1803d4b99	1803d4b8b
+1803d4bc8	1803ca5d0	client.dll	render_start_call	FF 90 20 03 00 00 48 8B 0D ? ? ? ? 48 8B 01 FF 50 20 E8	1803d4bc1	1803d4bba	1803d4bac
+1803d4bf2	1803ca5d0	client.dll	set_render_alpha	40 53 48 83 EC 20 48 8B D9 38 91 ? ? ? ? 74 ? 88 91 ? ? ? ? 48 8B 89	1803d4beb	1803d4be4	1803d4bdd
+1803d4c16	1803ca6d0	client.dll	world_group_handle	E8 ? ? ? ? 41 8B 5F 10	1803d4c0f	1803d4c08	1803d4c01
+1803d4c4c	1803ca790	client.dll	render_game_system	48 8B 0D ? ? ? ? 48 8B 14 FA	1803d4c45	1803d4c35	1803d4c27
+1803d4c85	1803ca790	client.dll	override_view	A8 00 00 00 48 8D 05 ? ? ? ? 4C 89 74 24 20	1803d4c7e	1803d4c6e	1803d4c60
+1803d4cb4	1803ca5d0	client.dll	update_fov_sensitivity	48 89 6C 24 ? 48 89 74 24 ? 57 48 83 EC 30 48 8B B9 ? ? ? ? 48 8B F1 48 8B CF 48 89 5C 24	1803d4cad	1803d4ca6	1803d4c9f
+1803d4cd5	1803ca5d0	client.dll	node_setup_bones	E8 ? ? ? ? 8B 85 2C 85 01 00	1803d4cce	1803d4cc7	1803d4cb9
+1803d4d97	1803ca5d0	client.dll	node_set_skeleton	E8 ? ? ? ? 40 84 ED 74 17	1803d4d90	1803d4d89	1803d4d7b
+1803d4e59	1803ca5d0	client.dll	get_view_angles	8B 0D ? ? ? ? 8B D3 E8 ? ? ? ? F2 0F 10 00	1803d4e52	1803d4e4b	1803d4e3d
+1803d4f1c	1803ca5d0	client.dll	render_decals	41 B0 01 48 8B D7 49 8B CD E8	1803d4f15	1803d4f0e	1803d4f00
+1803d4fdf	1803ca5d0	client.dll	string_copy	E8 ? ? ? ? 0F 10 45 88	1803d4fd8	1803d4fd1	1803d4fc3
+1803d51a5	1803ca5d0	client.dll	subtick_move_alloc	48 8B 54 CA 08 8D 41 01 89 47 08 EB 16 48 8B 0F E8 ? ? ? ? 48 8B D0 48 8B CF	1803d519e	1803d5197	1803d5189
+1803d527a	1803ca5d0	client.dll	utl_vector_push	E8 ? ? ? ? 4C 8B D0 45 8B 4A 10	1803d5273	1803d526c	1803d5265
+1803d5344	1803ca5d0	client.dll	icon_generator	48 8B 0D ? ? ? ? 48 89 44 24 20 E8 ? ? ? ? 48 8B F8 EB	1803d533d	1803d5336	1803d5328

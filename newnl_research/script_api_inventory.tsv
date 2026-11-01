@@ -1,0 +1,26 @@
+api	handler_va	registration_load_va	registration_condition	call_time_check	selected_observation
+memory.read	0x18005da10	0x1800662b0	state_plus_4b_nonzero	see_handler	Reads a typed value through FUN_180050420
+memory.write	0x18005da90	0x1800662c7	state_plus_4b_nonzero	see_handler	Writes a typed value through FUN_1800508c0
+memory.find_pattern	0x18005db10	0x1800662f3	state_plus_4b_nonzero	see_handler	Scans a loaded module range for the supplied pattern
+memory.module	0x18005dc10	0x180066314	state_plus_4b_nonzero	see_handler	Retrieves a loaded module base and image size
+memory.export	0x18005dd20	0x18006632c	state_plus_4b_nonzero	see_handler	Uses GetProcAddress on a loaded module
+memory.interface	0x18005ddd0	0x180066344	state_plus_4b_nonzero	see_handler	Looks up and calls a module CreateInterface export
+file.read	0x18005e0d0	0x18006639d	state_plus_4b_nonzero	see_handler	Reads a file through the shared script data path builder
+file.write	0x18005e690	0x1800663b5	state_plus_4b_nonzero	see_handler	Thunk to the shared file write helper with mode zero
+file.append	0x18005e6a0	0x1800663e1	state_plus_4b_nonzero	see_handler	Thunk to the shared file write helper with mode one
+file.exists	0x18005e6b0	0x180066407	state_plus_4b_nonzero	see_handler	Checks a path built by the shared script data path helper
+file.remove	0x18005e7a0	0x180066417	state_plus_4b_nonzero	see_handler	Passes a built path to a filesystem removal helper
+file.list	0x18005e870	0x180066423	state_plus_4b_nonzero	see_handler	Builds a listing from the script data path
+http.get	0x180063940	0x180066491	state_plus_4b_nonzero	state_plus_4b_nonzero	GET thunk to shared asynchronous HTTP path
+http.post	0x180063950	0x1800664b3	state_plus_4b_nonzero	state_plus_4b_nonzero	POST thunk to shared asynchronous HTTP path
+hooks.add	0x1800a3ab0	0x1800665f2	state_plus_4b_nonzero	state_plus_4b_nonzero	Checks executable target and callback before hook creation
+hooks.remove	0x1800a3e40	0x180066618	state_plus_4b_nonzero	owner_match	Finds an active target and checks owner before removal
+hooks.list	0x1800a3f20	0x18006663a	state_plus_4b_nonzero	owner_match	Builds a list of active entries belonging to the current owner
+wl.hook:original	0x1800a3920	0x180066530	state_plus_4b_nonzero	owner_match	Returns original pointer for an active owned entry
+wl.hook:target	0x1800a3990	0x180066556	state_plus_4b_nonzero	owner_match	Returns target pointer for an owned entry
+wl.hook:active	0x1800a3a00	0x18006657c	state_plus_4b_nonzero	owner_match	Reports whether an owned entry is active
+wl.hook:remove	0x1800a3a50	0x1800665a2	state_plus_4b_nonzero	owner_match	Marks an active owned entry inactive and calls removal helper
+wl.entity:get	0x180050bf0	0x18006453b	outside_selected_conditional_block	see_handler	Reads from entity pointer plus numeric or schema-derived offset
+wl.entity:set	0x180050c70	0x180064546	outside_selected_conditional_block	state_plus_4b_nonzero	Writes to entity pointer plus numeric or schema-derived offset
+utils.clipboard_get	0x1800624c0	0x180064ce9	outside_selected_conditional_block	state_plus_4b_nonzero	Reads Unicode clipboard text and converts it to UTF-8
+utils.clipboard_set	0x1800626d0	0x180064d01	outside_selected_conditional_block	state_plus_4b_nonzero	Converts supplied UTF-8 text and sets Unicode clipboard data

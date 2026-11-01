@@ -1,0 +1,19 @@
+{
+  "input": "newnl.dll",
+  "sha256": "03c8ab74b4318cf17c87be8b39f4d868dba4ee1aa45d60fe38ab781a54b3eb57",
+  "machine": "0x8664",
+  "file_timestamp_utc_untrusted": "2026-10-25T05:35:06+00:00",
+  "preferred_image_base": "0x180000000",
+  "entry_point_rva": "0x4ed880",
+  "image_size": "0x12a0000",
+  "subsystem": 2,
+  "dll_characteristics": "0x160",
+  "security_directory_file_offset": "0x0",
+  "security_directory_size": 0,
+  "clr_runtime_header_rva": "0x0",
+  "clr_runtime_header_size": 0,
+  "import_modules": 10,
+  "imports": 254,
+  "exports": 177,
+  "sections": 10
+}

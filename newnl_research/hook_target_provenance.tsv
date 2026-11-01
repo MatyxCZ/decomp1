@@ -1,0 +1,63 @@
+hook_label	target_expression	replacement_function	hook_pseudocode_line	hook_target_rip_read_vas	startup_rip_store_va	startup_store_instruction	matching_resolver_call_va	matching_module_literal	matching_pattern_literal	evidence_class	hook_call_va	replacement_kind
+get_raw_input_data	DAT_180cd1e38	FUN_1801cd6d0	301487	0x1801cf771						no_startup_rip_store_found	0x1801cf783	direct_function
+get_raw_input_buffer	DAT_180cd1b50	FUN_1801cd790	301492	0x1801cf7a6						no_startup_rip_store_found	0x1801cf7b8	direct_function
+is_glowing	DAT_180961a00	FUN_1801c83a0	301499	0x1801cf7c8	0x1803cbbd7	mov qword ptr [rip + 0x595e22], rbx	1803cbb29	client.dll	00 00 48 8B EA 48 8B F9 E8 ? ? ? ? 45 33 F6 84 C0	label_and_global_store_untraced	0x1801cf7f4	direct_function
+get_glow_color	DAT_180961a08	FUN_1801c8450	301505	0x1801cf804	0x1803cbca2	mov qword ptr [rip + 0x595d5f], rbx	1803cbbec	client.dll	E8 ? ? ? ? F3 0F 10 BE ? ? ? ? 48 8B CF	label_and_global_store_untraced	0x1801cf830	direct_function
+create_move	DAT_180961a28	FUN_1801c8650	301511	0x1801cf840	0x1803cc04d	mov qword ptr [rip + 0x5959d4], rax	1803cbfe7	client.dll	FF FF FF FF 48 8D 05 ? ? ? ? 48 89 0D ? ? ? ?	label_and_global_store_untraced	0x1801cf86c	direct_function
+input_view_sync	DAT_180961a30	FUN_1801c8550	301517	0x1801cf87c	0x1803cc05c	mov qword ptr [rip + 0x5959cd], rax				global_store_only	0x1801cf8a8	direct_function
+generate_primitives	DAT_1809619e8	FUN_1801cd530	301523	0x1801cf8b8	0x1803cb5d1	mov qword ptr [rip + 0x596410], rax	1803cb574	scenesystem.dll	48 8D 05 ? ? ? ? 48 89 07 48 8B 7C 24 48	label_and_global_store_untraced	0x1801cf8e4	direct_function
+generate_model_primitives	DAT_1809619f0	FUN_1801cd5f0	301529	0x1801cf8f4	0x1803cb6c4	mov qword ptr [rip + 0x596325], rax				global_store_only	0x1801cf920	direct_function
+draw_scene_object	DAT_180961cd0	FUN_1801c9380	301534	0x1801cf943	0x1803cb5dd	mov qword ptr [rip + 0x5966ec], rax				global_store_only	0x1801cf955	direct_function
+draw_scene_object_array	DAT_180961cd8	FUN_1801c9530	301536	0x1801cf96d	0x1803cb8a3	mov qword ptr [rip + 0x59642e], rbx				global_store_only	0x1801cf97f	direct_function
+set_shader_param	DAT_180961d28	FUN_1801c95a0	301538	0x1801cf997	0x1803d1399	mov qword ptr [rip + 0x590988], rbx	1803d12eb	client.dll	BA 0E C4 90 FF 66 0F 7F 45 ? 48 8D 8D ? ? ? ? E8	label_and_global_store_untraced	0x1801cf9a9	direct_function
+setup_fog	DAT_180961dd0	FUN_1801c9560	301540	0x1801cf9c1	0x1803d3053	mov qword ptr [rip + 0x58ed76], rbx				global_store_only	0x1801cf9d3	direct_function
+set_postprocess_vec	DAT_180961d30	FUN_1801c95f0	301542	0x1801cf9eb	0x1803d1464	mov qword ptr [rip + 0x5908c5], rbx	1803d13ae	engine2.dll	E8 ? ? ? ? 44 0F 28 94 24	label_and_global_store_untraced	0x1801cf9fd	direct_function
+draw_skybox_array	DAT_180961ce8	FUN_1801c96c0	301544	0x1801cfa15	0x1803cb9ad	mov qword ptr [rip + 0x596334], rbx				global_store_only	0x1801cfa27	direct_function
+light_scene_object	DAT_180961cf0	FUN_1801c97f0	301546	0x1801cfa3f	0x1803cba7e	mov qword ptr [rip + 0x59626b], rbx	1803cb9c2	scenesystem.dll	E8 ? ? ? ? 44 0F 28 5C 24 60	label_and_global_store_untraced	0x1801cfa51	direct_function
+get_resource_view_a	DAT_180961cf8	FUN_1801cd3f0	301548	0x1801cfa69	0x1803d49a2	mov qword ptr [rip + 0x58d34f], rax				global_store_only	0x1801cfa7b	direct_function
+get_resource_view_b	DAT_180961d00	FUN_1801cd490	301550	0x1801cfa93	0x1803d4a29	mov qword ptr [rip + 0x58d2d0], rax				global_store_only	0x1801cfaa5	direct_function
+should_draw_crosshair	DAT_180961d48	FUN_1801c9b10	301552	0x1801cfabd	0x1803d1dd4	mov qword ptr [rip + 0x58ff6d], rbx				global_store_only	0x1801cfacf	direct_function
+should_draw_viewmodel	DAT_180961d50	FUN_1801c9ad0	301554	0x1801cfae7	0x1803d1ee7	mov qword ptr [rip + 0x58fe62], rbx				global_store_only	0x1801cfaf9	direct_function
+net_populate_quality	DAT_180961d68	FUN_1801c9950	301556	0x1801cfb11	0x1803d2220	mov qword ptr [rip + 0x58fb41], rbx				global_store_only	0x1801cfb23	direct_function
+net_serialize_acks	DAT_180961d70	FUN_1801c9a20	301558	0x1801cfb3b	0x1803d2333	mov qword ptr [rip + 0x58fa36], rbx				global_store_only	0x1801cfb4d	direct_function
+preview_panel_think	DAT_180961d78	FUN_1801c9a90	301560	0x1801cfb65	0x1803d2446	mov qword ptr [rip + 0x58f92b], rbx				global_store_only	0x1801cfb77	direct_function
+trace_bullet	DAT_180961f68	FUN_1801c9a40	301562	0x1801cfb8f	0x1803d4472	mov qword ptr [rip + 0x58daef], rax	1803d4466	client.dll	40 53 57 41 56 48 83 EC 50 8B 84 24	label_and_straight_line_return_store	0x1801cfba1	direct_function
+vote_start	DAT_180961d98	FUN_1801c9840	301564	0x1801cfbb9	0x1803d28ce	mov qword ptr [rip + 0x58f4c3], rbx				global_store_only	0x1801cfbcb	direct_function
+vote_pass	DAT_180961da0	FUN_1801c9890	301566	0x1801cfbe3	0x1803d29e1	mov qword ptr [rip + 0x58f3b8], rbx				global_store_only	0x1801cfbf5	direct_function
+vote_failed	DAT_180961da8	FUN_1801c98d0	301568	0x1801cfc0d	0x1803d2af4	mov qword ptr [rip + 0x58f2ad], rbx				global_store_only	0x1801cfc1f	direct_function
+call_vote_failed	DAT_180961db0	FUN_1801c9910	301570	0x1801cfc37	0x1803d2c07	mov qword ptr [rip + 0x58f1a2], rbx				global_store_only	0x1801cfc49	direct_function
+frame_stage_notify	DAT_180961df8	FUN_1801ca640	301572	0x1801cfc61	0x1803d34ca	mov qword ptr [rip + 0x58e927], rbx				global_store_only	0x1801cfc73	direct_function
+pet_item_id	DAT_180961af8	FUN_1801c9db0	301574	0x1801cfc8b	0x1803cd969	mov qword ptr [rip + 0x594188], rbx				global_store_only	0x1801cfc9d	direct_function
+pet_anim_event	DAT_180961c78	FUN_1801ca070	301576	0x1801cfcb5	0x1803d05de	mov qword ptr [rip + 0x591693], rbx				global_store_only	0x1801cfcc7	direct_function
+sound_start_message	DAT_180961c70	FUN_1801ca2b0	301578	0x1801cfcdf	0x1803d04cb	mov qword ptr [rip + 0x59179e], rbx				global_store_only	0x1801cfcf1	direct_function
+overlay_box	DAT_180961c88	dynamic_stub->FUN_1801ca420	301591	0x1801cfd57	0x1803d08e8	mov qword ptr [rip + 0x591399], rax				global_store_only	0x1801cfd69	dynamic_stub
+reflect_weapon_state	DAT_180961f20	FUN_1802242b0	301594	0x1801cfd81	0x1803d432d	mov qword ptr [rip + 0x58dbec], rax	1803d4325	client.dll	40 55 53 56 57 41 57 48 8D 6C 24 C9 48 81 EC A0 00 00 00 48 8D 05	label_and_straight_line_return_store	0x1801cfd93	direct_function
+find_item_view	DAT_180961b00	FUN_1801ca5d0	301596	0x1801cfdab	0x1803cda7c	mov qword ptr [rip + 0x59407d], rbx				global_store_only	0x1801cfdbd	direct_function
+send_move_packet	DAT_180961d38	FUN_1801ca4b0	301598	0x1801cfdd5	0x1803d1577	mov qword ptr [rip + 0x5907ba], rbx				global_store_only	0x1801cfde7	direct_function
+composite_append	DAT_180961e28	FUN_1801ccb50	301600	0x1801cfdff	0x1803d3b32	mov qword ptr [rip + 0x58e2ef], rbx				global_store_only	0x1801cfe11	direct_function
+composite_add_container	DAT_180961e48	FUN_1801ccb90	301602	0x1801cfe29	0x1803d3d7b	mov qword ptr [rip + 0x58e0c6], rax	1803d3d6f	client.dll	48 89 6C 24 18 48 89 7C 24 20 41 56 48 83 EC 20 48 63 29 4C 8B F2 48 8B F9 3B 69 10 0F 85 ? ? ? ? F7 41 14 00 00 00 40 0F 85 ? ? ? ? 8B 49 10 48 89 5C 24 30 48 89 74 24 38 81 F9 FE FF FF 7F 7E ? BA 01 00 00 00 FF 15 ? ? ? ? 8B 4F 10 41 B9 38 01 00 00	label_and_straight_line_return_store	0x1801cfe3b	direct_function
+regenerate_weapon_skin	DAT_180961e60	FUN_1801ccc20	301604	0x1801cfe53	0x1803d3e60	mov qword ptr [rip + 0x58dff9], rax				global_store_only	0x1801cfe65	direct_function
+composite_request	uVar8	FUN_1801ccbc0	301639							no_startup_rip_store_found	0x1801cff38	direct_function
+get_viewmodel_offsets	DAT_180961db8	FUN_1801cce10	301652	0x1801cff89	0x1803d2d1a	mov qword ptr [rip + 0x58f097], rbx				global_store_only	0x1801cff9b	direct_function
+calc_viewmodel	DAT_180961dc0	FUN_1801ccec0	301654	0x1801cffb3	0x1803d2e2d	mov qword ptr [rip + 0x58ef8c], rbx				global_store_only	0x1801cffc5	direct_function
+viewmodel_fov	DAT_180961dc8	FUN_1801ccf70	301656	0x1801cffdd	0x1803d2f40	mov qword ptr [rip + 0x58ee81], rbx				global_store_only	0x1801cffef	direct_function
+viewmodel_offsets	DAT_180961de8	FUN_1801cd000	301658	0x1801d0007	0x1803d328c	mov qword ptr [rip + 0x58eb55], rbx				global_store_only	0x1801d0019	direct_function
+panel_position	DAT_180961ac8	FUN_1803bc210	301660	0x1801d0031	0x1803cd348	mov qword ptr [rip + 0x594779], rbx				global_store_only	0x1801d0043	direct_function
+level_init	DAT_180961f30	FUN_1801cb5f0	301662	0x1801d005b	0x1803d4376	mov qword ptr [rip + 0x58dbb3], rax	1803d436a	client.dll	48 89 74 24 ? 57 48 83 EC 30 48 8B 0D ? ? ? ? 48 8B FA 45 33 C9 48 8D 15 ? ? ? ? 45 33 C0 48 8B 01 FF 50 30	label_and_straight_line_return_store	0x1801d006d	direct_function
+run_command	DAT_180961ff8	FUN_1801cb880	301664	0x1801d0085	0x1803d18d7	mov qword ptr [rip + 0x59071a], rbx				global_store_only	0x1801d0097	direct_function
+send_predicted_command	DAT_180961fe8	FUN_1800875d0	301666	0x1801d00af	0x1803cc6bc	mov qword ptr [rip + 0x595925], rbx				global_store_only	0x1801d00c1	direct_function
+nl_cmd_prepare	DAT_180cfa128	FUN_18026a170	301673	0x1801d00d3						no_startup_rip_store_found	0x1801d0134	direct_function
+nl_signon	DAT_180cfa198	FUN_18026afa0	301677	0x1801d0139;0x1801d0181;0x1801d01eb						no_startup_rip_store_found	0x1801d0163	direct_function
+nl_packet_entities	DAT_180cfa188	FUN_18026aa30	301681	0x1801d016a;0x1801d01b6						no_startup_rip_store_found	0x1801d01b1	direct_function
+nl_packet_queue	DAT_180cfa178	FUN_18026a9a0	301688	0x1801d01bd						no_startup_rip_store_found	0x1801d021d	direct_function
+level_shutdown	DAT_180961f38	FUN_1801cc690	301692	0x1801d0235	0x1803d43a3	mov qword ptr [rip + 0x58db8e], rax	1803d438b	client.dll	48 83 EC ? 48 8B 0D ? ? ? ? 48 8D 15 ? ? ? ? 45 33 C9 45 33 C0 48 8B 01 FF 50 30 48 85 C0 74 ? 48 8B 0D ? ? ? ? 48 8B D0 4C 8B 01 41 FF 50 40 48 83 C4	label_and_straight_line_return_store	0x1801d0247	direct_function
+service_read	DAT_180962070	FUN_1801cbf90	301694	0x1801d025f	0x1803d467f	mov qword ptr [rip + 0x58d9ea], rax	1803d466d	filesystem_stdio.dll	00 48 89 07 48 8D 05 ? ? ? ? 48 89 87 E0 00 00 00	label_and_global_store_untraced	0x1801d0271	direct_function
+set_up_views	DAT_180961d20	FUN_1801cd060	301696	0x1801d0289	0x1803d4967	mov qword ptr [rip + 0x58d3b2], rax	1803d495b	client.dll	48 89 5C 24 10 48 89 6C 24 18 56 57 41 56 48 81 EC B0 00 00 00 4C 8B F1 48 8D 94 24	label_and_straight_line_return_store	0x1801d029b	direct_function
+get_matrix_for_view	DAT_180961d18	FUN_1801cd2b0	301698	0x1801d02b3	0x1803d4946	mov qword ptr [rip + 0x58d3cb], rax	1803d493a	client.dll	48 8B C4 48 89 68 08 48 89 70 10 57 48 81 EC 40 01 00 00 0F 29 70 E8 49 8B F1 F3 0F 10 B2 D4 04 00 00	label_and_straight_line_return_store	0x1801d02c5	direct_function
+draw_flash_effect	DAT_180962100	FUN_1801cc320	301700	0x1801d02dd	0x1803d4b0e	mov qword ptr [rip + 0x58d5eb], rax	1803d4b02	client.dll	85 D2 0F 88 ? ? ? ? 48 89 4C 24 ? 55 56	label_and_straight_line_return_store	0x1801d02ef	direct_function
+render_scope	DAT_180962108	FUN_1801cc380	301702	0x1801d0307	0x1803d4b2f	mov qword ptr [rip + 0x58d5d2], rax	1803d4b23	client.dll	48 8B C4 53 57 48 83 EC 68 48 8B FA	label_and_straight_line_return_store	0x1801d0319	direct_function
+first_person_pawn	DAT_180962110	FUN_1801cc360	301704	0x1801d0331	0x1803d4b50	mov qword ptr [rip + 0x58d5b9], rax	1803d4b44	client.dll	48 83 EC 28 FF 15 ? ? ? ? 84 C0 74 ? 33 C9 E8 ? ? ? ? 8B 05 ? ? ? ? 33 D2 83 F8 FF	label_and_straight_line_return_store	0x1801d0343	direct_function
+override_view	DAT_180962150	FUN_1801cc4e0	301706	0x1801d035b	0x1803d4c98	mov qword ptr [rip + 0x58d4b1], rax	1803d4c85	client.dll	A8 00 00 00 48 8D 05 ? ? ? ? 4C 89 74 24 20	label_and_global_store_untraced	0x1801d036d	direct_function
+update_fov_sensitivity	DAT_180962158	FUN_1801cc560	301708	0x1801d0385	0x1803d4cc0	mov qword ptr [rip + 0x58d491], rax	1803d4cb4	client.dll	48 89 6C 24 ? 48 89 74 24 ? 57 48 83 EC 30 48 8B B9 ? ? ? ? 48 8B F1 48 8B CF 48 89 5C 24	label_and_straight_line_return_store	0x1801d0397	direct_function
+render_decals	DAT_180962178	FUN_1801cc590	301710	0x1801d03af	0x1803d4fca	mov qword ptr [rip + 0x58d1a7], rbx	1803d4f1c	client.dll	41 B0 01 48 8B D7 49 8B CD E8	label_and_global_store_untraced	0x1801d03c1	direct_function
+prepare_scene_material	DAT_180962180	FUN_1801cc5c0	301712	0x1801d03d9	0x1803d4aed	mov qword ptr [rip + 0x58d68c], rax	1803d4ae1	materialsystem2.dll	48 89 5C 24 08 48 89 74 24 10 57 48 83 EC 30 48 8B 59 20	label_and_straight_line_return_store	0x1801d03eb	direct_function

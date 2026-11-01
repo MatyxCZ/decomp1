@@ -1,0 +1,2385 @@
+from_address	string_address	reference_type	value_escaped
+1803cb366	1808a1220	DATA	48 8B 0D ? ? ? ? 8B FB C1 EB 0E
+1803cb371	1808a64d0	DATA	entity_list
+1803cb37c	1806d2230	DATA	client.dll
+1803cb3b7	1808a1220	DATA	48 8B 0D ? ? ? ? 8B FB C1 EB 0E
+1803cb3c4	1808a64d0	DATA	entity_list
+1803cb3da	1806d2230	DATA	client.dll
+1803cb3ee	1806d2230	DATA	client.dll
+1803cb400	1808a1220	DATA	48 8B 0D ? ? ? ? 8B FB C1 EB 0E
+1803cb407	1808a64d0	DATA	entity_list
+1803cb40e	1806d2230	DATA	client.dll
+1803cb415	1808a6180	DATA	[error] address not resolved | %s:%s | %s
+1803cb424	1808a1200	DATA	48 39 1D ? ? ? ? 75 04 B0 01
+1803cb432	1808a64b8	DATA	local_player_controller
+1803cb439	1806d2230	DATA	client.dll
+1803cb451	1808a1200	DATA	48 39 1D ? ? ? ? 75 04 B0 01
+1803cb45e	1808a64b8	DATA	local_player_controller
+1803cb474	1806d2230	DATA	client.dll
+1803cb488	1806d2230	DATA	client.dll
+1803cb49a	1808a1200	DATA	48 39 1D ? ? ? ? 75 04 B0 01
+1803cb4a1	1808a64b8	DATA	local_player_controller
+1803cb4a8	1806d2230	DATA	client.dll
+1803cb4af	1808a6180	DATA	[error] address not resolved | %s:%s | %s
+1803cb4be	1808a11e0	DATA	48 8D 0D ? ? ? ? 48 C1 E0 06
+1803cb4cc	1808a64a8	DATA	view_matrix
+1803cb4d3	1806d2230	DATA	client.dll
+1803cb4eb	1808a11e0	DATA	48 8D 0D ? ? ? ? 48 C1 E0 06
+1803cb4f8	1808a64a8	DATA	view_matrix
+1803cb50e	1806d2230	DATA	client.dll
+1803cb522	1806d2230	DATA	client.dll
+1803cb534	1808a11e0	DATA	48 8D 0D ? ? ? ? 48 C1 E0 06
+1803cb53b	1808a64a8	DATA	view_matrix
+1803cb542	1806d2230	DATA	client.dll
+1803cb549	1808a6180	DATA	[error] address not resolved | %s:%s | %s
+1803cb558	1808a5258	DATA	48 8D 05 ? ? ? ? 48 89 07 48 8B 7C 24 48
+1803cb566	1806ff880	DATA	generate_primitives
+1803cb56d	1806e5e98	DATA	scenesystem.dll
+1803cb586	1808a5258	DATA	48 8D 05 ? ? ? ? 48 89 07 48 8B 7C 24 48
+1803cb590	1806ff880	DATA	generate_primitives
+1803cb597	1806e5e98	DATA	scenesystem.dll
+1803cb5f4	1808a5258	DATA	48 8D 05 ? ? ? ? 48 89 07 48 8B 7C 24 48
+1803cb5fb	1806ff880	DATA	generate_primitives
+1803cb602	1806e5e98	DATA	scenesystem.dll
+1803cb609	1808a6180	DATA	[error] address not resolved | %s:%s | %s
+1803cb61b	1806e5e98	DATA	scenesystem.dll
+1803cb688	1808a6488	DATA	CAnimatableSceneObjectDesc
+1803cb694	1808a6488	DATA	CAnimatableSceneObjectDesc
+1803cb6d4	1808a6488	PARAM	CAnimatableSceneObjectDesc
+1803cb6d7	1806e5e98	DATA	scenesystem.dll
+1803cb6de	1808a6460	DATA	[error] vtable not found | %s:%s
+1803cb6ea	1806e5e98	DATA	scenesystem.dll
+1803cb75c	1808a6448	DATA	CBaseSceneObjectDesc
+1803cb76d	1808a6448	DATA	CBaseSceneObjectDesc
+1803cb786	1808a31d0	DATA	48 8B C4 48 89 50 ? 48 89 48 ? 55 53 56 57 41 54 41 55 41 56 41 57 48 8D A8 ? ? ? ? 48 81 EC ? ? ? ? 0F 29 70 ?
+1803cb78d	1808a31d0	PARAM	48 8B C4 48 89 50 ? 48 89 48 ? 55 53 56 57 41 54 41 55 41 56 41 57 48 8D A8 ? ? ? ? 48 81 EC ? ? ? ? 0F 29 70 ?
+1803cb79a	1806ff8e0	DATA	draw_scene_object_array
+1803cb7a1	1806e5e98	DATA	scenesystem.dll
+1803cb7ad	1806e5e98	DATA	scenesystem.dll
+1803cb822	1808a31d0	DATA	48 8B C4 48 89 50 ? 48 89 48 ? 55 53 56 57 41 54 41 55 41 56 41 57 48 8D A8 ? ? ? ? 48 81 EC ? ? ? ? 0F 29 70 ?
+1803cb842	1808a31d0	PARAM	48 8B C4 48 89 50 ? 48 89 48 ? 55 53 56 57 41 54 41 55 41 56 41 57 48 8D A8 ? ? ? ? 48 81 EC ? ? ? ? 0F 29 70 ?
+1803cb845	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803cb851	1806ff8e0	DATA	draw_scene_object_array
+1803cb858	1808a31d0	PARAM	48 8B C4 48 89 50 ? 48 89 48 ? 55 53 56 57 41 54 41 55 41 56 41 57 48 8D A8 ? ? ? ? 48 81 EC ? ? ? ? 0F 29 70 ?
+1803cb85b	1806e5e98	DATA	scenesystem.dll
+1803cb870	1808a6200	DATA	[error] module not found | module: %s | %s
+1803cb87d	1806ff8e0	DATA	draw_scene_object_array
+1803cb884	1806e5e98	DATA	scenesystem.dll
+1803cb899	1808a1168	DATA	45 85 C9 0F 8E ? ? ? ? 4C 8B DC
+1803cb8a0	1808a1168	PARAM	45 85 C9 0F 8E ? ? ? ? 4C 8B DC
+1803cb8ad	1806ff948	DATA	draw_skybox_array
+1803cb8b4	1806e5e98	DATA	scenesystem.dll
+1803cb8c0	1806e5e98	DATA	scenesystem.dll
+1803cb935	1808a1168	DATA	45 85 C9 0F 8E ? ? ? ? 4C 8B DC
+1803cb955	1808a1168	PARAM	45 85 C9 0F 8E ? ? ? ? 4C 8B DC
+1803cb958	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803cb964	1806ff948	DATA	draw_skybox_array
+1803cb96b	1808a1168	PARAM	45 85 C9 0F 8E ? ? ? ? 4C 8B DC
+1803cb96e	1806e5e98	DATA	scenesystem.dll
+1803cb983	1808a6200	DATA	[error] module not found | module: %s | %s
+1803cb990	1806ff948	DATA	draw_skybox_array
+1803cb997	1806e5e98	DATA	scenesystem.dll
+1803cb9a6	1808a1148	DATA	E8 ? ? ? ? 44 0F 28 5C 24 60
+1803cb9b4	1806ff930	DATA	light_scene_object
+1803cb9bb	1806e5e98	DATA	scenesystem.dll
+1803cb9f6	1808a1148	DATA	E8 ? ? ? ? 44 0F 28 5C 24 60
+1803cba01	1806ff930	DATA	light_scene_object
+1803cba0b	1806e5e98	DATA	scenesystem.dll
+1803cba24	1808a1148	DATA	E8 ? ? ? ? 44 0F 28 5C 24 60
+1803cba2b	1806ff930	DATA	light_scene_object
+1803cba32	1806e5e98	DATA	scenesystem.dll
+1803cba44	1808a1148	DATA	E8 ? ? ? ? 44 0F 28 5C 24 60
+1803cba4b	1806ff930	DATA	light_scene_object
+1803cba52	1806e5e98	DATA	scenesystem.dll
+1803cba59	1808a61b0	DATA	[error] call not resolved | %s:%s | %s
+1803cba68	1808a31b0	DATA	48 8B 05 ? ? ? ? 48 C1 E1 04
+1803cba77	1808a6430	DATA	light_data_queue
+1803cba85	1806e5e98	DATA	scenesystem.dll
+1803cbaa7	1808a31b0	DATA	48 8B 05 ? ? ? ? 48 C1 E1 04
+1803cbab1	1808a6430	DATA	light_data_queue
+1803cbab8	1806e5e98	DATA	scenesystem.dll
+1803cbaf3	1808a31b0	DATA	48 8B 05 ? ? ? ? 48 C1 E1 04
+1803cbafa	1808a6430	DATA	light_data_queue
+1803cbb01	1806e5e98	DATA	scenesystem.dll
+1803cbb08	1808a6180	DATA	[error] address not resolved | %s:%s | %s
+1803cbb14	1808a11a8	DATA	00 00 48 8B EA 48 8B F9 E8 ? ? ? ? 45 33 F6 84 C0
+1803cbb1b	1806ff828	DATA	is_glowing
+1803cbb22	1806d2230	DATA	client.dll
+1803cbb5e	1808a11a8	DATA	00 00 48 8B EA 48 8B F9 E8 ? ? ? ? 45 33 F6 84 C0
+1803cbb69	1806ff828	DATA	is_glowing
+1803cbb73	1806d2230	DATA	client.dll
+1803cbb8c	1808a11a8	DATA	00 00 48 8B EA 48 8B F9 E8 ? ? ? ? 45 33 F6 84 C0
+1803cbb93	1806ff828	DATA	is_glowing
+1803cbb9a	1806d2230	DATA	client.dll
+1803cbbac	1808a11a8	DATA	00 00 48 8B EA 48 8B F9 E8 ? ? ? ? 45 33 F6 84 C0
+1803cbbb3	1806ff828	DATA	is_glowing
+1803cbbba	1806d2230	DATA	client.dll
+1803cbbc1	1808a61b0	DATA	[error] call not resolved | %s:%s | %s
+1803cbbd0	1808a14f8	DATA	E8 ? ? ? ? F3 0F 10 BE ? ? ? ? 48 8B CF
+1803cbbde	1806ff8b8	DATA	get_glow_color
+1803cbbe5	1806d2230	DATA	client.dll
+1803cbc20	1808a14f8	DATA	E8 ? ? ? ? F3 0F 10 BE ? ? ? ? 48 8B CF
+1803cbc2b	1806ff8b8	DATA	get_glow_color
+1803cbc35	1806d2230	DATA	client.dll
+1803cbc4e	1808a14f8	DATA	E8 ? ? ? ? F3 0F 10 BE ? ? ? ? 48 8B CF
+1803cbc55	1806ff8b8	DATA	get_glow_color
+1803cbc5c	1806d2230	DATA	client.dll
+1803cbc6e	1808a14f8	DATA	E8 ? ? ? ? F3 0F 10 BE ? ? ? ? 48 8B CF
+1803cbc75	1806ff8b8	DATA	get_glow_color
+1803cbc7c	1806d2230	DATA	client.dll
+1803cbc83	1808a61b0	DATA	[error] call not resolved | %s:%s | %s
+1803cbc98	1808a14b0	DATA	48 89 5C 24 08 57 48 83 EC 20 48 8B 05 ? ? ? ? 48 8B D9 F3 0F 10 41 4C
+1803cbc9f	1808a14b0	PARAM	48 89 5C 24 08 57 48 83 EC 20 48 8B 05 ? ? ? ? 48 8B D9 F3 0F 10 41 4C
+1803cbcac	1808a6420	DATA	glow_set_type
+1803cbcb3	1806d2230	DATA	client.dll
+1803cbcbf	1806d2230	DATA	client.dll
+1803cbd34	1808a14b0	DATA	48 89 5C 24 08 57 48 83 EC 20 48 8B 05 ? ? ? ? 48 8B D9 F3 0F 10 41 4C
+1803cbd54	1808a14b0	PARAM	48 89 5C 24 08 57 48 83 EC 20 48 8B 05 ? ? ? ? 48 8B D9 F3 0F 10 41 4C
+1803cbd57	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803cbd63	1808a6420	DATA	glow_set_type
+1803cbd6a	1808a14b0	PARAM	48 89 5C 24 08 57 48 83 EC 20 48 8B 05 ? ? ? ? 48 8B D9 F3 0F 10 41 4C
+1803cbd6d	1806d2230	DATA	client.dll
+1803cbd82	1808a6200	DATA	[error] module not found | module: %s | %s
+1803cbd8f	1808a6420	DATA	glow_set_type
+1803cbd96	1806d2230	DATA	client.dll
+1803cbdab	1808a1478	DATA	40 53 48 83 EC 20 48 8B D9 48 83 C1 40 39 11
+1803cbdb2	1808a1478	PARAM	40 53 48 83 EC 20 48 8B D9 48 83 C1 40 39 11
+1803cbdbf	1808a6578	DATA	glow_set_color
+1803cbdc6	1806d2230	DATA	client.dll
+1803cbdd2	1806d2230	DATA	client.dll
+1803cbe47	1808a1478	DATA	40 53 48 83 EC 20 48 8B D9 48 83 C1 40 39 11
+1803cbe67	1808a1478	PARAM	40 53 48 83 EC 20 48 8B D9 48 83 C1 40 39 11
+1803cbe6a	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803cbe76	1808a6578	DATA	glow_set_color
+1803cbe7d	1808a1478	PARAM	40 53 48 83 EC 20 48 8B D9 48 83 C1 40 39 11
+1803cbe80	1806d2230	DATA	client.dll
+1803cbe95	1808a6200	DATA	[error] module not found | module: %s | %s
+1803cbea2	1808a6578	DATA	glow_set_color
+1803cbea9	1806d2230	DATA	client.dll
+1803cbebe	1808a1420	DATA	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 48 89 7C 24 20 41 56 48 83 EC 60 48 8B F2
+1803cbec5	1808a1420	PARAM	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 48 89 7C 24 20 41 56 48 83 EC 60 48 8B F2
+1803cbed2	1808a6568	DATA	glow_helper
+1803cbed9	1806d2230	DATA	client.dll
+1803cbee5	1806d2230	DATA	client.dll
+1803cbf5a	1808a1420	DATA	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 48 89 7C 24 20 41 56 48 83 EC 60 48 8B F2
+1803cbf7a	1808a1420	PARAM	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 48 89 7C 24 20 41 56 48 83 EC 60 48 8B F2
+1803cbf7d	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803cbf89	1808a6568	DATA	glow_helper
+1803cbf90	1808a1420	PARAM	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 48 89 7C 24 20 41 56 48 83 EC 60 48 8B F2
+1803cbf93	1806d2230	DATA	client.dll
+1803cbfa8	1808a6200	DATA	[error] module not found | module: %s | %s
+1803cbfb5	1808a6568	DATA	glow_helper
+1803cbfbc	1806d2230	DATA	client.dll
+1803cbfcb	1808a13f0	DATA	FF FF FF FF 48 8D 05 ? ? ? ? 48 89 0D ? ? ? ?
+1803cbfd9	1806ff8a8	DATA	create_move
+1803cbfe0	1806d2230	DATA	client.dll
+1803cc01b	1808a13f0	DATA	FF FF FF FF 48 8D 05 ? ? ? ? 48 89 0D ? ? ? ?
+1803cc025	1806ff8a8	DATA	create_move
+1803cc02c	1806d2230	DATA	client.dll
+1803cc068	1808a13f0	DATA	FF FF FF FF 48 8D 05 ? ? ? ? 48 89 0D ? ? ? ?
+1803cc06f	1806ff8a8	DATA	create_move
+1803cc076	1806d2230	DATA	client.dll
+1803cc088	1808a13f0	DATA	FF FF FF FF 48 8D 05 ? ? ? ? 48 89 0D ? ? ? ?
+1803cc08f	1806ff8a8	DATA	create_move
+1803cc096	1806d2230	DATA	client.dll
+1803cc09d	1808a6180	DATA	[error] address not resolved | %s:%s | %s
+1803cc0a9	1808a13c8	DATA	84 C0 74 0C 48 8D 0D ? ? ? ? E8 ? ? ? ?
+1803cc0b0	1808a6558	DATA	csgo_input
+1803cc0b7	1806d2230	DATA	client.dll
+1803cc0ef	1808a13c8	DATA	84 C0 74 0C 48 8D 0D ? ? ? ? E8 ? ? ? ?
+1803cc0f9	1808a6558	DATA	csgo_input
+1803cc100	1806d2230	DATA	client.dll
+1803cc111	1808a13c8	DATA	84 C0 74 0C 48 8D 0D ? ? ? ? E8 ? ? ? ?
+1803cc118	1808a6558	DATA	csgo_input
+1803cc11f	1806d2230	DATA	client.dll
+1803cc131	1808a13c8	DATA	84 C0 74 0C 48 8D 0D ? ? ? ? E8 ? ? ? ?
+1803cc138	1808a6558	DATA	csgo_input
+1803cc13f	1806d2230	DATA	client.dll
+1803cc146	1808a6180	DATA	[error] address not resolved | %s:%s | %s
+1803cc15b	1808a1398	DATA	40 53 48 83 EC 20 8B DA E8 ? ? ? ? 4C 8B C0
+1803cc162	1808a1398	PARAM	40 53 48 83 EC 20 8B DA E8 ? ? ? ? 4C 8B C0
+1803cc16f	1808a6548	DATA	get_usercmd
+1803cc176	1806d2230	DATA	client.dll
+1803cc182	1806d2230	DATA	client.dll
+1803cc1f7	1808a1398	DATA	40 53 48 83 EC 20 8B DA E8 ? ? ? ? 4C 8B C0
+1803cc217	1808a1398	PARAM	40 53 48 83 EC 20 8B DA E8 ? ? ? ? 4C 8B C0
+1803cc21a	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803cc226	1808a6548	DATA	get_usercmd
+1803cc22d	1808a1398	PARAM	40 53 48 83 EC 20 8B DA E8 ? ? ? ? 4C 8B C0
+1803cc230	1806d2230	DATA	client.dll
+1803cc245	1808a6200	DATA	[error] module not found | module: %s | %s
+1803cc252	1808a6548	DATA	get_usercmd
+1803cc259	1806d2230	DATA	client.dll
+1803cc26e	1808a1360	DATA	48 83 EC 28 E8 ? ? ? ? 8B 80 ? ? ? ? 48 83 C4 28 C3
+1803cc275	1808a1360	PARAM	48 83 EC 28 E8 ? ? ? ? 8B 80 ? ? ? ? 48 83 C4 28 C3
+1803cc282	1808a6530	DATA	get_usercmd_base
+1803cc289	1806d2230	DATA	client.dll
+1803cc295	1806d2230	DATA	client.dll
+1803cc316	1808a1360	DATA	48 83 EC 28 E8 ? ? ? ? 8B 80 ? ? ? ? 48 83 C4 28 C3
+1803cc336	1808a1360	PARAM	48 83 EC 28 E8 ? ? ? ? 8B 80 ? ? ? ? 48 83 C4 28 C3
+1803cc339	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803cc348	1808a6530	DATA	get_usercmd_base
+1803cc34f	1808a1360	PARAM	48 83 EC 28 E8 ? ? ? ? 8B 80 ? ? ? ? 48 83 C4 28 C3
+1803cc352	1806d2230	DATA	client.dll
+1803cc373	1808a1360	PARAM	48 83 EC 28 E8 ? ? ? ? 8B 80 ? ? ? ? 48 83 C4 28 C3
+1803cc376	1808a6530	DATA	get_usercmd_base
+1803cc37d	1806d2230	DATA	client.dll
+1803cc384	1808a61b0	DATA	[error] call not resolved | %s:%s | %s
+1803cc39a	1808a6530	DATA	get_usercmd_base
+1803cc3a1	1808a1360	PARAM	48 83 EC 28 E8 ? ? ? ? 8B 80 ? ? ? ? 48 83 C4 28 C3
+1803cc3a4	1806d2230	DATA	client.dll
+1803cc3b7	1808a6518	DATA	command sequence
+1803cc3e2	1808a6200	DATA	[error] module not found | module: %s | %s
+1803cc3ef	1808a6530	DATA	get_usercmd_base
+1803cc3f6	1806d2230	DATA	client.dll
+1803cc402	1808a1780	DATA	48 8D 0D ? ? ? ? 48 89 7C 24 28 48 89 74 24 30 48 89 6C 24 38 E8
+1803cc409	1808a6500	DATA	predicted_commands
+1803cc410	1806d2230	DATA	client.dll
+1803cc428	1808a1780	DATA	48 8D 0D ? ? ? ? 48 89 7C 24 28 48 89 74 24 30 48 89 6C 24 38 E8
+1803cc435	1808a6500	DATA	predicted_commands
+1803cc44b	1806d2230	DATA	client.dll
+1803cc45f	1806d2230	DATA	client.dll
+1803cc471	1808a1780	DATA	48 8D 0D ? ? ? ? 48 89 7C 24 28 48 89 74 24 30 48 89 6C 24 38 E8
+1803cc478	1808a6500	DATA	predicted_commands
+1803cc47f	1806d2230	DATA	client.dll
+1803cc486	1808a6180	DATA	[error] address not resolved | %s:%s | %s
+1803cc49b	1808a1740	DATA	FF D0 84 C0 0F 84 ? ? ? ? 48 8B CE E8 ? ? ? ? 4C 8B C0 44 8B 88
+1803cc4a2	1808a1740	PARAM	FF D0 84 C0 0F 84 ? ? ? ? 48 8B CE E8 ? ? ? ? 4C 8B C0 44 8B 88
+1803cc4af	1808a64e0	DATA	predicted_command_dispatch
+1803cc4b6	1806d2230	DATA	client.dll
+1803cc4c2	1806d2230	DATA	client.dll
+1803cc537	1808a1740	DATA	FF D0 84 C0 0F 84 ? ? ? ? 48 8B CE E8 ? ? ? ? 4C 8B C0 44 8B 88
+1803cc557	1808a1740	PARAM	FF D0 84 C0 0F 84 ? ? ? ? 48 8B CE E8 ? ? ? ? 4C 8B C0 44 8B 88
+1803cc55a	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803cc566	1808a64e0	DATA	predicted_command_dispatch
+1803cc56d	1808a1740	PARAM	FF D0 84 C0 0F 84 ? ? ? ? 48 8B CE E8 ? ? ? ? 4C 8B C0 44 8B 88
+1803cc570	1806d2230	DATA	client.dll
+1803cc590	1808a6200	DATA	[error] module not found | module: %s | %s
+1803cc59d	1808a64e0	DATA	predicted_command_dispatch
+1803cc5a4	1806d2230	DATA	client.dll
+1803cc5b6	1808a16c0	DATA	48 8B C4 48 89 58 08 48 89 70 10 48 89 78 18 4C 89 70 20 55 48 8D 68 B1 48 81 EC 90 00 00 00 C6 40 90 01 45 8B F1
+1803cc5bd	1808a16c0	PARAM	48 8B C4 48 89 58 08 48 89 70 10 48 89 78 18 4C 89 70 20 55 48 8D 68 B1 48 81 EC 90 00 00 00 C6 40 90 01 45 8B F1
+1803cc5c0	1806ffce0	DATA	send_predicted_command
+1803cc5ca	1806d2230	DATA	client.dll
+1803cc5d6	1806d2230	DATA	client.dll
+1803cc64b	1808a16c0	DATA	48 8B C4 48 89 58 08 48 89 70 10 48 89 78 18 4C 89 70 20 55 48 8D 68 B1 48 81 EC 90 00 00 00 C6 40 90 01 45 8B F1
+1803cc66b	1808a16c0	PARAM	48 8B C4 48 89 58 08 48 89 70 10 48 89 78 18 4C 89 70 20 55 48 8D 68 B1 48 81 EC 90 00 00 00 C6 40 90 01 45 8B F1
+1803cc66e	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803cc67a	1806ffce0	DATA	send_predicted_command
+1803cc681	1808a16c0	PARAM	48 8B C4 48 89 58 08 48 89 70 10 48 89 78 18 4C 89 70 20 55 48 8D 68 B1 48 81 EC 90 00 00 00 C6 40 90 01 45 8B F1
+1803cc684	1806d2230	DATA	client.dll
+1803cc699	1808a6200	DATA	[error] module not found | module: %s | %s
+1803cc6a6	1806ffce0	DATA	send_predicted_command
+1803cc6ad	1806d2230	DATA	client.dll
+1803cc6c8	1808a1540	DATA	48 8B 05 ? ? ? ? 44 8B 40 44
+1803cc6cf	1808a6628	DATA	global_vars
+1803cc6d6	1806d2230	DATA	client.dll
+1803cc6ee	1808a1540	DATA	48 8B 05 ? ? ? ? 44 8B 40 44
+1803cc6fb	1808a6628	DATA	global_vars
+1803cc711	1806d2230	DATA	client.dll
+1803cc725	1806d2230	DATA	client.dll
+1803cc737	1808a1540	DATA	48 8B 05 ? ? ? ? 44 8B 40 44
+1803cc73e	1808a6628	DATA	global_vars
+1803cc745	1806d2230	DATA	client.dll
+1803cc74c	1808a6180	DATA	[error] address not resolved | %s:%s | %s
+1803cc75b	1808a1520	DATA	48 8B 0D ? ? ? ? 33 D2 8B 5B 38
+1803cc769	1808a6610	DATA	prediction_state
+1803cc770	1806d2230	DATA	client.dll
+1803cc788	1808a1520	DATA	48 8B 0D ? ? ? ? 33 D2 8B 5B 38
+1803cc795	1808a6610	DATA	prediction_state
+1803cc7ab	1806d2230	DATA	client.dll
+1803cc7bf	1806d2230	DATA	client.dll
+1803cc7d1	1808a1520	DATA	48 8B 0D ? ? ? ? 33 D2 8B 5B 38
+1803cc7d8	1808a6610	DATA	prediction_state
+1803cc7df	1806d2230	DATA	client.dll
+1803cc7e6	1808a6180	DATA	[error] address not resolved | %s:%s | %s
+1803cc7f5	1808a19e8	DATA	8B 3D ? ? ? ? 48 8B 03 48 8B CB
+1803cc803	1808a6600	DATA	prediction_seed
+1803cc80a	1806d2230	DATA	client.dll
+1803cc822	1808a19e8	DATA	8B 3D ? ? ? ? 48 8B 03 48 8B CB
+1803cc82f	1808a6600	DATA	prediction_seed
+1803cc845	1806d2230	DATA	client.dll
+1803cc859	1806d2230	DATA	client.dll
+1803cc86b	1808a19e8	DATA	8B 3D ? ? ? ? 48 8B 03 48 8B CB
+1803cc872	1808a6600	DATA	prediction_seed
+1803cc879	1806d2230	DATA	client.dll
+1803cc880	1808a6180	DATA	[error] address not resolved | %s:%s | %s
+1803cc88f	1808a19c8	DATA	4C 39 0D ? ? ? ? 41 0F 94 C7
+1803cc89d	1808a65e8	DATA	simulation_player
+1803cc8a4	1806d2230	DATA	client.dll
+1803cc8bc	1808a19c8	DATA	4C 39 0D ? ? ? ? 41 0F 94 C7
+1803cc8c9	1808a65e8	DATA	simulation_player
+1803cc8df	1806d2230	DATA	client.dll
+1803cc8f3	1806d2230	DATA	client.dll
+1803cc905	1808a19c8	DATA	4C 39 0D ? ? ? ? 41 0F 94 C7
+1803cc90c	1808a65e8	DATA	simulation_player
+1803cc913	1806d2230	DATA	client.dll
+1803cc91a	1808a6180	DATA	[error] address not resolved | %s:%s | %s
+1803cc929	1808a1998	DATA	48 89 05 ? ? ? ? 48 8D 15 ? ? ? ? 83 FD 03
+1803cc937	1808a65d0	DATA	prediction_player
+1803cc93e	1806d2230	DATA	client.dll
+1803cc956	1808a1998	DATA	48 89 05 ? ? ? ? 48 8D 15 ? ? ? ? 83 FD 03
+1803cc963	1808a65d0	DATA	prediction_player
+1803cc979	1806d2230	DATA	client.dll
+1803cc98d	1806d2230	DATA	client.dll
+1803cc99f	1808a1998	DATA	48 89 05 ? ? ? ? 48 8D 15 ? ? ? ? 83 FD 03
+1803cc9a6	1808a65d0	DATA	prediction_player
+1803cc9ad	1806d2230	DATA	client.dll
+1803cc9b4	1808a6180	DATA	[error] address not resolved | %s:%s | %s
+1803cc9c9	1808a1940	DATA	8B 81 ? ? ? ? 84 D2 74 ? FF C0 89 81 ? ? ? ? C3 83 E8 01 89 81 ? ? ? ? 75 ? 80 B9
+1803cc9d0	1808a1940	PARAM	8B 81 ? ? ? ? 84 D2 74 ? FF C0 89 81 ? ? ? ? C3 83 E8 01 89 81 ? ? ? ? 75 ? 80 B9
+1803cc9dd	1808a65b8	DATA	prediction_set_state
+1803cc9e4	1806d2230	DATA	client.dll
+1803cc9f0	1806d2230	DATA	client.dll
+1803cca65	1808a1940	DATA	8B 81 ? ? ? ? 84 D2 74 ? FF C0 89 81 ? ? ? ? C3 83 E8 01 89 81 ? ? ? ? 75 ? 80 B9
+1803cca85	1808a1940	PARAM	8B 81 ? ? ? ? 84 D2 74 ? FF C0 89 81 ? ? ? ? C3 83 E8 01 89 81 ? ? ? ? 75 ? 80 B9
+1803cca88	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803cca94	1808a65b8	DATA	prediction_set_state
+1803cca9b	1808a1940	PARAM	8B 81 ? ? ? ? 84 D2 74 ? FF C0 89 81 ? ? ? ? C3 83 E8 01 89 81 ? ? ? ? 75 ? 80 B9
+1803cca9e	1806d2230	DATA	client.dll
+1803ccab3	1808a6200	DATA	[error] module not found | module: %s | %s
+1803ccac0	1808a65b8	DATA	prediction_set_state
+1803ccac7	1806d2230	DATA	client.dll
+1803ccadc	1808a18e0	DATA	48 89 5C 24 ? 57 48 83 EC 20 48 C7 01 00 00 00 00 48 8B FA 48 8B D9 48 85 D2 74 ? 48 8B 02
+1803ccae3	1808a18e0	PARAM	48 89 5C 24 ? 57 48 83 EC 20 48 C7 01 00 00 00 00 48 8B FA 48 8B D9 48 85 D2 74 ? 48 8B 02
+1803ccaf0	1808a65a0	DATA	prediction_set_pawn
+1803ccaf7	1806d2230	DATA	client.dll
+1803ccb03	1806d2230	DATA	client.dll
+1803ccb78	1808a18e0	DATA	48 89 5C 24 ? 57 48 83 EC 20 48 C7 01 00 00 00 00 48 8B FA 48 8B D9 48 85 D2 74 ? 48 8B 02
+1803ccb98	1808a18e0	PARAM	48 89 5C 24 ? 57 48 83 EC 20 48 C7 01 00 00 00 00 48 8B FA 48 8B D9 48 85 D2 74 ? 48 8B 02
+1803ccb9b	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803ccba7	1808a65a0	DATA	prediction_set_pawn
+1803ccbae	1808a18e0	PARAM	48 89 5C 24 ? 57 48 83 EC 20 48 C7 01 00 00 00 00 48 8B FA 48 8B D9 48 85 D2 74 ? 48 8B 02
+1803ccbb1	1806d2230	DATA	client.dll
+1803ccbc6	1808a6200	DATA	[error] module not found | module: %s | %s
+1803ccbd3	1808a65a0	DATA	prediction_set_pawn
+1803ccbda	1806d2230	DATA	client.dll
+1803ccbef	1808a1c60	DATA	48 8B 11 48 85 D2 74 ? 80 6A ? ? 75 ? 48 8B 05 ? ? ? ? 8B 40 44 89 42 18
+1803ccbf6	1808a1c60	PARAM	48 8B 11 48 85 D2 74 ? 80 6A ? ? 75 ? 48 8B 05 ? ? ? ? 8B 40 44 89 42 18
+1803ccc03	1808a6588	DATA	prediction_reset_pawn
+1803ccc0a	1806d2230	DATA	client.dll
+1803ccc16	1806d2230	DATA	client.dll
+1803ccc8b	1808a1c60	DATA	48 8B 11 48 85 D2 74 ? 80 6A ? ? 75 ? 48 8B 05 ? ? ? ? 8B 40 44 89 42 18
+1803cccab	1808a1c60	PARAM	48 8B 11 48 85 D2 74 ? 80 6A ? ? 75 ? 48 8B 05 ? ? ? ? 8B 40 44 89 42 18
+1803cccae	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803cccba	1808a6588	DATA	prediction_reset_pawn
+1803cccc1	1808a1c60	PARAM	48 8B 11 48 85 D2 74 ? 80 6A ? ? 75 ? 48 8B 05 ? ? ? ? 8B 40 44 89 42 18
+1803cccc4	1806d2230	DATA	client.dll
+1803cccd9	1808a6200	DATA	[error] module not found | module: %s | %s
+1803ccce6	1808a6588	DATA	prediction_reset_pawn
+1803ccced	1806d2230	DATA	client.dll
+1803cccfc	1808a18a8	DATA	45 8B 40 44 E8 ? ? ? ? 48 8B 07 4D 8B C6
+1803ccd0a	1808a66e0	DATA	prediction_setup_move
+1803ccd11	1806d2230	DATA	client.dll
+1803ccd4d	1808a18a8	DATA	45 8B 40 44 E8 ? ? ? ? 48 8B 07 4D 8B C6
+1803ccd58	1808a66e0	DATA	prediction_setup_move
+1803ccd62	1806d2230	DATA	client.dll
+1803ccd7b	1808a18a8	DATA	45 8B 40 44 E8 ? ? ? ? 48 8B 07 4D 8B C6
+1803ccd82	1808a66e0	DATA	prediction_setup_move
+1803ccd89	1806d2230	DATA	client.dll
+1803ccd9b	1808a18a8	DATA	45 8B 40 44 E8 ? ? ? ? 48 8B 07 4D 8B C6
+1803ccda2	1808a66e0	DATA	prediction_setup_move
+1803ccda9	1806d2230	DATA	client.dll
+1803ccdb0	1808a61b0	DATA	[error] call not resolved | %s:%s | %s
+1803ccdbf	1808a1868	DATA	45 0F B6 CC 4D 8B C6 49 8B D5 48 8B CF 48 8B D8 E8 ? ? ? ?
+1803ccdcd	1808a66c0	DATA	prediction_process_movement
+1803ccdd4	1806d2230	DATA	client.dll
+1803cce10	1808a1868	DATA	45 0F B6 CC 4D 8B C6 49 8B D5 48 8B CF 48 8B D8 E8 ? ? ? ?
+1803cce1b	1808a66c0	DATA	prediction_process_movement
+1803cce25	1806d2230	DATA	client.dll
+1803cce3e	1808a1868	DATA	45 0F B6 CC 4D 8B C6 49 8B D5 48 8B CF 48 8B D8 E8 ? ? ? ?
+1803cce45	1808a66c0	DATA	prediction_process_movement
+1803cce4c	1806d2230	DATA	client.dll
+1803cce5e	1808a1868	DATA	45 0F B6 CC 4D 8B C6 49 8B D5 48 8B CF 48 8B D8 E8 ? ? ? ?
+1803cce65	1808a66c0	DATA	prediction_process_movement
+1803cce6c	1806d2230	DATA	client.dll
+1803cce73	1808a61b0	DATA	[error] call not resolved | %s:%s | %s
+1803cce82	1808a1838	DATA	E8 ? ? ? ? 48 8B 87 98 01 00 00 48 8D 9F
+1803cce90	1808a66a8	DATA	prediction_finish_move
+1803cce97	1806d2230	DATA	client.dll
+1803cced2	1808a1838	DATA	E8 ? ? ? ? 48 8B 87 98 01 00 00 48 8D 9F
+1803ccedd	1808a66a8	DATA	prediction_finish_move
+1803ccee7	1806d2230	DATA	client.dll
+1803ccf00	1808a1838	DATA	E8 ? ? ? ? 48 8B 87 98 01 00 00 48 8D 9F
+1803ccf07	1808a66a8	DATA	prediction_finish_move
+1803ccf0e	1806d2230	DATA	client.dll
+1803ccf20	1808a1838	DATA	E8 ? ? ? ? 48 8B 87 98 01 00 00 48 8D 9F
+1803ccf27	1808a66a8	DATA	prediction_finish_move
+1803ccf2e	1806d2230	DATA	client.dll
+1803ccf35	1808a61b0	DATA	[error] call not resolved | %s:%s | %s
+1803ccf4a	1808a1c00	DATA	40 53 48 83 EC 20 48 8B 05 ? ? ? ? 48 8B D9 48 85 C0 74 ? 48 89 5C 24 38 48 8D 88
+1803ccf51	1808a1c00	PARAM	40 53 48 83 EC 20 48 8B 05 ? ? ? ? 48 8B D9 48 85 C0 74 ? 48 89 5C 24 38 48 8D 88
+1803ccf5e	1808a6690	DATA	find_hud_element
+1803ccf65	1806d2230	DATA	client.dll
+1803ccf71	1806d2230	DATA	client.dll
+1803ccfe6	1808a1c00	DATA	40 53 48 83 EC 20 48 8B 05 ? ? ? ? 48 8B D9 48 85 C0 74 ? 48 89 5C 24 38 48 8D 88
+1803cd006	1808a1c00	PARAM	40 53 48 83 EC 20 48 8B 05 ? ? ? ? 48 8B D9 48 85 C0 74 ? 48 89 5C 24 38 48 8D 88
+1803cd009	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803cd015	1808a6690	DATA	find_hud_element
+1803cd01c	1808a1c00	PARAM	40 53 48 83 EC 20 48 8B 05 ? ? ? ? 48 8B D9 48 85 C0 74 ? 48 89 5C 24 38 48 8D 88
+1803cd01f	1806d2230	DATA	client.dll
+1803cd034	1808a6200	DATA	[error] module not found | module: %s | %s
+1803cd041	1808a6690	DATA	find_hud_element
+1803cd048	1806d2230	DATA	client.dll
+1803cd057	1808a1bd8	DATA	48 8B 05 ? ? ? ? 48 85 C0 74 71
+1803cd06c	1806d2230	DATA	client.dll
+1803cd084	1808a1bd8	DATA	48 8B 05 ? ? ? ? 48 85 C0 74 71
+1803cd0a7	1806d2230	DATA	client.dll
+1803cd0bb	1806d2230	DATA	client.dll
+1803cd0cd	1808a1bd8	DATA	48 8B 05 ? ? ? ? 48 85 C0 74 71
+1803cd0db	1806d2230	DATA	client.dll
+1803cd0e2	1808a6180	DATA	[error] address not resolved | %s:%s | %s
+1803cd0f1	1808a1b50	DATA	48 8B 05 ? ? ? ? EB 07 48 8B 05 ? ? ? ? 48 85 C0
+1803cd0ff	1806f2960	DATA	main_menu
+1803cd106	1806d2230	DATA	client.dll
+1803cd11e	1808a1b50	DATA	48 8B 05 ? ? ? ? EB 07 48 8B 05 ? ? ? ? 48 85 C0
+1803cd12b	1806f2960	DATA	main_menu
+1803cd141	1806d2230	DATA	client.dll
+1803cd155	1806d2230	DATA	client.dll
+1803cd167	1808a1b50	DATA	48 8B 05 ? ? ? ? EB 07 48 8B 05 ? ? ? ? 48 85 C0
+1803cd16e	1806f2960	DATA	main_menu
+1803cd175	1806d2230	DATA	client.dll
+1803cd17c	1808a6180	DATA	[error] address not resolved | %s:%s | %s
+1803cd18b	1808a1b90	DATA	48 89 3D ? ? ? ? 48 8B 4F 08 48 8B 01 FF 50 78 48 8B 4F 08 48 8D 15
+1803cd199	1808a6680	DATA	global_popups
+1803cd1a0	1806d2230	DATA	client.dll
+1803cd1b8	1808a1b90	DATA	48 89 3D ? ? ? ? 48 8B 4F 08 48 8B 01 FF 50 78 48 8B 4F 08 48 8D 15
+1803cd1c5	1808a6680	DATA	global_popups
+1803cd1db	1806d2230	DATA	client.dll
+1803cd1ef	1806d2230	DATA	client.dll
+1803cd201	1808a1b90	DATA	48 89 3D ? ? ? ? 48 8B 4F 08 48 8B 01 FF 50 78 48 8B 4F 08 48 8D 15
+1803cd208	1808a6680	DATA	global_popups
+1803cd20f	1806d2230	DATA	client.dll
+1803cd216	1808a6180	DATA	[error] address not resolved | %s:%s | %s
+1803cd22b	1808a1af0	DATA	48 8B C4 48 89 58 08 57 48 81 EC ? ? ? ? F3 0F 10 84 24 ? ? ? ? 48 8B D9 48 8B 49 08 48 8B FA
+1803cd232	1808a1af0	PARAM	48 8B C4 48 89 58 08 57 48 81 EC ? ? ? ? F3 0F 10 84 24 ? ? ? ? 48 8B D9 48 8B 49 08 48 8B FA
+1803cd23f	1806ffc70	DATA	panel_position
+1803cd246	1806d2230	DATA	client.dll
+1803cd252	1806d2230	DATA	client.dll
+1803cd2c7	1808a1af0	DATA	48 8B C4 48 89 58 08 57 48 81 EC ? ? ? ? F3 0F 10 84 24 ? ? ? ? 48 8B D9 48 8B 49 08 48 8B FA
+1803cd2e7	1808a1af0	PARAM	48 8B C4 48 89 58 08 57 48 81 EC ? ? ? ? F3 0F 10 84 24 ? ? ? ? 48 8B D9 48 8B 49 08 48 8B FA
+1803cd2ea	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803cd2f6	1806ffc70	DATA	panel_position
+1803cd2fd	1808a1af0	PARAM	48 8B C4 48 89 58 08 57 48 81 EC ? ? ? ? F3 0F 10 84 24 ? ? ? ? 48 8B D9 48 8B 49 08 48 8B FA
+1803cd300	1806d2230	DATA	client.dll
+1803cd315	1808a6200	DATA	[error] module not found | module: %s | %s
+1803cd322	1806ffc70	DATA	panel_position
+1803cd329	1806d2230	DATA	client.dll
+1803cd33e	1808a1a50	DATA	48 89 5C 24 ? 48 89 6C 24 ? 48 89 74 24 ? 57 48 83 EC ? F3 0F 10 0D ? ? ? ? 48 8B F1 0F 28 D1 48 8D 4C 24 ? 49 8B E8 48 8B FA E8 ? ? ? ? 48 63 86
+1803cd345	1808a1a50	PARAM	48 89 5C 24 ? 48 89 6C 24 ? 48 89 74 24 ? 57 48 83 EC ? F3 0F 10 0D ? ? ? ? 48 8B F1 0F 28 D1 48 8D 4C 24 ? 49 8B E8 48 8B FA E8 ? ? ? ? 48 63 86
+1803cd352	1808a6668	DATA	panel_bone_position
+1803cd359	1806d2230	DATA	client.dll
+1803cd365	1806d2230	DATA	client.dll
+1803cd3da	1808a1a50	DATA	48 89 5C 24 ? 48 89 6C 24 ? 48 89 74 24 ? 57 48 83 EC ? F3 0F 10 0D ? ? ? ? 48 8B F1 0F 28 D1 48 8D 4C 24 ? 49 8B E8 48 8B FA E8 ? ? ? ? 48 63 86
+1803cd3fa	1808a1a50	PARAM	48 89 5C 24 ? 48 89 6C 24 ? 48 89 74 24 ? 57 48 83 EC ? F3 0F 10 0D ? ? ? ? 48 8B F1 0F 28 D1 48 8D 4C 24 ? 49 8B E8 48 8B FA E8 ? ? ? ? 48 63 86
+1803cd3fd	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803cd409	1808a6668	DATA	panel_bone_position
+1803cd410	1808a1a50	PARAM	48 89 5C 24 ? 48 89 6C 24 ? 48 89 74 24 ? 57 48 83 EC ? F3 0F 10 0D ? ? ? ? 48 8B F1 0F 28 D1 48 8D 4C 24 ? 49 8B E8 48 8B FA E8 ? ? ? ? 48 63 86
+1803cd413	1806d2230	DATA	client.dll
+1803cd428	1808a6200	DATA	[error] module not found | module: %s | %s
+1803cd435	1808a6668	DATA	panel_bone_position
+1803cd43c	1806d2230	DATA	client.dll
+1803cd44b	1808a1a10	DATA	E8 ? ? ? ? 48 8B D7 48 8B C8 4C 8B 00 41 FF 90 ? ? ? ? 48 8B CF
+1803cd459	1808a6650	DATA	inventory_manager
+1803cd460	1806d2230	DATA	client.dll
+1803cd49b	1808a1a10	DATA	E8 ? ? ? ? 48 8B D7 48 8B C8 4C 8B 00 41 FF 90 ? ? ? ? 48 8B CF
+1803cd4a6	1808a6650	DATA	inventory_manager
+1803cd4b0	1806d2230	DATA	client.dll
+1803cd4c9	1808a1a10	DATA	E8 ? ? ? ? 48 8B D7 48 8B C8 4C 8B 00 41 FF 90 ? ? ? ? 48 8B CF
+1803cd4d0	1808a6650	DATA	inventory_manager
+1803cd4d7	1806d2230	DATA	client.dll
+1803cd4e9	1808a1a10	DATA	E8 ? ? ? ? 48 8B D7 48 8B C8 4C 8B 00 41 FF 90 ? ? ? ? 48 8B CF
+1803cd4f0	1808a6650	DATA	inventory_manager
+1803cd4f7	1806d2230	DATA	client.dll
+1803cd4fe	1808a61b0	DATA	[error] call not resolved | %s:%s | %s
+1803cd513	1808a1e80	DATA	48 89 5C 24 ? 48 89 6C 24 ? 48 89 74 24 ? 57 41 54 41 55 41 56 41 57 48 83 EC ? 0F B7 FA 4C 8B F9 B9 FD FF 00 00 41 0F B6 E9
+1803cd51a	1808a1e80	PARAM	48 89 5C 24 ? 48 89 6C 24 ? 48 89 74 24 ? 57 41 54 41 55 41 56 41 57 48 83 EC ? 0F B7 FA 4C 8B F9 B9 FD FF 00 00 41 0F B6 E9
+1803cd527	1808a6638	DATA	create_reference_item
+1803cd52e	1806d2230	DATA	client.dll
+1803cd53a	1806d2230	DATA	client.dll
+1803cd5af	1808a1e80	DATA	48 89 5C 24 ? 48 89 6C 24 ? 48 89 74 24 ? 57 41 54 41 55 41 56 41 57 48 83 EC ? 0F B7 FA 4C 8B F9 B9 FD FF 00 00 41 0F B6 E9
+1803cd5cf	1808a1e80	PARAM	48 89 5C 24 ? 48 89 6C 24 ? 48 89 74 24 ? 57 41 54 41 55 41 56 41 57 48 83 EC ? 0F B7 FA 4C 8B F9 B9 FD FF 00 00 41 0F B6 E9
+1803cd5d2	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803cd5de	1808a6638	DATA	create_reference_item
+1803cd5e5	1808a1e80	PARAM	48 89 5C 24 ? 48 89 6C 24 ? 48 89 74 24 ? 57 41 54 41 55 41 56 41 57 48 83 EC ? 0F B7 FA 4C 8B F9 B9 FD FF 00 00 41 0F B6 E9
+1803cd5e8	1806d2230	DATA	client.dll
+1803cd5fd	1808a6200	DATA	[error] module not found | module: %s | %s
+1803cd60a	1808a6638	DATA	create_reference_item
+1803cd611	1806d2230	DATA	client.dll
+1803cd626	1808a1e20	DATA	48 89 4C 24 ? 55 53 56 57 41 54 41 55 41 56 41 57 48 8B EC 48 83 EC ? 48 63 05 ? ? ? ? 4C 8B E1
+1803cd62d	1808a1e20	PARAM	48 89 4C 24 ? 55 53 56 57 41 54 41 55 41 56 41 57 48 8B EC 48 83 EC ? 48 63 05 ? ? ? ? 4C 8B E1
+1803cd63a	1808a6780	DATA	register_preview_item
+1803cd641	1806d2230	DATA	client.dll
+1803cd64d	1806d2230	DATA	client.dll
+1803cd6c2	1808a1e20	DATA	48 89 4C 24 ? 55 53 56 57 41 54 41 55 41 56 41 57 48 8B EC 48 83 EC ? 48 63 05 ? ? ? ? 4C 8B E1
+1803cd6e2	1808a1e20	PARAM	48 89 4C 24 ? 55 53 56 57 41 54 41 55 41 56 41 57 48 8B EC 48 83 EC ? 48 63 05 ? ? ? ? 4C 8B E1
+1803cd6e5	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803cd6f1	1808a6780	DATA	register_preview_item
+1803cd6f8	1808a1e20	PARAM	48 89 4C 24 ? 55 53 56 57 41 54 41 55 41 56 41 57 48 8B EC 48 83 EC ? 48 63 05 ? ? ? ? 4C 8B E1
+1803cd6fb	1806d2230	DATA	client.dll
+1803cd710	1808a6200	DATA	[error] module not found | module: %s | %s
+1803cd71d	1808a6780	DATA	register_preview_item
+1803cd724	1806d2230	DATA	client.dll
+1803cd739	1808a1dc0	DATA	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 48 89 7C 24 20 41 56 48 81 EC 00 01 00 00 48 8B F9
+1803cd740	1808a1dc0	PARAM	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 48 89 7C 24 20 41 56 48 81 EC 00 01 00 00 48 8B F9
+1803cd74d	1808a6768	DATA	chicken_update_model
+1803cd754	1806d2230	DATA	client.dll
+1803cd760	1806d2230	DATA	client.dll
+1803cd7d5	1808a1dc0	DATA	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 48 89 7C 24 20 41 56 48 81 EC 00 01 00 00 48 8B F9
+1803cd7f5	1808a1dc0	PARAM	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 48 89 7C 24 20 41 56 48 81 EC 00 01 00 00 48 8B F9
+1803cd7f8	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803cd804	1808a6768	DATA	chicken_update_model
+1803cd80b	1808a1dc0	PARAM	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 48 89 7C 24 20 41 56 48 81 EC 00 01 00 00 48 8B F9
+1803cd80e	1806d2230	DATA	client.dll
+1803cd823	1808a6200	DATA	[error] module not found | module: %s | %s
+1803cd830	1808a6768	DATA	chicken_update_model
+1803cd837	1806d2230	DATA	client.dll
+1803cd84c	1808a1d90	DATA	40 53 55 48 83 EC 28 65 48 8B 04 25 58 00 00 00
+1803cd853	1808a1d90	PARAM	40 53 55 48 83 EC 28 65 48 8B 04 25 58 00 00 00
+1803cd860	1806ffab0	DATA	pet_item_id
+1803cd867	1806d2230	DATA	client.dll
+1803cd873	1806d2230	DATA	client.dll
+1803cd8e8	1808a1d90	DATA	40 53 55 48 83 EC 28 65 48 8B 04 25 58 00 00 00
+1803cd908	1808a1d90	PARAM	40 53 55 48 83 EC 28 65 48 8B 04 25 58 00 00 00
+1803cd90b	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803cd917	1806ffab0	DATA	pet_item_id
+1803cd91e	1808a1d90	PARAM	40 53 55 48 83 EC 28 65 48 8B 04 25 58 00 00 00
+1803cd921	1806d2230	DATA	client.dll
+1803cd936	1808a6200	DATA	[error] module not found | module: %s | %s
+1803cd943	1806ffab0	DATA	pet_item_id
+1803cd94a	1806d2230	DATA	client.dll
+1803cd95f	1808a1d50	DATA	40 53 48 83 EC 20 48 8B D9 48 8B 0D ? ? ? ? 48 85 C9 74 0D
+1803cd966	1808a1d50	PARAM	40 53 48 83 EC 20 48 8B D9 48 8B 0D ? ? ? ? 48 85 C9 74 0D
+1803cd973	1806ffaf0	DATA	find_item_view
+1803cd97a	1806d2230	DATA	client.dll
+1803cd986	1806d2230	DATA	client.dll
+1803cd9fb	1808a1d50	DATA	40 53 48 83 EC 20 48 8B D9 48 8B 0D ? ? ? ? 48 85 C9 74 0D
+1803cda1b	1808a1d50	PARAM	40 53 48 83 EC 20 48 8B D9 48 8B 0D ? ? ? ? 48 85 C9 74 0D
+1803cda1e	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803cda2a	1806ffaf0	DATA	find_item_view
+1803cda31	1808a1d50	PARAM	40 53 48 83 EC 20 48 8B D9 48 8B 0D ? ? ? ? 48 85 C9 74 0D
+1803cda34	1806d2230	DATA	client.dll
+1803cda49	1808a6200	DATA	[error] module not found | module: %s | %s
+1803cda56	1806ffaf0	DATA	find_item_view
+1803cda5d	1806d2230	DATA	client.dll
+1803cda72	1808a1d18	DATA	40 53 48 83 EC 20 48 8B D9 E8 ? ? ? ? 48 85 C0 74 7C
+1803cda79	1808a1d18	PARAM	40 53 48 83 EC 20 48 8B D9 E8 ? ? ? ? 48 85 C0 74 7C
+1803cda86	1808a6758	DATA	pet_growth
+1803cda8d	1806d2230	DATA	client.dll
+1803cda99	1806d2230	DATA	client.dll
+1803cdb0e	1808a1d18	DATA	40 53 48 83 EC 20 48 8B D9 E8 ? ? ? ? 48 85 C0 74 7C
+1803cdb2e	1808a1d18	PARAM	40 53 48 83 EC 20 48 8B D9 E8 ? ? ? ? 48 85 C0 74 7C
+1803cdb31	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803cdb3d	1808a6758	DATA	pet_growth
+1803cdb44	1808a1d18	PARAM	40 53 48 83 EC 20 48 8B D9 E8 ? ? ? ? 48 85 C0 74 7C
+1803cdb47	1806d2230	DATA	client.dll
+1803cdb5c	1808a6200	DATA	[error] module not found | module: %s | %s
+1803cdb69	1808a6758	DATA	pet_growth
+1803cdb70	1806d2230	DATA	client.dll
+1803cdb85	1808a1ce0	DATA	40 55 56 48 83 EC 48 48 8B E9 C7 44 24 20 6F 12 83 3A
+1803cdb8c	1808a1ce0	PARAM	40 55 56 48 83 EC 48 48 8B E9 C7 44 24 20 6F 12 83 3A
+1803cdb99	1808a6748	DATA	pet_feed
+1803cdba0	1806d2230	DATA	client.dll
+1803cdbac	1806d2230	DATA	client.dll
+1803cdc21	1808a1ce0	DATA	40 55 56 48 83 EC 48 48 8B E9 C7 44 24 20 6F 12 83 3A
+1803cdc41	1808a1ce0	PARAM	40 55 56 48 83 EC 48 48 8B E9 C7 44 24 20 6F 12 83 3A
+1803cdc44	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803cdc50	1808a6748	DATA	pet_feed
+1803cdc57	1808a1ce0	PARAM	40 55 56 48 83 EC 48 48 8B E9 C7 44 24 20 6F 12 83 3A
+1803cdc5a	1806d2230	DATA	client.dll
+1803cdc6f	1808a6200	DATA	[error] module not found | module: %s | %s
+1803cdc7c	1808a6748	DATA	pet_feed
+1803cdc83	1806d2230	DATA	client.dll
+1803cdc98	1808a1cb0	DATA	40 53 55 57 48 83 EC 40 48 8B E9 E8 ? ? ? ?
+1803cdc9f	1808a1cb0	PARAM	40 53 55 57 48 83 EC 40 48 8B E9 E8 ? ? ? ?
+1803cdcac	1808a6738	DATA	pet_lifetime
+1803cdcb3	1806d2230	DATA	client.dll
+1803cdcbf	1806d2230	DATA	client.dll
+1803cdd34	1808a1cb0	DATA	40 53 55 57 48 83 EC 40 48 8B E9 E8 ? ? ? ?
+1803cdd54	1808a1cb0	PARAM	40 53 55 57 48 83 EC 40 48 8B E9 E8 ? ? ? ?
+1803cdd57	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803cdd63	1808a6738	DATA	pet_lifetime
+1803cdd6a	1808a1cb0	PARAM	40 53 55 57 48 83 EC 40 48 8B E9 E8 ? ? ? ?
+1803cdd6d	1806d2230	DATA	client.dll
+1803cdd82	1808a6200	DATA	[error] module not found | module: %s | %s
+1803cdd8f	1808a6738	DATA	pet_lifetime
+1803cdd96	1806d2230	DATA	client.dll
+1803cddab	1808a2150	DATA	48 89 5C 24 08 57 48 83 EC 20 48 8B F9 E8 ? ? ? ? 48 8B C8
+1803cddb2	1808a2150	PARAM	48 89 5C 24 08 57 48 83 EC 20 48 8B F9 E8 ? ? ? ? 48 8B C8
+1803cddbf	1808a6728	DATA	pet_low_food
+1803cddc6	1806d2230	DATA	client.dll
+1803cddd2	1806d2230	DATA	client.dll
+1803cde47	1808a2150	DATA	48 89 5C 24 08 57 48 83 EC 20 48 8B F9 E8 ? ? ? ? 48 8B C8
+1803cde67	1808a2150	PARAM	48 89 5C 24 08 57 48 83 EC 20 48 8B F9 E8 ? ? ? ? 48 8B C8
+1803cde6a	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803cde76	1808a6728	DATA	pet_low_food
+1803cde7d	1808a2150	PARAM	48 89 5C 24 08 57 48 83 EC 20 48 8B F9 E8 ? ? ? ? 48 8B C8
+1803cde80	1806d2230	DATA	client.dll
+1803cde95	1808a6200	DATA	[error] module not found | module: %s | %s
+1803cdea2	1808a6728	DATA	pet_low_food
+1803cdea9	1806d2230	DATA	client.dll
+1803cdebe	1808a2eb0	DATA	40 53 48 83 EC 40 48 8B D9 48 85 C9 0F 84 ? ? ? ? 80 B9 E8 01 00 00 00
+1803cdec5	1808a2eb0	PARAM	40 53 48 83 EC 40 48 8B D9 48 85 C9 0F 84 ? ? ? ? 80 B9 E8 01 00 00 00
+1803cded2	1808a6710	DATA	pet_upgrade_level
+1803cded9	1806d2230	DATA	client.dll
+1803cdee5	1806d2230	DATA	client.dll
+1803cdf5a	1808a2eb0	DATA	40 53 48 83 EC 40 48 8B D9 48 85 C9 0F 84 ? ? ? ? 80 B9 E8 01 00 00 00
+1803cdf7a	1808a2eb0	PARAM	40 53 48 83 EC 40 48 8B D9 48 85 C9 0F 84 ? ? ? ? 80 B9 E8 01 00 00 00
+1803cdf7d	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803cdf89	1808a6710	DATA	pet_upgrade_level
+1803cdf90	1808a2eb0	PARAM	40 53 48 83 EC 40 48 8B D9 48 85 C9 0F 84 ? ? ? ? 80 B9 E8 01 00 00 00
+1803cdf93	1806d2230	DATA	client.dll
+1803cdfa8	1808a6200	DATA	[error] module not found | module: %s | %s
+1803cdfb5	1808a6710	DATA	pet_upgrade_level
+1803cdfbc	1806d2230	DATA	client.dll
+1803cdfd1	1808a2120	DATA	48 8B C4 55 57 48 83 EC 68 80 BA E8 01 00 00 00
+1803cdfd8	1808a2120	PARAM	48 8B C4 55 57 48 83 EC 68 80 BA E8 01 00 00 00
+1803cdfe5	1808a66f8	DATA	chicken_apply_look
+1803cdfec	1806d2230	DATA	client.dll
+1803cdff8	1806d2230	DATA	client.dll
+1803ce06d	1808a2120	DATA	48 8B C4 55 57 48 83 EC 68 80 BA E8 01 00 00 00
+1803ce08d	1808a2120	PARAM	48 8B C4 55 57 48 83 EC 68 80 BA E8 01 00 00 00
+1803ce090	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803ce09c	1808a66f8	DATA	chicken_apply_look
+1803ce0a3	1808a2120	PARAM	48 8B C4 55 57 48 83 EC 68 80 BA E8 01 00 00 00
+1803ce0a6	1806d2230	DATA	client.dll
+1803ce0bb	1808a6200	DATA	[error] module not found | module: %s | %s
+1803ce0c8	1808a66f8	DATA	chicken_apply_look
+1803ce0cf	1806d2230	DATA	client.dll
+1803ce0de	1808a20e8	DATA	48 8B C4 55 41 56 48 8D 68 98 48 81 EC 58 01 00 00
+1803ce0ec	1808a6800	DATA	spawn_entity_system
+1803ce0f3	1806d2230	DATA	client.dll
+1803ce12b	1808a6800	DATA	spawn_entity_system
+1803ce135	1808a20e8	DATA	48 8B C4 55 41 56 48 8D 68 98 48 81 EC 58 01 00 00
+1803ce13c	1806d2230	DATA	client.dll
+1803ce14d	1808a20e8	DATA	48 8B C4 55 41 56 48 8D 68 98 48 81 EC 58 01 00 00
+1803ce154	1808a6800	DATA	spawn_entity_system
+1803ce15b	1806d2230	DATA	client.dll
+1803ce16d	1808a20e8	DATA	48 8B C4 55 41 56 48 8D 68 98 48 81 EC 58 01 00 00
+1803ce174	1808a6800	DATA	spawn_entity_system
+1803ce17b	1806d2230	DATA	client.dll
+1803ce182	1808a6180	DATA	[error] address not resolved | %s:%s | %s
+1803ce191	1808a20e8	DATA	48 8B C4 55 41 56 48 8D 68 98 48 81 EC 58 01 00 00
+1803ce19f	1808a67f0	DATA	spawn_manager
+1803ce1a6	1806d2230	DATA	client.dll
+1803ce1e6	1808a20e8	DATA	48 8B C4 55 41 56 48 8D 68 98 48 81 EC 58 01 00 00
+1803ce1f0	1808a67f0	DATA	spawn_manager
+1803ce1f7	1806d2230	DATA	client.dll
+1803ce208	1808a20e8	DATA	48 8B C4 55 41 56 48 8D 68 98 48 81 EC 58 01 00 00
+1803ce20f	1808a67f0	DATA	spawn_manager
+1803ce216	1806d2230	DATA	client.dll
+1803ce228	1808a20e8	DATA	48 8B C4 55 41 56 48 8D 68 98 48 81 EC 58 01 00 00
+1803ce22f	1808a67f0	DATA	spawn_manager
+1803ce236	1806d2230	DATA	client.dll
+1803ce23d	1808a6180	DATA	[error] address not resolved | %s:%s | %s
+1803ce252	1808a20b8	DATA	48 89 5C 24 08 48 89 74 24 18 48 89 54 24 10
+1803ce259	1808a20b8	PARAM	48 89 5C 24 08 48 89 74 24 18 48 89 54 24 10
+1803ce266	1808a67e0	DATA	find_factory
+1803ce26d	1806d2230	DATA	client.dll
+1803ce279	1806d2230	DATA	client.dll
+1803ce2ee	1808a20b8	DATA	48 89 5C 24 08 48 89 74 24 18 48 89 54 24 10
+1803ce30e	1808a20b8	PARAM	48 89 5C 24 08 48 89 74 24 18 48 89 54 24 10
+1803ce311	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803ce31d	1808a67e0	DATA	find_factory
+1803ce324	1808a20b8	PARAM	48 89 5C 24 08 48 89 74 24 18 48 89 54 24 10
+1803ce327	1806d2230	DATA	client.dll
+1803ce33c	1808a6200	DATA	[error] module not found | module: %s | %s
+1803ce349	1808a67e0	DATA	find_factory
+1803ce350	1806d2230	DATA	client.dll
+1803ce365	1808a2020	DATA	48 8B 05 ? ? ? ? 48 8B D1 48 8B 08 48 8B 01 48 FF 60 08 CC CC CC CC CC CC CC CC CC CC CC CC 48 8B 05 ? ? ? ? 48 8B D1 48 8B 08 48 8B 01 48 FF 60 08
+1803ce36c	1808a2020	PARAM	48 8B 05 ? ? ? ? 48 8B D1 48 8B 08 48 8B 01 48 FF 60 08 CC CC CC CC CC CC CC CC CC CC CC CC 48 8B 05 ? ? ? ? 48 8B D1 48 8B 08 48 8B 01 48 FF 60 08
+1803ce379	1808a67d0	DATA	mem_alloc
+1803ce380	1806d2230	DATA	client.dll
+1803ce38c	1806d2230	DATA	client.dll
+1803ce401	1808a2020	DATA	48 8B 05 ? ? ? ? 48 8B D1 48 8B 08 48 8B 01 48 FF 60 08 CC CC CC CC CC CC CC CC CC CC CC CC 48 8B 05 ? ? ? ? 48 8B D1 48 8B 08 48 8B 01 48 FF 60 08
+1803ce421	1808a2020	PARAM	48 8B 05 ? ? ? ? 48 8B D1 48 8B 08 48 8B 01 48 FF 60 08 CC CC CC CC CC CC CC CC CC CC CC CC 48 8B 05 ? ? ? ? 48 8B D1 48 8B 08 48 8B 01 48 FF 60 08
+1803ce424	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803ce430	1808a67d0	DATA	mem_alloc
+1803ce437	1808a2020	PARAM	48 8B 05 ? ? ? ? 48 8B D1 48 8B 08 48 8B 01 48 FF 60 08 CC CC CC CC CC CC CC CC CC CC CC CC 48 8B 05 ? ? ? ? 48 8B D1 48 8B 08 48 8B 01 48 FF 60 08
+1803ce43a	1806d2230	DATA	client.dll
+1803ce44f	1808a6200	DATA	[error] module not found | module: %s | %s
+1803ce45c	1808a67d0	DATA	mem_alloc
+1803ce463	1806d2230	DATA	client.dll
+1803ce478	1808a1fa0	DATA	48 8B 05 ? ? ? ? 48 8B D1 48 8B 08 48 8B 01 48 FF 60 18 CC CC CC CC CC CC CC CC CC CC CC CC 48 8B 05 ? ? ? ? 4C 8B C1
+1803ce47f	1808a1fa0	PARAM	48 8B 05 ? ? ? ? 48 8B D1 48 8B 08 48 8B 01 48 FF 60 18 CC CC CC CC CC CC CC CC CC CC CC CC 48 8B 05 ? ? ? ? 4C 8B C1
+1803ce48c	1808a67c0	DATA	mem_free
+1803ce493	1806d2230	DATA	client.dll
+1803ce49f	1806d2230	DATA	client.dll
+1803ce514	1808a1fa0	DATA	48 8B 05 ? ? ? ? 48 8B D1 48 8B 08 48 8B 01 48 FF 60 18 CC CC CC CC CC CC CC CC CC CC CC CC 48 8B 05 ? ? ? ? 4C 8B C1
+1803ce534	1808a1fa0	PARAM	48 8B 05 ? ? ? ? 48 8B D1 48 8B 08 48 8B 01 48 FF 60 18 CC CC CC CC CC CC CC CC CC CC CC CC 48 8B 05 ? ? ? ? 4C 8B C1
+1803ce537	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803ce543	1808a67c0	DATA	mem_free
+1803ce54a	1808a1fa0	PARAM	48 8B 05 ? ? ? ? 48 8B D1 48 8B 08 48 8B 01 48 FF 60 18 CC CC CC CC CC CC CC CC CC CC CC CC 48 8B 05 ? ? ? ? 4C 8B C1
+1803ce54d	1806d2230	DATA	client.dll
+1803ce562	1808a6200	DATA	[error] module not found | module: %s | %s
+1803ce56f	1808a67c0	DATA	mem_free
+1803ce576	1806d2230	DATA	client.dll
+1803ce58b	1808a1f58	DATA	48 89 5C 24 08 57 48 83 EC 20 33 FF 48 8B D9 48 89 79 28
+1803ce592	1808a1f58	PARAM	48 89 5C 24 08 57 48 83 EC 20 33 FF 48 8B D9 48 89 79 28
+1803ce59f	1808a67b0	DATA	kv_construct
+1803ce5a6	1806d2230	DATA	client.dll
+1803ce5b2	1806d2230	DATA	client.dll
+1803ce627	1808a1f58	DATA	48 89 5C 24 08 57 48 83 EC 20 33 FF 48 8B D9 48 89 79 28
+1803ce647	1808a1f58	PARAM	48 89 5C 24 08 57 48 83 EC 20 33 FF 48 8B D9 48 89 79 28
+1803ce64a	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803ce656	1808a67b0	DATA	kv_construct
+1803ce65d	1808a1f58	PARAM	48 89 5C 24 08 57 48 83 EC 20 33 FF 48 8B D9 48 89 79 28
+1803ce660	1806d2230	DATA	client.dll
+1803ce675	1808a6200	DATA	[error] module not found | module: %s | %s
+1803ce682	1808a67b0	DATA	kv_construct
+1803ce689	1806d2230	DATA	client.dll
+1803ce69e	1808a1f00	DATA	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 57 48 83 EC 20 48 8B 79 08 48 8B D9
+1803ce6a5	1808a1f00	PARAM	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 57 48 83 EC 20 48 8B 79 08 48 8B D9
+1803ce6b2	1808a67a0	DATA	kv_destruct
+1803ce6b9	1806d2230	DATA	client.dll
+1803ce6c5	1806d2230	DATA	client.dll
+1803ce73a	1808a1f00	DATA	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 57 48 83 EC 20 48 8B 79 08 48 8B D9
+1803ce75a	1808a1f00	PARAM	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 57 48 83 EC 20 48 8B 79 08 48 8B D9
+1803ce75d	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803ce769	1808a67a0	DATA	kv_destruct
+1803ce770	1808a1f00	PARAM	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 57 48 83 EC 20 48 8B 79 08 48 8B D9
+1803ce773	1806d2230	DATA	client.dll
+1803ce788	1808a6200	DATA	[error] module not found | module: %s | %s
+1803ce795	1808a67a0	DATA	kv_destruct
+1803ce79c	1806d2230	DATA	client.dll
+1803ce7b1	1808a2340	DATA	48 83 EC 38 8B 02 45 33 C0 89 44 24 20
+1803ce7b8	1808a2340	PARAM	48 83 EC 38 8B 02 45 33 C0 89 44 24 20
+1803ce7c5	1808a6798	DATA	kv_find
+1803ce7cc	1806d2230	DATA	client.dll
+1803ce7d8	1806d2230	DATA	client.dll
+1803ce84d	1808a2340	DATA	48 83 EC 38 8B 02 45 33 C0 89 44 24 20
+1803ce86d	1808a2340	PARAM	48 83 EC 38 8B 02 45 33 C0 89 44 24 20
+1803ce870	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803ce87c	1808a6798	DATA	kv_find
+1803ce883	1808a2340	PARAM	48 83 EC 38 8B 02 45 33 C0 89 44 24 20
+1803ce886	1806d2230	DATA	client.dll
+1803ce89b	1808a6200	DATA	[error] module not found | module: %s | %s
+1803ce8a8	1808a6798	DATA	kv_find
+1803ce8af	1806d2230	DATA	client.dll
+1803ce8c4	1808a2308	DATA	48 89 5C 24 08 57 48 83 EC 40 48 85 D2 48 8D 1D ? ? ? ?
+1803ce8cb	1808a2308	PARAM	48 89 5C 24 08 57 48 83 EC 40 48 85 D2 48 8D 1D ? ? ? ?
+1803ce8d8	1808a6888	DATA	kv_set_string
+1803ce8df	1806d2230	DATA	client.dll
+1803ce8eb	1806d2230	DATA	client.dll
+1803ce960	1808a2308	DATA	48 89 5C 24 08 57 48 83 EC 40 48 85 D2 48 8D 1D ? ? ? ?
+1803ce980	1808a2308	PARAM	48 89 5C 24 08 57 48 83 EC 40 48 85 D2 48 8D 1D ? ? ? ?
+1803ce983	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803ce98f	1808a6888	DATA	kv_set_string
+1803ce996	1808a2308	PARAM	48 89 5C 24 08 57 48 83 EC 40 48 85 D2 48 8D 1D ? ? ? ?
+1803ce999	1806d2230	DATA	client.dll
+1803ce9ae	1808a6200	DATA	[error] module not found | module: %s | %s
+1803ce9bb	1808a6888	DATA	kv_set_string
+1803ce9c2	1806d2230	DATA	client.dll
+1803ce9d7	1808a22d0	DATA	40 53 48 83 EC 40 8B 02 49 8B D8 89 44 24 30 8B 42 04
+1803ce9de	1808a22d0	PARAM	40 53 48 83 EC 40 8B 02 49 8B D8 89 44 24 30 8B 42 04
+1803ce9eb	1808a6878	DATA	kv_set_vector
+1803ce9f2	1806d2230	DATA	client.dll
+1803ce9fe	1806d2230	DATA	client.dll
+1803cea73	1808a22d0	DATA	40 53 48 83 EC 40 8B 02 49 8B D8 89 44 24 30 8B 42 04
+1803cea93	1808a22d0	PARAM	40 53 48 83 EC 40 8B 02 49 8B D8 89 44 24 30 8B 42 04
+1803cea96	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803ceaa2	1808a6878	DATA	kv_set_vector
+1803ceaa9	1808a22d0	PARAM	40 53 48 83 EC 40 8B 02 49 8B D8 89 44 24 30 8B 42 04
+1803ceaac	1806d2230	DATA	client.dll
+1803ceac1	1808a6200	DATA	[error] module not found | module: %s | %s
+1803ceace	1808a6878	DATA	kv_set_vector
+1803cead5	1806d2230	DATA	client.dll
+1803ceaea	1808a2280	DATA	48 89 5C 24 08 57 48 83 EC 30 4C 8B 52 08 48 8B D9 8B 0A 49 8B F9 44 8B 4A 04
+1803ceaf1	1808a2280	PARAM	48 89 5C 24 08 57 48 83 EC 30 4C 8B 52 08 48 8B D9 8B 0A 49 8B F9 44 8B 4A 04
+1803ceafe	1808a6868	DATA	kv3_find_member
+1803ceb05	1806d2230	DATA	client.dll
+1803ceb11	1806d2230	DATA	client.dll
+1803ceb86	1808a2280	DATA	48 89 5C 24 08 57 48 83 EC 30 4C 8B 52 08 48 8B D9 8B 0A 49 8B F9 44 8B 4A 04
+1803ceba6	1808a2280	PARAM	48 89 5C 24 08 57 48 83 EC 30 4C 8B 52 08 48 8B D9 8B 0A 49 8B F9 44 8B 4A 04
+1803ceba9	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803cebb5	1808a6868	DATA	kv3_find_member
+1803cebbc	1808a2280	PARAM	48 89 5C 24 08 57 48 83 EC 30 4C 8B 52 08 48 8B D9 8B 0A 49 8B F9 44 8B 4A 04
+1803cebbf	1806d2230	DATA	client.dll
+1803cebd4	1808a6200	DATA	[error] module not found | module: %s | %s
+1803cebe1	1808a6868	DATA	kv3_find_member
+1803cebe8	1806d2230	DATA	client.dll
+1803cebfd	1808a2230	DATA	40 55 56 57 41 56 48 8B EC 48 83 EC 68 4C 63 F2 48 8B F9 48 8B 09 49 8B F0
+1803cec04	1808a2230	PARAM	40 55 56 57 41 56 48 8B EC 48 83 EC 68 4C 63 F2 48 8B F9 48 8B 09 49 8B F0
+1803cec11	1808a6858	DATA	kv3_get_vector
+1803cec18	1806d2230	DATA	client.dll
+1803cec24	1806d2230	DATA	client.dll
+1803cec99	1808a2230	DATA	40 55 56 57 41 56 48 8B EC 48 83 EC 68 4C 63 F2 48 8B F9 48 8B 09 49 8B F0
+1803cecb9	1808a2230	PARAM	40 55 56 57 41 56 48 8B EC 48 83 EC 68 4C 63 F2 48 8B F9 48 8B 09 49 8B F0
+1803cecbc	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803cecc8	1808a6858	DATA	kv3_get_vector
+1803ceccf	1808a2230	PARAM	40 55 56 57 41 56 48 8B EC 48 83 EC 68 4C 63 F2 48 8B F9 48 8B 09 49 8B F0
+1803cecd2	1806d2230	DATA	client.dll
+1803cece7	1808a6200	DATA	[error] module not found | module: %s | %s
+1803cecf4	1808a6858	DATA	kv3_get_vector
+1803cecfb	1806d2230	DATA	client.dll
+1803ced10	1808a21f0	DATA	48 89 5C 24 08 48 89 6C 24 10 56 57 41 56 48 83 EC 40 4D 8B F1
+1803ced17	1808a21f0	PARAM	48 89 5C 24 08 48 89 6C 24 10 56 57 41 56 48 83 EC 40 4D 8B F1
+1803ced24	1808a6848	DATA	create_entity
+1803ced2b	1806d2230	DATA	client.dll
+1803ced37	1806d2230	DATA	client.dll
+1803cedac	1808a21f0	DATA	48 89 5C 24 08 48 89 6C 24 10 56 57 41 56 48 83 EC 40 4D 8B F1
+1803cedcc	1808a21f0	PARAM	48 89 5C 24 08 48 89 6C 24 10 56 57 41 56 48 83 EC 40 4D 8B F1
+1803cedcf	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803ceddb	1808a6848	DATA	create_entity
+1803cede2	1808a21f0	PARAM	48 89 5C 24 08 48 89 6C 24 10 56 57 41 56 48 83 EC 40 4D 8B F1
+1803cede5	1806d2230	DATA	client.dll
+1803cedfa	1808a6200	DATA	[error] module not found | module: %s | %s
+1803cee07	1808a6848	DATA	create_entity
+1803cee0e	1806d2230	DATA	client.dll
+1803cee23	1808a21d0	DATA	48 8B 52 10 E9 ? ? ? ? CC CC CC
+1803cee2a	1808a21d0	PARAM	48 8B 52 10 E9 ? ? ? ? CC CC CC
+1803cee37	1808a6838	DATA	spawn_post
+1803cee3e	1806d2230	DATA	client.dll
+1803cee4a	1806d2230	DATA	client.dll
+1803ceebf	1808a21d0	DATA	48 8B 52 10 E9 ? ? ? ? CC CC CC
+1803ceedf	1808a21d0	PARAM	48 8B 52 10 E9 ? ? ? ? CC CC CC
+1803ceee2	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803ceeee	1808a6838	DATA	spawn_post
+1803ceef5	1808a21d0	PARAM	48 8B 52 10 E9 ? ? ? ? CC CC CC
+1803ceef8	1806d2230	DATA	client.dll
+1803cef0d	1808a6200	DATA	[error] module not found | module: %s | %s
+1803cef1a	1808a6838	DATA	spawn_post
+1803cef21	1806d2230	DATA	client.dll
+1803cef36	1808a2190	DATA	48 89 5C 24 08 57 48 81 EC 00 01 00 00 FF 81 48 0C 00 00
+1803cef3d	1808a2190	PARAM	48 89 5C 24 08 57 48 81 EC 00 01 00 00 FF 81 48 0C 00 00
+1803cef4a	1808a6828	DATA	spawn_finish
+1803cef51	1806d2230	DATA	client.dll
+1803cef5d	1806d2230	DATA	client.dll
+1803cefd2	1808a2190	DATA	48 89 5C 24 08 57 48 81 EC 00 01 00 00 FF 81 48 0C 00 00
+1803ceff2	1808a2190	PARAM	48 89 5C 24 08 57 48 81 EC 00 01 00 00 FF 81 48 0C 00 00
+1803ceff5	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803cf001	1808a6828	DATA	spawn_finish
+1803cf008	1808a2190	PARAM	48 89 5C 24 08 57 48 81 EC 00 01 00 00 FF 81 48 0C 00 00
+1803cf00b	1806d2230	DATA	client.dll
+1803cf020	1808a6200	DATA	[error] module not found | module: %s | %s
+1803cf02d	1808a6828	DATA	spawn_finish
+1803cf034	1806d2230	DATA	client.dll
+1803cf049	1808a2728	DATA	48 89 5C 24 08 57 48 83 EC 60 48 8B 01 48 8B FA 48 8B D9
+1803cf050	1808a2728	PARAM	48 89 5C 24 08 57 48 83 EC 60 48 8B 01 48 8B FA 48 8B D9
+1803cf05d	1808a6818	DATA	set_abs_origin
+1803cf064	1806d2230	DATA	client.dll
+1803cf070	1806d2230	DATA	client.dll
+1803cf0e5	1808a2728	DATA	48 89 5C 24 08 57 48 83 EC 60 48 8B 01 48 8B FA 48 8B D9
+1803cf105	1808a2728	PARAM	48 89 5C 24 08 57 48 83 EC 60 48 8B 01 48 8B FA 48 8B D9
+1803cf108	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803cf114	1808a6818	DATA	set_abs_origin
+1803cf11b	1808a2728	PARAM	48 89 5C 24 08 57 48 83 EC 60 48 8B 01 48 8B FA 48 8B D9
+1803cf11e	1806d2230	DATA	client.dll
+1803cf133	1808a6200	DATA	[error] module not found | module: %s | %s
+1803cf140	1808a6818	DATA	set_abs_origin
+1803cf147	1806d2230	DATA	client.dll
+1803cf15c	1808a24f0	DATA	40 53 48 83 EC 60 48 8B D9 48 8B 89 30 03 00 00 E8 ? ? ? ? 48 8B 43 10 8B 50 30 D1 EA F6 C2 01 0F 84 ? ? ? ? 48 8B 03 48 8B CB 0F B6 93 26 05 00 00 FF 90 98 02 00 00 84 C0 74 7E 48 8B 4B 30 48 89 7C 24 70 48 85 C9 74 18 48 8B 49 08 48 8B 01 FF 50 70 48 85 C0 74 09 48 8B B8 20 02 00 00 EB 02 33 FF 48 85 FF 74 4C 48 8B 9B 30 03 00 00 90 80 BB 10 01 00 00 00 74 08 48 8B CB E8 ? ? ? ? 0F 28 43 10 48 8D 54 24 20 0F 28 4B 20 48 8D 4C 24 40 48 8B 07 0F 29 44 24 20 0F 29 4C 24 30 48 8B 98 80 00 00 00 E8 ? ? ? ? 48 8B D0 48 8B CF FF D3 48 8B 7C 24 70 48 83 C4 60 5B C3
+1803cf163	1808a24f0	PARAM	40 53 48 83 EC 60 48 8B D9 48 8B 89 30 03 00 00 E8 ? ? ? ? 48 8B 43 10 8B 50 30 D1 EA F6 C2 01 0F 84 ? ? ? ? 48 8B 03 48 8B CB 0F B6 93 26 05 00 00 FF 90 98 02 00 00 84 C0 74 7E 48 8B 4B 30 48 89 7C 24 70 48 85 C9 74 18 48 8B 49 08 48 8B 01 FF 50 70 48 85 C0 74 09 48 8B B8 20 02 00 00 EB 02 33 FF 48 85 FF 74 4C 48 8B 9B 30 03 00 00 90 80 BB 10 01 00 00 00 74 08 48 8B CB E8 ? ? ? ? 0F 28 43 10 48 8D 54 24 20 0F 28 4B 20 48 8D 4C 24 40 48 8B 07 0F 29 44 24 20 0F 29 4C 24 30 48 8B 98 80 00 00 00 E8 ? ? ? ? 48 8B D0 48 8B CF FF D3 48 8B 7C 24 70 48 83 C4 60 5B C3
+1803cf170	1808a6928	DATA	set_abs_angles
+1803cf177	1806d2230	DATA	client.dll
+1803cf183	1806d2230	DATA	client.dll
+1803cf1f8	1808a24f0	DATA	40 53 48 83 EC 60 48 8B D9 48 8B 89 30 03 00 00 E8 ? ? ? ? 48 8B 43 10 8B 50 30 D1 EA F6 C2 01 0F 84 ? ? ? ? 48 8B 03 48 8B CB 0F B6 93 26 05 00 00 FF 90 98 02 00 00 84 C0 74 7E 48 8B 4B 30 48 89 7C 24 70 48 85 C9 74 18 48 8B 49 08 48 8B 01 FF 50 70 48 85 C0 74 09 48 8B B8 20 02 00 00 EB 02 33 FF 48 85 FF 74 4C 48 8B 9B 30 03 00 00 90 80 BB 10 01 00 00 00 74 08 48 8B CB E8 ? ? ? ? 0F 28 43 10 48 8D 54 24 20 0F 28 4B 20 48 8D 4C 24 40 48 8B 07 0F 29 44 24 20 0F 29 4C 24 30 48 8B 98 80 00 00 00 E8 ? ? ? ? 48 8B D0 48 8B CF FF D3 48 8B 7C 24 70 48 83 C4 60 5B C3
+1803cf218	1808a24f0	PARAM	40 53 48 83 EC 60 48 8B D9 48 8B 89 30 03 00 00 E8 ? ? ? ? 48 8B 43 10 8B 50 30 D1 EA F6 C2 01 0F 84 ? ? ? ? 48 8B 03 48 8B CB 0F B6 93 26 05 00 00 FF 90 98 02 00 00 84 C0 74 7E 48 8B 4B 30 48 89 7C 24 70 48 85 C9 74 18 48 8B 49 08 48 8B 01 FF 50 70 48 85 C0 74 09 48 8B B8 20 02 00 00 EB 02 33 FF 48 85 FF 74 4C 48 8B 9B 30 03 00 00 90 80 BB 10 01 00 00 00 74 08 48 8B CB E8 ? ? ? ? 0F 28 43 10 48 8D 54 24 20 0F 28 4B 20 48 8D 4C 24 40 48 8B 07 0F 29 44 24 20 0F 29 4C 24 30 48 8B 98 80 00 00 00 E8 ? ? ? ? 48 8B D0 48 8B CF FF D3 48 8B 7C 24 70 48 83 C4 60 5B C3
+1803cf21b	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803cf227	1808a6928	DATA	set_abs_angles
+1803cf22e	1808a24f0	PARAM	40 53 48 83 EC 60 48 8B D9 48 8B 89 30 03 00 00 E8 ? ? ? ? 48 8B 43 10 8B 50 30 D1 EA F6 C2 01 0F 84 ? ? ? ? 48 8B 03 48 8B CB 0F B6 93 26 05 00 00 FF 90 98 02 00 00 84 C0 74 7E 48 8B 4B 30 48 89 7C 24 70 48 85 C9 74 18 48 8B 49 08 48 8B 01 FF 50 70 48 85 C0 74 09 48 8B B8 20 02 00 00 EB 02 33 FF 48 85 FF 74 4C 48 8B 9B 30 03 00 00 90 80 BB 10 01 00 00 00 74 08 48 8B CB E8 ? ? ? ? 0F 28 43 10 48 8D 54 24 20 0F 28 4B 20 48 8D 4C 24 40 48 8B 07 0F 29 44 24 20 0F 29 4C 24 30 48 8B 98 80 00 00 00 E8 ? ? ? ? 48 8B D0 48 8B CF FF D3 48 8B 7C 24 70 48 83 C4 60 5B C3
+1803cf231	1806d2230	DATA	client.dll
+1803cf246	1808a6200	DATA	[error] module not found | module: %s | %s
+1803cf253	1808a6928	DATA	set_abs_angles
+1803cf25a	1806d2230	DATA	client.dll
+1803cf26f	1808a32d0	DATA	40 53 48 83 EC 20 48 8B 99 30 03 00 00 90 80 BB 10 01 00 00 00 74 08 48 8B CB E8 ? ? ? ? 48 8D 83 D4 00 00 00
+1803cf276	1808a32d0	PARAM	40 53 48 83 EC 20 48 8B 99 30 03 00 00 90 80 BB 10 01 00 00 00 74 08 48 8B CB E8 ? ? ? ? 48 8D 83 D4 00 00 00
+1803cf283	1808a6918	DATA	get_abs_angles
+1803cf28a	1806d2230	DATA	client.dll
+1803cf296	1806d2230	DATA	client.dll
+1803cf30b	1808a32d0	DATA	40 53 48 83 EC 20 48 8B 99 30 03 00 00 90 80 BB 10 01 00 00 00 74 08 48 8B CB E8 ? ? ? ? 48 8D 83 D4 00 00 00
+1803cf32b	1808a32d0	PARAM	40 53 48 83 EC 20 48 8B 99 30 03 00 00 90 80 BB 10 01 00 00 00 74 08 48 8B CB E8 ? ? ? ? 48 8D 83 D4 00 00 00
+1803cf32e	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803cf33a	1808a6918	DATA	get_abs_angles
+1803cf341	1808a32d0	PARAM	40 53 48 83 EC 20 48 8B 99 30 03 00 00 90 80 BB 10 01 00 00 00 74 08 48 8B CB E8 ? ? ? ? 48 8D 83 D4 00 00 00
+1803cf344	1806d2230	DATA	client.dll
+1803cf359	1808a6200	DATA	[error] module not found | module: %s | %s
+1803cf366	1808a6918	DATA	get_abs_angles
+1803cf36d	1806d2230	DATA	client.dll
+1803cf382	1808a24b8	DATA	48 83 EC 28 48 85 C9 0F 84 ? ? ? ? 48 8B 51 10
+1803cf389	1808a24b8	PARAM	48 83 EC 28 48 85 C9 0F 84 ? ? ? ? 48 8B 51 10
+1803cf396	1808a6908	DATA	remove_entity
+1803cf39d	1806d2230	DATA	client.dll
+1803cf3a9	1806d2230	DATA	client.dll
+1803cf41e	1808a24b8	DATA	48 83 EC 28 48 85 C9 0F 84 ? ? ? ? 48 8B 51 10
+1803cf43e	1808a24b8	PARAM	48 83 EC 28 48 85 C9 0F 84 ? ? ? ? 48 8B 51 10
+1803cf441	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803cf44d	1808a6908	DATA	remove_entity
+1803cf454	1808a24b8	PARAM	48 83 EC 28 48 85 C9 0F 84 ? ? ? ? 48 8B 51 10
+1803cf457	1806d2230	DATA	client.dll
+1803cf46c	1808a6200	DATA	[error] module not found | module: %s | %s
+1803cf479	1808a6908	DATA	remove_entity
+1803cf480	1806d2230	DATA	client.dll
+1803cf495	1808a2488	DATA	39 91 E4 1A 00 00 74 0E 89 91 E4 1A 00 00
+1803cf49c	1808a2488	PARAM	39 91 E4 1A 00 00 74 0E 89 91 E4 1A 00 00
+1803cf4a9	1808a68f0	DATA	chicken_set_activity
+1803cf4b0	1806d2230	DATA	client.dll
+1803cf4bc	1806d2230	DATA	client.dll
+1803cf531	1808a2488	DATA	39 91 E4 1A 00 00 74 0E 89 91 E4 1A 00 00
+1803cf551	1808a2488	PARAM	39 91 E4 1A 00 00 74 0E 89 91 E4 1A 00 00
+1803cf554	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803cf560	1808a68f0	DATA	chicken_set_activity
+1803cf567	1808a2488	PARAM	39 91 E4 1A 00 00 74 0E 89 91 E4 1A 00 00
+1803cf56a	1806d2230	DATA	client.dll
+1803cf57f	1808a6200	DATA	[error] module not found | module: %s | %s
+1803cf58c	1808a68f0	DATA	chicken_set_activity
+1803cf593	1806d2230	DATA	client.dll
+1803cf5a8	1808a2450	DATA	48 89 5C 24 18 48 89 74 24 20 57 48 83 EC 70 48 8B F9
+1803cf5af	1808a2450	PARAM	48 89 5C 24 18 48 89 74 24 20 57 48 83 EC 70 48 8B F9
+1803cf5bc	1808a68e0	DATA	set_parent
+1803cf5c3	1806d2230	DATA	client.dll
+1803cf5cf	1806d2230	DATA	client.dll
+1803cf644	1808a2450	DATA	48 89 5C 24 18 48 89 74 24 20 57 48 83 EC 70 48 8B F9
+1803cf664	1808a2450	PARAM	48 89 5C 24 18 48 89 74 24 20 57 48 83 EC 70 48 8B F9
+1803cf667	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803cf673	1808a68e0	DATA	set_parent
+1803cf67a	1808a2450	PARAM	48 89 5C 24 18 48 89 74 24 20 57 48 83 EC 70 48 8B F9
+1803cf67d	1806d2230	DATA	client.dll
+1803cf692	1808a6200	DATA	[error] module not found | module: %s | %s
+1803cf69f	1808a68e0	DATA	set_parent
+1803cf6a6	1806d2230	DATA	client.dll
+1803cf6bb	1808a23f0	DATA	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 48 89 7C 24 20 41 56 48 83 EC 20 48 8B D9 48 8B F2
+1803cf6c2	1808a23f0	PARAM	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 48 89 7C 24 20 41 56 48 83 EC 20 48 8B D9 48 8B F2
+1803cf6cf	1808a68c8	DATA	node_local_origin
+1803cf6d6	1806d2230	DATA	client.dll
+1803cf6e2	1806d2230	DATA	client.dll
+1803cf757	1808a23f0	DATA	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 48 89 7C 24 20 41 56 48 83 EC 20 48 8B D9 48 8B F2
+1803cf777	1808a23f0	PARAM	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 48 89 7C 24 20 41 56 48 83 EC 20 48 8B D9 48 8B F2
+1803cf77a	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803cf786	1808a68c8	DATA	node_local_origin
+1803cf78d	1808a23f0	PARAM	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 48 89 7C 24 20 41 56 48 83 EC 20 48 8B D9 48 8B F2
+1803cf790	1806d2230	DATA	client.dll
+1803cf7a5	1808a6200	DATA	[error] module not found | module: %s | %s
+1803cf7b2	1808a68c8	DATA	node_local_origin
+1803cf7b9	1806d2230	DATA	client.dll
+1803cf7ce	1808a23a0	DATA	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 57 48 83 EC 40 F2 0F 10 02
+1803cf7d5	1808a23a0	PARAM	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 57 48 83 EC 40 F2 0F 10 02
+1803cf7e2	1808a68b0	DATA	node_local_angles
+1803cf7e9	1806d2230	DATA	client.dll
+1803cf7f5	1806d2230	DATA	client.dll
+1803cf86a	1808a23a0	DATA	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 57 48 83 EC 40 F2 0F 10 02
+1803cf88a	1808a23a0	PARAM	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 57 48 83 EC 40 F2 0F 10 02
+1803cf88d	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803cf899	1808a68b0	DATA	node_local_angles
+1803cf8a0	1808a23a0	PARAM	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 57 48 83 EC 40 F2 0F 10 02
+1803cf8a3	1806d2230	DATA	client.dll
+1803cf8b8	1808a6200	DATA	[error] module not found | module: %s | %s
+1803cf8c5	1808a68b0	DATA	node_local_angles
+1803cf8cc	1806d2230	DATA	client.dll
+1803cf8e1	1808a2368	DATA	48 83 EC 28 B9 48 00 00 00 E8 ? ? ? ? 48 85 C0
+1803cf8e8	1808a2368	PARAM	48 83 EC 28 B9 48 00 00 00 E8 ? ? ? ? 48 85 C0
+1803cf8f5	1808a6898	DATA	econ_item_create
+1803cf8fc	1806d2230	DATA	client.dll
+1803cf908	1806d2230	DATA	client.dll
+1803cf97d	1808a2368	DATA	48 83 EC 28 B9 48 00 00 00 E8 ? ? ? ? 48 85 C0
+1803cf99d	1808a2368	PARAM	48 83 EC 28 B9 48 00 00 00 E8 ? ? ? ? 48 85 C0
+1803cf9a0	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803cf9ac	1808a6898	DATA	econ_item_create
+1803cf9b3	1808a2368	PARAM	48 83 EC 28 B9 48 00 00 00 E8 ? ? ? ? 48 85 C0
+1803cf9b6	1806d2230	DATA	client.dll
+1803cf9cb	1808a6200	DATA	[error] module not found | module: %s | %s
+1803cf9d8	1808a6898	DATA	econ_item_create
+1803cf9df	1806d2230	DATA	client.dll
+1803cf9f4	1808a2c80	DATA	4C 8B 49 18 44 8B D2 4C 63 41 10 4F 8D 1C C1 49 8B C3 49 2B C1 48 C1 F8 03 48 85 C0 7E 31
+1803cf9fb	1808a2c80	PARAM	4C 8B 49 18 44 8B D2 4C 63 41 10 4F 8D 1C C1 49 8B C3 49 2B C1 48 C1 F8 03 48 85 C0 7E 31
+1803cfa08	1808a69c0	DATA	find_type_cache
+1803cfa0f	1806d2230	DATA	client.dll
+1803cfa1b	1806d2230	DATA	client.dll
+1803cfa90	1808a2c80	DATA	4C 8B 49 18 44 8B D2 4C 63 41 10 4F 8D 1C C1 49 8B C3 49 2B C1 48 C1 F8 03 48 85 C0 7E 31
+1803cfab0	1808a2c80	PARAM	4C 8B 49 18 44 8B D2 4C 63 41 10 4F 8D 1C C1 49 8B C3 49 2B C1 48 C1 F8 03 48 85 C0 7E 31
+1803cfab3	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803cfabf	1808a69c0	DATA	find_type_cache
+1803cfac6	1808a2c80	PARAM	4C 8B 49 18 44 8B D2 4C 63 41 10 4F 8D 1C C1 49 8B C3 49 2B C1 48 C1 F8 03 48 85 C0 7E 31
+1803cfac9	1806d2230	DATA	client.dll
+1803cfade	1808a6200	DATA	[error] module not found | module: %s | %s
+1803cfaeb	1808a69c0	DATA	find_type_cache
+1803cfaf2	1806d2230	DATA	client.dll
+1803cfb07	1808a2c30	DATA	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 57 48 83 EC 20 41 8B E8 0F B7 FA
+1803cfb0e	1808a2c30	PARAM	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 57 48 83 EC 20 41 8B E8 0F B7 FA
+1803cfb1b	1808a69b0	DATA	slot_of_def
+1803cfb22	1806d2230	DATA	client.dll
+1803cfb2e	1806d2230	DATA	client.dll
+1803cfba3	1808a2c30	DATA	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 57 48 83 EC 20 41 8B E8 0F B7 FA
+1803cfbc3	1808a2c30	PARAM	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 57 48 83 EC 20 41 8B E8 0F B7 FA
+1803cfbc6	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803cfbd2	1808a69b0	DATA	slot_of_def
+1803cfbd9	1808a2c30	PARAM	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 57 48 83 EC 20 41 8B E8 0F B7 FA
+1803cfbdc	1806d2230	DATA	client.dll
+1803cfbf1	1808a6200	DATA	[error] module not found | module: %s | %s
+1803cfbfe	1808a69b0	DATA	slot_of_def
+1803cfc05	1806d2230	DATA	client.dll
+1803cfc1a	1808a2bd0	DATA	48 89 5C 24 08 48 89 6C 24 18 48 89 74 24 20 57 41 56 41 57 48 83 EC 50 44 0F B7 FA
+1803cfc21	1808a2bd0	PARAM	48 89 5C 24 08 48 89 6C 24 18 48 89 74 24 20 57 41 56 41 57 48 83 EC 50 44 0F B7 FA
+1803cfc2e	1808a69a0	DATA	can_equip
+1803cfc35	1806d2230	DATA	client.dll
+1803cfc41	1806d2230	DATA	client.dll
+1803cfcb6	1808a2bd0	DATA	48 89 5C 24 08 48 89 6C 24 18 48 89 74 24 20 57 41 56 41 57 48 83 EC 50 44 0F B7 FA
+1803cfcd6	1808a2bd0	PARAM	48 89 5C 24 08 48 89 6C 24 18 48 89 74 24 20 57 41 56 41 57 48 83 EC 50 44 0F B7 FA
+1803cfcd9	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803cfce5	1808a69a0	DATA	can_equip
+1803cfcec	1808a2bd0	PARAM	48 89 5C 24 08 48 89 6C 24 18 48 89 74 24 20 57 41 56 41 57 48 83 EC 50 44 0F B7 FA
+1803cfcef	1806d2230	DATA	client.dll
+1803cfd04	1808a6200	DATA	[error] module not found | module: %s | %s
+1803cfd11	1808a69a0	DATA	can_equip
+1803cfd18	1806d2230	DATA	client.dll
+1803cfd2d	1808a2b88	DATA	48 89 5C 24 10 48 89 6C 24 18 57 41 56 41 57 48 83 EC 60
+1803cfd34	1808a2b88	PARAM	48 89 5C 24 10 48 89 6C 24 18 57 41 56 41 57 48 83 EC 60
+1803cfd41	1808a6988	DATA	attribute_by_name
+1803cfd48	1806d2230	DATA	client.dll
+1803cfd54	1806d2230	DATA	client.dll
+1803cfdc9	1808a2b88	DATA	48 89 5C 24 10 48 89 6C 24 18 57 41 56 41 57 48 83 EC 60
+1803cfde9	1808a2b88	PARAM	48 89 5C 24 10 48 89 6C 24 18 57 41 56 41 57 48 83 EC 60
+1803cfdec	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803cfdf8	1808a6988	DATA	attribute_by_name
+1803cfdff	1808a2b88	PARAM	48 89 5C 24 10 48 89 6C 24 18 57 41 56 41 57 48 83 EC 60
+1803cfe02	1806d2230	DATA	client.dll
+1803cfe17	1808a6200	DATA	[error] module not found | module: %s | %s
+1803cfe24	1808a6988	DATA	attribute_by_name
+1803cfe2b	1806d2230	DATA	client.dll
+1803cfe40	1808a29c0	DATA	48 89 6C 24 20 57 41 56 41 57 48 81 EC A0 00 00 00 48 8B FA C7 44 24 20 00 00 00 00 4D 8B F8 4C 8D 0D ? ? ? ? 48 8B E9 4C 8D 05 ? ? ? ? 33 D2 48 8B 4F 18 E8 ? ? ? ? 4C 8B F0 48 85 C0 0F 84 ? ? ? ? 48 8B 55 20 48 89 9C 24 C0 00 00 00 0F 29 B4 24 90 00 00 00 48 89 B4 24 D0 00 00 00 48 85 D2 74 35 0F B7 4A 02 48 8D 5A 04 0F B6 F1 48 C1 E6 04 48 03 F3 48 3B DE 73 1E 90 48 8B 07 48 8B CF FF 10 66 39 03 74 0B 48 83 C3 10 48 3B DE 72 EA EB 05 48 85 DB 75 23
+1803cfe47	1808a29c0	PARAM	48 89 6C 24 20 57 41 56 41 57 48 81 EC A0 00 00 00 48 8B FA C7 44 24 20 00 00 00 00 4D 8B F8 4C 8D 0D ? ? ? ? 48 8B E9 4C 8D 05 ? ? ? ? 33 D2 48 8B 4F 18 E8 ? ? ? ? 4C 8B F0 48 85 C0 0F 84 ? ? ? ? 48 8B 55 20 48 89 9C 24 C0 00 00 00 0F 29 B4 24 90 00 00 00 48 89 B4 24 D0 00 00 00 48 85 D2 74 35 0F B7 4A 02 48 8D 5A 04 0F B6 F1 48 C1 E6 04 48 03 F3 48 3B DE 73 1E 90 48 8B 07 48 8B CF FF 10 66 39 03 74 0B 48 83 C3 10 48 3B DE 72 EA EB 05 48 85 DB 75 23
+1803cfe54	1808a6970	DATA	attribute_set_uint
+1803cfe5b	1806d2230	DATA	client.dll
+1803cfe67	1806d2230	DATA	client.dll
+1803cfedc	1808a29c0	DATA	48 89 6C 24 20 57 41 56 41 57 48 81 EC A0 00 00 00 48 8B FA C7 44 24 20 00 00 00 00 4D 8B F8 4C 8D 0D ? ? ? ? 48 8B E9 4C 8D 05 ? ? ? ? 33 D2 48 8B 4F 18 E8 ? ? ? ? 4C 8B F0 48 85 C0 0F 84 ? ? ? ? 48 8B 55 20 48 89 9C 24 C0 00 00 00 0F 29 B4 24 90 00 00 00 48 89 B4 24 D0 00 00 00 48 85 D2 74 35 0F B7 4A 02 48 8D 5A 04 0F B6 F1 48 C1 E6 04 48 03 F3 48 3B DE 73 1E 90 48 8B 07 48 8B CF FF 10 66 39 03 74 0B 48 83 C3 10 48 3B DE 72 EA EB 05 48 85 DB 75 23
+1803cfefc	1808a29c0	PARAM	48 89 6C 24 20 57 41 56 41 57 48 81 EC A0 00 00 00 48 8B FA C7 44 24 20 00 00 00 00 4D 8B F8 4C 8D 0D ? ? ? ? 48 8B E9 4C 8D 05 ? ? ? ? 33 D2 48 8B 4F 18 E8 ? ? ? ? 4C 8B F0 48 85 C0 0F 84 ? ? ? ? 48 8B 55 20 48 89 9C 24 C0 00 00 00 0F 29 B4 24 90 00 00 00 48 89 B4 24 D0 00 00 00 48 85 D2 74 35 0F B7 4A 02 48 8D 5A 04 0F B6 F1 48 C1 E6 04 48 03 F3 48 3B DE 73 1E 90 48 8B 07 48 8B CF FF 10 66 39 03 74 0B 48 83 C3 10 48 3B DE 72 EA EB 05 48 85 DB 75 23
+1803cfeff	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803cff0b	1808a6970	DATA	attribute_set_uint
+1803cff12	1808a29c0	PARAM	48 89 6C 24 20 57 41 56 41 57 48 81 EC A0 00 00 00 48 8B FA C7 44 24 20 00 00 00 00 4D 8B F8 4C 8D 0D ? ? ? ? 48 8B E9 4C 8D 05 ? ? ? ? 33 D2 48 8B 4F 18 E8 ? ? ? ? 4C 8B F0 48 85 C0 0F 84 ? ? ? ? 48 8B 55 20 48 89 9C 24 C0 00 00 00 0F 29 B4 24 90 00 00 00 48 89 B4 24 D0 00 00 00 48 85 D2 74 35 0F B7 4A 02 48 8D 5A 04 0F B6 F1 48 C1 E6 04 48 03 F3 48 3B DE 73 1E 90 48 8B 07 48 8B CF FF 10 66 39 03 74 0B 48 83 C3 10 48 3B DE 72 EA EB 05 48 85 DB 75 23
+1803cff15	1806d2230	DATA	client.dll
+1803cff2a	1808a6200	DATA	[error] module not found | module: %s | %s
+1803cff37	1808a6970	DATA	attribute_set_uint
+1803cff3e	1806d2230	DATA	client.dll
+1803cff53	1808a27f0	DATA	48 89 6C 24 20 57 41 56 41 57 48 81 EC A0 00 00 00 48 8B FA C7 44 24 20 00 00 00 00 4D 8B F8 4C 8D 0D ? ? ? ? 48 8B E9 4C 8D 05 ? ? ? ? 33 D2 48 8B 4F 18 E8 ? ? ? ? 4C 8B F0 48 85 C0 0F 84 ? ? ? ? 48 8B 55 20 48 89 9C 24 C0 00 00 00 0F 29 B4 24 90 00 00 00 48 89 B4 24 D0 00 00 00 48 85 D2 74 35 0F B7 4A 02 48 8D 5A 04 0F B6 F1 48 C1 E6 04 48 03 F3 48 3B DE 73 1E 90 48 8B 07 48 8B CF FF 10 66 39 03 74 0B 48 83 C3 10 48 3B DE 72 EA EB 05 48 85 DB 75 24
+1803cff5a	1808a27f0	PARAM	48 89 6C 24 20 57 41 56 41 57 48 81 EC A0 00 00 00 48 8B FA C7 44 24 20 00 00 00 00 4D 8B F8 4C 8D 0D ? ? ? ? 48 8B E9 4C 8D 05 ? ? ? ? 33 D2 48 8B 4F 18 E8 ? ? ? ? 4C 8B F0 48 85 C0 0F 84 ? ? ? ? 48 8B 55 20 48 89 9C 24 C0 00 00 00 0F 29 B4 24 90 00 00 00 48 89 B4 24 D0 00 00 00 48 85 D2 74 35 0F B7 4A 02 48 8D 5A 04 0F B6 F1 48 C1 E6 04 48 03 F3 48 3B DE 73 1E 90 48 8B 07 48 8B CF FF 10 66 39 03 74 0B 48 83 C3 10 48 3B DE 72 EA EB 05 48 85 DB 75 24
+1803cff67	1808a6958	DATA	attribute_set_float
+1803cff6e	1806d2230	DATA	client.dll
+1803cff7a	1806d2230	DATA	client.dll
+1803cffef	1808a27f0	DATA	48 89 6C 24 20 57 41 56 41 57 48 81 EC A0 00 00 00 48 8B FA C7 44 24 20 00 00 00 00 4D 8B F8 4C 8D 0D ? ? ? ? 48 8B E9 4C 8D 05 ? ? ? ? 33 D2 48 8B 4F 18 E8 ? ? ? ? 4C 8B F0 48 85 C0 0F 84 ? ? ? ? 48 8B 55 20 48 89 9C 24 C0 00 00 00 0F 29 B4 24 90 00 00 00 48 89 B4 24 D0 00 00 00 48 85 D2 74 35 0F B7 4A 02 48 8D 5A 04 0F B6 F1 48 C1 E6 04 48 03 F3 48 3B DE 73 1E 90 48 8B 07 48 8B CF FF 10 66 39 03 74 0B 48 83 C3 10 48 3B DE 72 EA EB 05 48 85 DB 75 24
+1803d000f	1808a27f0	PARAM	48 89 6C 24 20 57 41 56 41 57 48 81 EC A0 00 00 00 48 8B FA C7 44 24 20 00 00 00 00 4D 8B F8 4C 8D 0D ? ? ? ? 48 8B E9 4C 8D 05 ? ? ? ? 33 D2 48 8B 4F 18 E8 ? ? ? ? 4C 8B F0 48 85 C0 0F 84 ? ? ? ? 48 8B 55 20 48 89 9C 24 C0 00 00 00 0F 29 B4 24 90 00 00 00 48 89 B4 24 D0 00 00 00 48 85 D2 74 35 0F B7 4A 02 48 8D 5A 04 0F B6 F1 48 C1 E6 04 48 03 F3 48 3B DE 73 1E 90 48 8B 07 48 8B CF FF 10 66 39 03 74 0B 48 83 C3 10 48 3B DE 72 EA EB 05 48 85 DB 75 24
+1803d0012	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d001e	1808a6958	DATA	attribute_set_float
+1803d0025	1808a27f0	PARAM	48 89 6C 24 20 57 41 56 41 57 48 81 EC A0 00 00 00 48 8B FA C7 44 24 20 00 00 00 00 4D 8B F8 4C 8D 0D ? ? ? ? 48 8B E9 4C 8D 05 ? ? ? ? 33 D2 48 8B 4F 18 E8 ? ? ? ? 4C 8B F0 48 85 C0 0F 84 ? ? ? ? 48 8B 55 20 48 89 9C 24 C0 00 00 00 0F 29 B4 24 90 00 00 00 48 89 B4 24 D0 00 00 00 48 85 D2 74 35 0F B7 4A 02 48 8D 5A 04 0F B6 F1 48 C1 E6 04 48 03 F3 48 3B DE 73 1E 90 48 8B 07 48 8B CF FF 10 66 39 03 74 0B 48 83 C3 10 48 3B DE 72 EA EB 05 48 85 DB 75 24
+1803d0028	1806d2230	DATA	client.dll
+1803d003d	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d004a	1808a6958	DATA	attribute_set_float
+1803d0051	1806d2230	DATA	client.dll
+1803d0066	1808a27b8	DATA	48 8B 5C 24 30 48 8B 88 ? ? ? ? 48 85 C9 74 60
+1803d006d	1808a27b8	PARAM	48 8B 5C 24 30 48 8B 88 ? ? ? ? 48 85 C9 74 60
+1803d007a	1808a6948	DATA	local_inventory
+1803d0081	1806d2230	DATA	client.dll
+1803d008d	1806d2230	DATA	client.dll
+1803d0102	1808a27b8	DATA	48 8B 5C 24 30 48 8B 88 ? ? ? ? 48 85 C9 74 60
+1803d0122	1808a27b8	PARAM	48 8B 5C 24 30 48 8B 88 ? ? ? ? 48 85 C9 74 60
+1803d0125	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d0131	1808a6948	DATA	local_inventory
+1803d0138	1808a27b8	PARAM	48 8B 5C 24 30 48 8B 88 ? ? ? ? 48 85 C9 74 60
+1803d013b	1806d2230	DATA	client.dll
+1803d015f	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d016c	1808a6948	DATA	local_inventory
+1803d0173	1806d2230	DATA	client.dll
+1803d0185	1808a2770	DATA	4D 8B CF 44 8B C7 8B D5 48 8B 08 4C 8B 91 ? ? ? ? 48 8B C8 41 FF D2
+1803d018c	1808a2770	PARAM	4D 8B CF 44 8B C7 8B D5 48 8B 08 4C 8B 91 ? ? ? ? 48 8B C8 41 FF D2
+1803d018f	1808a6938	DATA	equip_site
+1803d0199	1806d2230	DATA	client.dll
+1803d01a5	1806d2230	DATA	client.dll
+1803d021a	1808a2770	DATA	4D 8B CF 44 8B C7 8B D5 48 8B 08 4C 8B 91 ? ? ? ? 48 8B C8 41 FF D2
+1803d023a	1808a2770	PARAM	4D 8B CF 44 8B C7 8B D5 48 8B 08 4C 8B 91 ? ? ? ? 48 8B C8 41 FF D2
+1803d023d	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d0249	1808a6938	DATA	equip_site
+1803d0250	1808a2770	PARAM	4D 8B CF 44 8B C7 8B D5 48 8B 08 4C 8B 91 ? ? ? ? 48 8B C8 41 FF D2
+1803d0253	1806d2230	DATA	client.dll
+1803d0277	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d0284	1808a6938	DATA	equip_site
+1803d028b	1806d2230	DATA	client.dll
+1803d029d	1808a2f00	DATA	49 63 C0 45 8B 01 48 8D 14 81 44 39 82 ? ? ? ? 74 ? 44 89 82 ? ? ? ? C6 81 ? ? ? ? 01 C3
+1803d02a4	1808a2f00	PARAM	49 63 C0 45 8B 01 48 8D 14 81 44 39 82 ? ? ? ? 74 ? 44 89 82 ? ? ? ? C6 81 ? ? ? ? 01 C3
+1803d02a7	1808a6a60	DATA	patch_proxy
+1803d02b1	1806d2230	DATA	client.dll
+1803d02bd	1806d2230	DATA	client.dll
+1803d0332	1808a2f00	DATA	49 63 C0 45 8B 01 48 8D 14 81 44 39 82 ? ? ? ? 74 ? 44 89 82 ? ? ? ? C6 81 ? ? ? ? 01 C3
+1803d0352	1808a2f00	PARAM	49 63 C0 45 8B 01 48 8D 14 81 44 39 82 ? ? ? ? 74 ? 44 89 82 ? ? ? ? C6 81 ? ? ? ? 01 C3
+1803d0355	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d0361	1808a6a60	DATA	patch_proxy
+1803d0368	1808a2f00	PARAM	49 63 C0 45 8B 01 48 8D 14 81 44 39 82 ? ? ? ? 74 ? 44 89 82 ? ? ? ? C6 81 ? ? ? ? 01 C3
+1803d036b	1806d2230	DATA	client.dll
+1803d038f	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d039c	1808a6a60	DATA	patch_proxy
+1803d03a3	1806d2230	DATA	client.dll
+1803d03b5	1808a4480	DATA	48 89 5C 24 ? 48 89 6C 24 ? 56 57 41 56 48 81 EC ? ? ? ? 8B 42 40 41 BE 01 00 00 00 C1 E8 04
+1803d03bc	1808a4480	PARAM	48 89 5C 24 ? 48 89 6C 24 ? 56 57 41 56 48 81 EC ? ? ? ? 8B 42 40 41 BE 01 00 00 00 C1 E8 04
+1803d03bf	1806ffa88	DATA	sound_start_message
+1803d03c9	1806d2230	DATA	client.dll
+1803d03d5	1806d2230	DATA	client.dll
+1803d044a	1808a4480	DATA	48 89 5C 24 ? 48 89 6C 24 ? 56 57 41 56 48 81 EC ? ? ? ? 8B 42 40 41 BE 01 00 00 00 C1 E8 04
+1803d046a	1808a4480	PARAM	48 89 5C 24 ? 48 89 6C 24 ? 56 57 41 56 48 81 EC ? ? ? ? 8B 42 40 41 BE 01 00 00 00 C1 E8 04
+1803d046d	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d0479	1806ffa88	DATA	sound_start_message
+1803d0480	1808a4480	PARAM	48 89 5C 24 ? 48 89 6C 24 ? 56 57 41 56 48 81 EC ? ? ? ? 8B 42 40 41 BE 01 00 00 00 C1 E8 04
+1803d0483	1806d2230	DATA	client.dll
+1803d0498	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d04a5	1806ffa88	DATA	sound_start_message
+1803d04ac	1806d2230	DATA	client.dll
+1803d04c1	1808a44e0	DATA	48 89 5C 24 20 55 56 57 48 83 EC 70 48 8B F9 49 8B D8 48 83 C1 60 E8 ? ? ? ? 8B F0 85 C0 75 ? 39 87 ? ? ? ? 0F 85 ? ? ? ? 48 8D 8F
+1803d04c8	1808a44e0	PARAM	48 89 5C 24 20 55 56 57 48 83 EC 70 48 8B F9 49 8B D8 48 83 C1 60 E8 ? ? ? ? 8B F0 85 C0 75 ? 39 87 ? ? ? ? 0F 85 ? ? ? ? 48 8D 8F
+1803d04d5	1806ffaa0	DATA	pet_anim_event
+1803d04dc	1806d2230	DATA	client.dll
+1803d04e8	1806d2230	DATA	client.dll
+1803d055d	1808a44e0	DATA	48 89 5C 24 20 55 56 57 48 83 EC 70 48 8B F9 49 8B D8 48 83 C1 60 E8 ? ? ? ? 8B F0 85 C0 75 ? 39 87 ? ? ? ? 0F 85 ? ? ? ? 48 8D 8F
+1803d057d	1808a44e0	PARAM	48 89 5C 24 20 55 56 57 48 83 EC 70 48 8B F9 49 8B D8 48 83 C1 60 E8 ? ? ? ? 8B F0 85 C0 75 ? 39 87 ? ? ? ? 0F 85 ? ? ? ? 48 8D 8F
+1803d0580	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d058c	1806ffaa0	DATA	pet_anim_event
+1803d0593	1808a44e0	PARAM	48 89 5C 24 20 55 56 57 48 83 EC 70 48 8B F9 49 8B D8 48 83 C1 60 E8 ? ? ? ? 8B F0 85 C0 75 ? 39 87 ? ? ? ? 0F 85 ? ? ? ? 48 8D 8F
+1803d0596	1806d2230	DATA	client.dll
+1803d05ab	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d05b8	1806ffaa0	DATA	pet_anim_event
+1803d05bf	1806d2230	DATA	client.dll
+1803d05d4	1808a54d0	DATA	4C 8B DC 55 41 55 41 56 41 57 49 8D AB ? ? ? ? 48 81 EC ? ? ? ? 45 33 ED 4C 8B FA BA 01 00 00 00
+1803d05db	1808a54d0	PARAM	4C 8B DC 55 41 55 41 56 41 57 49 8D AB ? ? ? ? 48 81 EC ? ? ? ? 45 33 ED 4C 8B FA BA 01 00 00 00
+1803d05e8	1808a6a50	DATA	playvol_command
+1803d05ef	18070c8c8	DATA	soundsystem.dll
+1803d05fb	18070c8c8	DATA	soundsystem.dll
+1803d0670	1808a54d0	DATA	4C 8B DC 55 41 55 41 56 41 57 49 8D AB ? ? ? ? 48 81 EC ? ? ? ? 45 33 ED 4C 8B FA BA 01 00 00 00
+1803d0690	1808a54d0	PARAM	4C 8B DC 55 41 55 41 56 41 57 49 8D AB ? ? ? ? 48 81 EC ? ? ? ? 45 33 ED 4C 8B FA BA 01 00 00 00
+1803d0693	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d069f	1808a6a50	DATA	playvol_command
+1803d06a6	1808a54d0	PARAM	4C 8B DC 55 41 55 41 56 41 57 49 8D AB ? ? ? ? 48 81 EC ? ? ? ? 45 33 ED 4C 8B FA BA 01 00 00 00
+1803d06a9	18070c8c8	DATA	soundsystem.dll
+1803d06be	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d06cb	1808a6a50	DATA	playvol_command
+1803d06d2	18070c8c8	DATA	soundsystem.dll
+1803d06e7	1808a5170	DATA	40 53 48 83 EC 20 48 8B 05 ? ? ? ? 48 8B D9 48 85 C0 75 1E B9 A8 0E 00 00 E8
+1803d06ee	1808a5170	PARAM	40 53 48 83 EC 20 48 8B 05 ? ? ? ? 48 8B D9 48 85 C0 75 1E B9 A8 0E 00 00 E8
+1803d06fb	1808a6a38	DATA	rank_reveal_handler
+1803d0702	1806d2230	DATA	client.dll
+1803d070e	1806d2230	DATA	client.dll
+1803d0783	1808a5170	DATA	40 53 48 83 EC 20 48 8B 05 ? ? ? ? 48 8B D9 48 85 C0 75 1E B9 A8 0E 00 00 E8
+1803d07a3	1808a5170	PARAM	40 53 48 83 EC 20 48 8B 05 ? ? ? ? 48 8B D9 48 85 C0 75 1E B9 A8 0E 00 00 E8
+1803d07a6	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d07b2	1808a6a38	DATA	rank_reveal_handler
+1803d07b9	1808a5170	PARAM	40 53 48 83 EC 20 48 8B 05 ? ? ? ? 48 8B D9 48 85 C0 75 1E B9 A8 0E 00 00 E8
+1803d07bc	1806d2230	DATA	client.dll
+1803d07d1	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d07de	1808a6a38	DATA	rank_reveal_handler
+1803d07e5	1806d2230	DATA	client.dll
+1803d07fa	1808a5128	DATA	C7 45 C4 00 00 00 C0 C7 45 C8 00 00 00 C0 E8 ? ? ? ? 49 39 36
+1803d0801	1808a5128	PARAM	C7 45 C4 00 00 00 C0 C7 45 C8 00 00 00 C0 E8 ? ? ? ? 49 39 36
+1803d080e	1808a6a28	DATA	impact_box_site
+1803d0815	1806d2230	DATA	client.dll
+1803d0821	1806d2230	DATA	client.dll
+1803d089a	1808a5128	DATA	C7 45 C4 00 00 00 C0 C7 45 C8 00 00 00 C0 E8 ? ? ? ? 49 39 36
+1803d08ba	1808a5128	PARAM	C7 45 C4 00 00 00 C0 C7 45 C8 00 00 00 C0 E8 ? ? ? ? 49 39 36
+1803d08bd	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d08c9	1808a6a28	DATA	impact_box_site
+1803d08d0	1808a5128	PARAM	C7 45 C4 00 00 00 C0 C7 45 C8 00 00 00 C0 E8 ? ? ? ? 49 39 36
+1803d08d3	1806d2230	DATA	client.dll
+1803d0903	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d0910	1808a6a28	DATA	impact_box_site
+1803d0917	1806d2230	DATA	client.dll
+1803d0929	1808a4090	DATA	8B 05 ? ? ? ? 48 8B 4C 24 ? 83 49 10 04 89 41 28 48 8B 44 24 ? F3 0F 10 05 ? ? ? ? 81 48 10 80 00 00 00 F3 0F 11 40 3C 48 8B 44 24 ? F3 0F 10 0D ? ? ? ? 81 48 10 00 01 00 00 F3 0F 11 48 40 0F 57 C9 F3 0F 10 05
+1803d0930	1808a4090	PARAM	8B 05 ? ? ? ? 48 8B 4C 24 ? 83 49 10 04 89 41 28 48 8B 44 24 ? F3 0F 10 05 ? ? ? ? 81 48 10 80 00 00 00 F3 0F 11 40 3C 48 8B 44 24 ? F3 0F 10 0D ? ? ? ? 81 48 10 00 01 00 00 F3 0F 11 48 40 0F 57 C9 F3 0F 10 05
+1803d0933	1808a6a10	DATA	apply_sticker_site
+1803d093d	1806d2230	DATA	client.dll
+1803d0949	1806d2230	DATA	client.dll
+1803d09ca	1808a4090	DATA	8B 05 ? ? ? ? 48 8B 4C 24 ? 83 49 10 04 89 41 28 48 8B 44 24 ? F3 0F 10 05 ? ? ? ? 81 48 10 80 00 00 00 F3 0F 11 40 3C 48 8B 44 24 ? F3 0F 10 0D ? ? ? ? 81 48 10 00 01 00 00 F3 0F 11 48 40 0F 57 C9 F3 0F 10 05
+1803d09ea	1808a4090	PARAM	8B 05 ? ? ? ? 48 8B 4C 24 ? 83 49 10 04 89 41 28 48 8B 44 24 ? F3 0F 10 05 ? ? ? ? 81 48 10 80 00 00 00 F3 0F 11 40 3C 48 8B 44 24 ? F3 0F 10 0D ? ? ? ? 81 48 10 00 01 00 00 F3 0F 11 48 40 0F 57 C9 F3 0F 10 05
+1803d09ed	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d09f9	1808a6a10	DATA	apply_sticker_site
+1803d0a00	1808a4090	PARAM	8B 05 ? ? ? ? 48 8B 4C 24 ? 83 49 10 04 89 41 28 48 8B 44 24 ? F3 0F 10 05 ? ? ? ? 81 48 10 80 00 00 00 F3 0F 11 40 3C 48 8B 44 24 ? F3 0F 10 0D ? ? ? ? 81 48 10 00 01 00 00 F3 0F 11 48 40 0F 57 C9 F3 0F 10 05
+1803d0a03	1806d2230	DATA	client.dll
+1803d0a6d	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d0a7a	1808a6a10	DATA	apply_sticker_site
+1803d0a81	1806d2230	DATA	client.dll
+1803d0a93	1808a4020	DATA	F3 0F 11 15 ? ? ? ? 0F 28 C2 0F C6 CA AA 0F C6 C2 55 4D 8B C5 49 8B D7 F3 0F 11 05 ? ? ? ? F3 0F 11 0D
+1803d0a9a	1808a4020	PARAM	F3 0F 11 15 ? ? ? ? 0F 28 C2 0F C6 CA AA 0F C6 C2 55 4D 8B C5 49 8B D7 F3 0F 11 05 ? ? ? ? F3 0F 11 0D
+1803d0a9d	1808a69f8	DATA	place_charm_site
+1803d0aa7	1806d2230	DATA	client.dll
+1803d0ab3	1806d2230	DATA	client.dll
+1803d0b34	1808a4020	DATA	F3 0F 11 15 ? ? ? ? 0F 28 C2 0F C6 CA AA 0F C6 C2 55 4D 8B C5 49 8B D7 F3 0F 11 05 ? ? ? ? F3 0F 11 0D
+1803d0b54	1808a4020	PARAM	F3 0F 11 15 ? ? ? ? 0F 28 C2 0F C6 CA AA 0F C6 C2 55 4D 8B C5 49 8B D7 F3 0F 11 05 ? ? ? ? F3 0F 11 0D
+1803d0b57	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d0b63	1808a69f8	DATA	place_charm_site
+1803d0b6a	1808a4020	PARAM	F3 0F 11 15 ? ? ? ? 0F 28 C2 0F C6 CA AA 0F C6 C2 55 4D 8B C5 49 8B D7 F3 0F 11 05 ? ? ? ? F3 0F 11 0D
+1803d0b6d	1806d2230	DATA	client.dll
+1803d0bbc	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d0bc9	1808a69f8	DATA	place_charm_site
+1803d0bd0	1806d2230	DATA	client.dll
+1803d0be2	1808a4568	DATA	48 85 C0 74 0E 89 1D ? ? ? ? B0 01 48 83 C4 20 5B C3
+1803d0be9	1808a4568	PARAM	48 85 C0 74 0E 89 1D ? ? ? ? B0 01 48 83 C4 20 5B C3
+1803d0bec	1808a69e8	DATA	tool_slot_site
+1803d0bf6	1806d2230	DATA	client.dll
+1803d0c02	1806d2230	DATA	client.dll
+1803d0c7b	1808a4568	DATA	48 85 C0 74 0E 89 1D ? ? ? ? B0 01 48 83 C4 20 5B C3
+1803d0c9b	1808a4568	PARAM	48 85 C0 74 0E 89 1D ? ? ? ? B0 01 48 83 C4 20 5B C3
+1803d0c9e	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d0caa	1808a69e8	DATA	tool_slot_site
+1803d0cb1	1808a4568	PARAM	48 85 C0 74 0E 89 1D ? ? ? ? B0 01 48 83 C4 20 5B C3
+1803d0cb4	1806d2230	DATA	client.dll
+1803d0ce4	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d0cf1	1808a69e8	DATA	tool_slot_site
+1803d0cf8	1806d2230	DATA	client.dll
+1803d0d0a	1808a2e30	DATA	48 89 5C 24 08 57 48 81 EC F0 00 00 00 F3 0F 10 0A 48 8D 8C 24 10 01 00 00 41 8B D8 48 8B FA E8 ? ? ? ? F3 0F 10 4F 04
+1803d0d11	1808a2e30	PARAM	48 89 5C 24 08 57 48 81 EC F0 00 00 00 F3 0F 10 0A 48 8D 8C 24 10 01 00 00 41 8B D8 48 8B FA E8 ? ? ? ? F3 0F 10 4F 04
+1803d0d14	1808a69d0	DATA	get_tick_view_angles
+1803d0d1e	1806d2230	DATA	client.dll
+1803d0d2a	1806d2230	DATA	client.dll
+1803d0d9f	1808a2e30	DATA	48 89 5C 24 08 57 48 81 EC F0 00 00 00 F3 0F 10 0A 48 8D 8C 24 10 01 00 00 41 8B D8 48 8B FA E8 ? ? ? ? F3 0F 10 4F 04
+1803d0dbf	1808a2e30	PARAM	48 89 5C 24 08 57 48 81 EC F0 00 00 00 F3 0F 10 0A 48 8D 8C 24 10 01 00 00 41 8B D8 48 8B FA E8 ? ? ? ? F3 0F 10 4F 04
+1803d0dc2	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d0dce	1808a69d0	DATA	get_tick_view_angles
+1803d0dd5	1808a2e30	PARAM	48 89 5C 24 08 57 48 81 EC F0 00 00 00 F3 0F 10 0A 48 8D 8C 24 10 01 00 00 41 8B D8 48 8B FA E8 ? ? ? ? F3 0F 10 4F 04
+1803d0dd8	1806d2230	DATA	client.dll
+1803d0ded	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d0dfa	1808a69d0	DATA	get_tick_view_angles
+1803d0e01	1806d2230	DATA	client.dll
+1803d0e16	1808a2db8	DATA	40 57 41 56 48 83 EC 68 48 8B F9 E8 ? ? ? ? 4C 8B F0 48 85 C0
+1803d0e1d	1808a2db8	PARAM	40 57 41 56 48 83 EC 68 48 8B F9 E8 ? ? ? ? 4C 8B F0 48 85 C0
+1803d0e2a	1808a6af0	DATA	weapon_update_accuracy
+1803d0e31	1806d2230	DATA	client.dll
+1803d0e3d	1806d2230	DATA	client.dll
+1803d0eb2	1808a2db8	DATA	40 57 41 56 48 83 EC 68 48 8B F9 E8 ? ? ? ? 4C 8B F0 48 85 C0
+1803d0ed2	1808a2db8	PARAM	40 57 41 56 48 83 EC 68 48 8B F9 E8 ? ? ? ? 4C 8B F0 48 85 C0
+1803d0ed5	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d0ee1	1808a6af0	DATA	weapon_update_accuracy
+1803d0ee8	1808a2db8	PARAM	40 57 41 56 48 83 EC 68 48 8B F9 E8 ? ? ? ? 4C 8B F0 48 85 C0
+1803d0eeb	1806d2230	DATA	client.dll
+1803d0f00	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d0f0d	1808a6af0	DATA	weapon_update_accuracy
+1803d0f14	1806d2230	DATA	client.dll
+1803d0f29	1808a2d80	DATA	48 89 5C 24 ? 55 56 57 48 81 EC ? ? ? ? 44 0F 29 84 24
+1803d0f30	1808a2d80	PARAM	48 89 5C 24 ? 55 56 57 48 81 EC ? ? ? ? 44 0F 29 84 24
+1803d0f3d	1808a6ae0	DATA	get_inaccuracy
+1803d0f44	1806d2230	DATA	client.dll
+1803d0f50	1806d2230	DATA	client.dll
+1803d0fc5	1808a2d80	DATA	48 89 5C 24 ? 55 56 57 48 81 EC ? ? ? ? 44 0F 29 84 24
+1803d0fe5	1808a2d80	PARAM	48 89 5C 24 ? 55 56 57 48 81 EC ? ? ? ? 44 0F 29 84 24
+1803d0fe8	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d0ff4	1808a6ae0	DATA	get_inaccuracy
+1803d0ffb	1808a2d80	PARAM	48 89 5C 24 ? 55 56 57 48 81 EC ? ? ? ? 44 0F 29 84 24
+1803d0ffe	1806d2230	DATA	client.dll
+1803d1013	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d1020	1808a6ae0	DATA	get_inaccuracy
+1803d1027	1806d2230	DATA	client.dll
+1803d103c	1808a2d20	DATA	48 63 91 ? ? ? ? 48 8B 81 ? ? ? ? 85 D2 78 10 48 83 FA 02 73 0A F3 0F 10 84 90 50 07 00 00
+1803d1043	1808a2d20	PARAM	48 63 91 ? ? ? ? 48 8B 81 ? ? ? ? 85 D2 78 10 48 83 FA 02 73 0A F3 0F 10 84 90 50 07 00 00
+1803d1050	1808a6ad0	DATA	get_spread
+1803d1057	1806d2230	DATA	client.dll
+1803d1063	1806d2230	DATA	client.dll
+1803d10d8	1808a2d20	DATA	48 63 91 ? ? ? ? 48 8B 81 ? ? ? ? 85 D2 78 10 48 83 FA 02 73 0A F3 0F 10 84 90 50 07 00 00
+1803d10f8	1808a2d20	PARAM	48 63 91 ? ? ? ? 48 8B 81 ? ? ? ? 85 D2 78 10 48 83 FA 02 73 0A F3 0F 10 84 90 50 07 00 00
+1803d10fb	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d1107	1808a6ad0	DATA	get_spread
+1803d110e	1808a2d20	PARAM	48 63 91 ? ? ? ? 48 8B 81 ? ? ? ? 85 D2 78 10 48 83 FA 02 73 0A F3 0F 10 84 90 50 07 00 00
+1803d1111	1806d2230	DATA	client.dll
+1803d1126	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d1133	1808a6ad0	DATA	get_spread
+1803d113a	1806d2230	DATA	client.dll
+1803d1149	1808a2df8	DATA	28 F3 44 0F 11 44 24 20 E8 ? ? ? ? 48 8D 85 B0 00 00 00
+1803d1157	1808a6ab8	DATA	weapon_calculate_spread
+1803d115e	1806d2230	DATA	client.dll
+1803d119a	1808a2df8	DATA	28 F3 44 0F 11 44 24 20 E8 ? ? ? ? 48 8D 85 B0 00 00 00
+1803d11a5	1808a6ab8	DATA	weapon_calculate_spread
+1803d11af	1806d2230	DATA	client.dll
+1803d11c8	1808a2df8	DATA	28 F3 44 0F 11 44 24 20 E8 ? ? ? ? 48 8D 85 B0 00 00 00
+1803d11cf	1808a6ab8	DATA	weapon_calculate_spread
+1803d11d6	1806d2230	DATA	client.dll
+1803d11e8	1808a2df8	DATA	28 F3 44 0F 11 44 24 20 E8 ? ? ? ? 48 8D 85 B0 00 00 00
+1803d11ef	1808a6ab8	DATA	weapon_calculate_spread
+1803d11f6	1806d2230	DATA	client.dll
+1803d11fd	1808a61b0	DATA	[error] call not resolved | %s:%s | %s
+1803d120c	1808a2ce0	DATA	48 8D 54 24 20 E8 ? ? ? ? F3 0F 10 15 ? ? ? ? F3 0F 10 44 24 20
+1803d121a	1808a6aa8	DATA	get_aim_punch
+1803d1221	1806d2230	DATA	client.dll
+1803d125d	1808a2ce0	DATA	48 8D 54 24 20 E8 ? ? ? ? F3 0F 10 15 ? ? ? ? F3 0F 10 44 24 20
+1803d1268	1808a6aa8	DATA	get_aim_punch
+1803d1272	1806d2230	DATA	client.dll
+1803d128b	1808a2ce0	DATA	48 8D 54 24 20 E8 ? ? ? ? F3 0F 10 15 ? ? ? ? F3 0F 10 44 24 20
+1803d1292	1808a6aa8	DATA	get_aim_punch
+1803d1299	1806d2230	DATA	client.dll
+1803d12ab	1808a2ce0	DATA	48 8D 54 24 20 E8 ? ? ? ? F3 0F 10 15 ? ? ? ? F3 0F 10 44 24 20
+1803d12b2	1808a6aa8	DATA	get_aim_punch
+1803d12b9	1806d2230	DATA	client.dll
+1803d12c0	1808a61b0	DATA	[error] call not resolved | %s:%s | %s
+1803d12cf	1808a3080	DATA	BA 0E C4 90 FF 66 0F 7F 45 ? 48 8D 8D ? ? ? ? E8
+1803d12dd	1806ff8c8	DATA	set_shader_param
+1803d12e4	1806d2230	DATA	client.dll
+1803d1320	1808a3080	DATA	BA 0E C4 90 FF 66 0F 7F 45 ? 48 8D 8D ? ? ? ? E8
+1803d132b	1806ff8c8	DATA	set_shader_param
+1803d1335	1806d2230	DATA	client.dll
+1803d134e	1808a3080	DATA	BA 0E C4 90 FF 66 0F 7F 45 ? 48 8D 8D ? ? ? ? E8
+1803d1355	1806ff8c8	DATA	set_shader_param
+1803d135c	1806d2230	DATA	client.dll
+1803d136e	1808a3080	DATA	BA 0E C4 90 FF 66 0F 7F 45 ? 48 8D 8D ? ? ? ? E8
+1803d1375	1806ff8c8	DATA	set_shader_param
+1803d137c	1806d2230	DATA	client.dll
+1803d1383	1808a61b0	DATA	[error] call not resolved | %s:%s | %s
+1803d1392	1808a3060	DATA	E8 ? ? ? ? 44 0F 28 94 24
+1803d13a0	1806ff960	DATA	set_postprocess_vec
+1803d13a7	1806f0638	DATA	engine2.dll
+1803d13e2	1808a3060	DATA	E8 ? ? ? ? 44 0F 28 94 24
+1803d13ed	1806ff960	DATA	set_postprocess_vec
+1803d13f7	1806f0638	DATA	engine2.dll
+1803d1410	1808a3060	DATA	E8 ? ? ? ? 44 0F 28 94 24
+1803d1417	1806ff960	DATA	set_postprocess_vec
+1803d141e	1806f0638	DATA	engine2.dll
+1803d1430	1808a3060	DATA	E8 ? ? ? ? 44 0F 28 94 24
+1803d1437	1806ff960	DATA	set_postprocess_vec
+1803d143e	1806f0638	DATA	engine2.dll
+1803d1445	1808a61b0	DATA	[error] call not resolved | %s:%s | %s
+1803d145a	1808a3240	DATA	40 55 53 41 56 48 8D 6C 24 F0 48 81 EC 10 01 00 00 4C 8B F1 C7 44 24 20 FF FF FF FF 33 C0 45 33 C9 48 89 81 ? ? ? ? 41 B8 00 20 00 00
+1803d1461	1808a3240	PARAM	40 55 53 41 56 48 8D 6C 24 F0 48 81 EC 10 01 00 00 4C 8B F1 C7 44 24 20 FF FF FF FF 33 C0 45 33 C9 48 89 81 ? ? ? ? 41 B8 00 20 00 00
+1803d146e	1806ffad8	DATA	send_move_packet
+1803d1475	1806f0638	DATA	engine2.dll
+1803d1481	1806f0638	DATA	engine2.dll
+1803d14f6	1808a3240	DATA	40 55 53 41 56 48 8D 6C 24 F0 48 81 EC 10 01 00 00 4C 8B F1 C7 44 24 20 FF FF FF FF 33 C0 45 33 C9 48 89 81 ? ? ? ? 41 B8 00 20 00 00
+1803d1516	1808a3240	PARAM	40 55 53 41 56 48 8D 6C 24 F0 48 81 EC 10 01 00 00 4C 8B F1 C7 44 24 20 FF FF FF FF 33 C0 45 33 C9 48 89 81 ? ? ? ? 41 B8 00 20 00 00
+1803d1519	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d1525	1806ffad8	DATA	send_move_packet
+1803d152c	1808a3240	PARAM	40 55 53 41 56 48 8D 6C 24 F0 48 81 EC 10 01 00 00 4C 8B F1 C7 44 24 20 FF FF FF FF 33 C0 45 33 C9 48 89 81 ? ? ? ? 41 B8 00 20 00 00
+1803d152f	1806f0638	DATA	engine2.dll
+1803d1544	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d1551	1806ffad8	DATA	send_move_packet
+1803d1558	1806f0638	DATA	engine2.dll
+1803d156d	1808a2fe0	DATA	4C 8B 05 ? ? ? ? 4D 85 C0 74 10
+1803d1574	1808a2fe0	PARAM	4C 8B 05 ? ? ? ? 4D 85 C0 74 10
+1803d1581	1808a6a98	DATA	get_net_channel
+1803d1588	1806f0638	DATA	engine2.dll
+1803d1594	1806f0638	DATA	engine2.dll
+1803d160d	1808a2fe0	DATA	4C 8B 05 ? ? ? ? 4D 85 C0 74 10
+1803d162d	1808a2fe0	PARAM	4C 8B 05 ? ? ? ? 4D 85 C0 74 10
+1803d1630	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d163c	1808a6a98	DATA	get_net_channel
+1803d1643	1808a2fe0	PARAM	4C 8B 05 ? ? ? ? 4D 85 C0 74 10
+1803d1646	1806f0638	DATA	engine2.dll
+1803d167c	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d1689	1808a6a98	DATA	get_net_channel
+1803d1690	1806f0638	DATA	engine2.dll
+1803d16a9	1808a2fa8	DATA	8D 56 01 89 BB ? ? ? ? 33 ED 89 B3 ? ? ? ? 3B D7
+1803d16b0	1808a2fa8	PARAM	8D 56 01 89 BB ? ? ? ? 33 ED 89 B3 ? ? ? ? 3B D7
+1803d16b3	1808a6a80	DATA	last_command_executed
+1803d16bd	1806f0638	DATA	engine2.dll
+1803d16c9	1806f0638	DATA	engine2.dll
+1803d173e	1808a2fa8	DATA	8D 56 01 89 BB ? ? ? ? 33 ED 89 B3 ? ? ? ? 3B D7
+1803d175e	1808a2fa8	PARAM	8D 56 01 89 BB ? ? ? ? 33 ED 89 B3 ? ? ? ? 3B D7
+1803d1761	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d176d	1808a6a80	DATA	last_command_executed
+1803d1774	1808a2fa8	PARAM	8D 56 01 89 BB ? ? ? ? 33 ED 89 B3 ? ? ? ? 3B D7
+1803d1777	1806f0638	DATA	engine2.dll
+1803d179b	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d17a8	1808a6a80	DATA	last_command_executed
+1803d17af	1806f0638	DATA	engine2.dll
+1803d17c1	1808a2f60	DATA	48 8B C4 48 81 EC C8 00 00 00 48 89 58 10 48 89 68 18 48 8B EA 48 89 70
+1803d17c8	1808a2f60	PARAM	48 8B C4 48 81 EC C8 00 00 00 48 89 58 10 48 89 68 18 48 8B EA 48 89 70
+1803d17cb	1806ffcf8	DATA	run_command
+1803d17d5	1806d2230	DATA	client.dll
+1803d17e1	1806d2230	DATA	client.dll
+1803d1856	1808a2f60	DATA	48 8B C4 48 81 EC C8 00 00 00 48 89 58 10 48 89 68 18 48 8B EA 48 89 70
+1803d1876	1808a2f60	PARAM	48 8B C4 48 81 EC C8 00 00 00 48 89 58 10 48 89 68 18 48 8B EA 48 89 70
+1803d1879	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d1885	1806ffcf8	DATA	run_command
+1803d188c	1808a2f60	PARAM	48 8B C4 48 81 EC C8 00 00 00 48 89 58 10 48 89 68 18 48 8B EA 48 89 70
+1803d188f	1806d2230	DATA	client.dll
+1803d18a4	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d18b1	1806ffcf8	DATA	run_command
+1803d18b8	1806d2230	DATA	client.dll
+1803d18cd	1808a3340	DATA	48 8B 0D ? ? ? ? 33 D2 48 8B 01 FF 10
+1803d18d4	1808a3340	PARAM	48 8B 0D ? ? ? ? 33 D2 48 8B 01 FF 10
+1803d18e1	1808a6a70	DATA	prediction_end
+1803d18e8	1806d2230	DATA	client.dll
+1803d18f4	1806d2230	DATA	client.dll
+1803d196d	1808a3340	DATA	48 8B 0D ? ? ? ? 33 D2 48 8B 01 FF 10
+1803d198d	1808a3340	PARAM	48 8B 0D ? ? ? ? 33 D2 48 8B 01 FF 10
+1803d1990	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d199c	1808a6a70	DATA	prediction_end
+1803d19a3	1808a3340	PARAM	48 8B 0D ? ? ? ? 33 D2 48 8B 01 FF 10
+1803d19a6	1806d2230	DATA	client.dll
+1803d19e0	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d19ed	1808a6a70	DATA	prediction_end
+1803d19f4	1806d2230	DATA	client.dll
+1803d1a00	1808a3040	DATA	48 8D 05 ? ? ? ? 0F 10 04 C8
+1803d1a07	1808a6ba0	DATA	frame_input_ring
+1803d1a0e	1806f0638	DATA	engine2.dll
+1803d1a26	1808a3040	DATA	48 8D 05 ? ? ? ? 0F 10 04 C8
+1803d1a33	1808a6ba0	DATA	frame_input_ring
+1803d1a49	1806f0638	DATA	engine2.dll
+1803d1a5d	1806f0638	DATA	engine2.dll
+1803d1a6f	1808a3040	DATA	48 8D 05 ? ? ? ? 0F 10 04 C8
+1803d1a76	1808a6ba0	DATA	frame_input_ring
+1803d1a7d	1806f0638	DATA	engine2.dll
+1803d1a84	1808a6180	DATA	[error] address not resolved | %s:%s | %s
+1803d1a93	1808a3020	DATA	48 63 15 ? ? ? ? 83 FA 0A 7D 61
+1803d1aa1	1808a6b88	DATA	frame_input_index
+1803d1aa8	1806f0638	DATA	engine2.dll
+1803d1ac0	1808a3020	DATA	48 63 15 ? ? ? ? 83 FA 0A 7D 61
+1803d1acd	1808a6b88	DATA	frame_input_index
+1803d1ae3	1806f0638	DATA	engine2.dll
+1803d1af7	1806f0638	DATA	engine2.dll
+1803d1b09	1808a3020	DATA	48 63 15 ? ? ? ? 83 FA 0A 7D 61
+1803d1b10	1808a6b88	DATA	frame_input_index
+1803d1b17	1806f0638	DATA	engine2.dll
+1803d1b1e	1808a6180	DATA	[error] address not resolved | %s:%s | %s
+1803d1b2d	1808a3000	DATA	E8 ? ? ? ? 41 8B 96 68 03 00 00
+1803d1b3b	1808a6b70	DATA	get_interp_amount
+1803d1b42	1806d2230	DATA	client.dll
+1803d1b7d	1808a3000	DATA	E8 ? ? ? ? 41 8B 96 68 03 00 00
+1803d1b88	1808a6b70	DATA	get_interp_amount
+1803d1b92	1806d2230	DATA	client.dll
+1803d1bab	1808a3000	DATA	E8 ? ? ? ? 41 8B 96 68 03 00 00
+1803d1bb2	1808a6b70	DATA	get_interp_amount
+1803d1bb9	1806d2230	DATA	client.dll
+1803d1bcb	1808a3000	DATA	E8 ? ? ? ? 41 8B 96 68 03 00 00
+1803d1bd2	1808a6b70	DATA	get_interp_amount
+1803d1bd9	1806d2230	DATA	client.dll
+1803d1be0	1808a61b0	DATA	[error] call not resolved | %s:%s | %s
+1803d1bef	1808a3178	DATA	E8 ? ? ? ? 33 D2 48 8D 4D ? FF 15 ? ? ? ? 4C 39 65
+1803d1bfd	1808a6b60	DATA	set_voice_data
+1803d1c04	1806d2230	DATA	client.dll
+1803d1c3f	1808a3178	DATA	E8 ? ? ? ? 33 D2 48 8D 4D ? FF 15 ? ? ? ? 4C 39 65
+1803d1c4a	1808a6b60	DATA	set_voice_data
+1803d1c54	1806d2230	DATA	client.dll
+1803d1c6d	1808a3178	DATA	E8 ? ? ? ? 33 D2 48 8D 4D ? FF 15 ? ? ? ? 4C 39 65
+1803d1c74	1808a6b60	DATA	set_voice_data
+1803d1c7b	1806d2230	DATA	client.dll
+1803d1c8d	1808a3178	DATA	E8 ? ? ? ? 33 D2 48 8D 4D ? FF 15 ? ? ? ? 4C 39 65
+1803d1c94	1808a6b60	DATA	set_voice_data
+1803d1c9b	1806d2230	DATA	client.dll
+1803d1ca2	1808a61b0	DATA	[error] call not resolved | %s:%s | %s
+1803d1cb7	1808a3870	DATA	48 89 5C 24 08 57 48 83 EC 20 48 8B D9 E8 ? ? ? ? 48 85 C0 0F 84 ? ? ? ? 48 8B 05 ? ? ? ? 80 78 58 00 74 ? B0 01
+1803d1cbe	1808a3870	PARAM	48 89 5C 24 08 57 48 83 EC 20 48 8B D9 E8 ? ? ? ? 48 85 C0 0F 84 ? ? ? ? 48 8B 05 ? ? ? ? 80 78 58 00 74 ? B0 01
+1803d1ccb	1806ff9a0	DATA	should_draw_crosshair
+1803d1cd2	1806d2230	DATA	client.dll
+1803d1cde	1806d2230	DATA	client.dll
+1803d1d53	1808a3870	DATA	48 89 5C 24 08 57 48 83 EC 20 48 8B D9 E8 ? ? ? ? 48 85 C0 0F 84 ? ? ? ? 48 8B 05 ? ? ? ? 80 78 58 00 74 ? B0 01
+1803d1d73	1808a3870	PARAM	48 89 5C 24 08 57 48 83 EC 20 48 8B D9 E8 ? ? ? ? 48 85 C0 0F 84 ? ? ? ? 48 8B 05 ? ? ? ? 80 78 58 00 74 ? B0 01
+1803d1d76	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d1d82	1806ff9a0	DATA	should_draw_crosshair
+1803d1d89	1808a3870	PARAM	48 89 5C 24 08 57 48 83 EC 20 48 8B D9 E8 ? ? ? ? 48 85 C0 0F 84 ? ? ? ? 48 8B 05 ? ? ? ? 80 78 58 00 74 ? B0 01
+1803d1d8c	1806d2230	DATA	client.dll
+1803d1da1	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d1dae	1806ff9a0	DATA	should_draw_crosshair
+1803d1db5	1806d2230	DATA	client.dll
+1803d1dca	1808a38f0	DATA	48 89 74 24 ? 57 48 83 EC 30 48 8B F1 E8 ? ? ? ? 48 8B F8 48 85 C0 74 ? 48 8B 88
+1803d1dd1	1808a38f0	PARAM	48 89 74 24 ? 57 48 83 EC 30 48 8B F1 E8 ? ? ? ? 48 8B F8 48 85 C0 74 ? 48 8B 88
+1803d1dde	1806ff988	DATA	should_draw_viewmodel
+1803d1de5	1806d2230	DATA	client.dll
+1803d1df1	1806d2230	DATA	client.dll
+1803d1e66	1808a38f0	DATA	48 89 74 24 ? 57 48 83 EC 30 48 8B F1 E8 ? ? ? ? 48 8B F8 48 85 C0 74 ? 48 8B 88
+1803d1e86	1808a38f0	PARAM	48 89 74 24 ? 57 48 83 EC 30 48 8B F1 E8 ? ? ? ? 48 8B F8 48 85 C0 74 ? 48 8B 88
+1803d1e89	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d1e95	1806ff988	DATA	should_draw_viewmodel
+1803d1e9c	1808a38f0	PARAM	48 89 74 24 ? 57 48 83 EC 30 48 8B F1 E8 ? ? ? ? 48 8B F8 48 85 C0 74 ? 48 8B 88
+1803d1e9f	1806d2230	DATA	client.dll
+1803d1eb4	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d1ec1	1806ff988	DATA	should_draw_viewmodel
+1803d1ec8	1806d2230	DATA	client.dll
+1803d1edd	1808a3950	DATA	48 89 5C 24 ? 48 89 74 24 ? 55 57 41 54 41 56 41 57 48 8D 6C 24 ? 48 81 EC ? ? ? ? 4D 8B F1 49 8B F0 48 8B DA 4C 8B F9 48 85 D2
+1803d1ee4	1808a3950	PARAM	48 89 5C 24 ? 48 89 74 24 ? 55 57 41 54 41 56 41 57 48 8D 6C 24 ? 48 81 EC ? ? ? ? 4D 8B F1 49 8B F0 48 8B DA 4C 8B F9 48 85 D2
+1803d1ef1	1808a6b50	DATA	bomb_damage
+1803d1ef8	1806d2230	DATA	client.dll
+1803d1f04	1806d2230	DATA	client.dll
+1803d1f79	1808a3950	DATA	48 89 5C 24 ? 48 89 74 24 ? 55 57 41 54 41 56 41 57 48 8D 6C 24 ? 48 81 EC ? ? ? ? 4D 8B F1 49 8B F0 48 8B DA 4C 8B F9 48 85 D2
+1803d1f99	1808a3950	PARAM	48 89 5C 24 ? 48 89 74 24 ? 55 57 41 54 41 56 41 57 48 8D 6C 24 ? 48 81 EC ? ? ? ? 4D 8B F1 49 8B F0 48 8B DA 4C 8B F9 48 85 D2
+1803d1f9c	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d1fa8	1808a6b50	DATA	bomb_damage
+1803d1faf	1808a3950	PARAM	48 89 5C 24 ? 48 89 74 24 ? 55 57 41 54 41 56 41 57 48 8D 6C 24 ? 48 81 EC ? ? ? ? 4D 8B F1 49 8B F0 48 8B DA 4C 8B F9 48 85 D2
+1803d1fb2	1806d2230	DATA	client.dll
+1803d1fc7	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d1fd4	1808a6b50	DATA	bomb_damage
+1803d1fdb	1806d2230	DATA	client.dll
+1803d1ff0	1808a3450	DATA	40 55 48 83 EC ? 8B 91 ? ? ? ? 48 8B E9 83 FA FF 0F 84 ? ? ? ? 4C 8B 0D
+1803d1ff7	1808a3450	PARAM	40 55 48 83 EC ? 8B 91 ? ? ? ? 48 8B E9 83 FA FF 0F 84 ? ? ? ? 4C 8B 0D
+1803d2004	1808a6b38	DATA	preview_visibility
+1803d200b	1806d2230	DATA	client.dll
+1803d2017	1806d2230	DATA	client.dll
+1803d208c	1808a3450	DATA	40 55 48 83 EC ? 8B 91 ? ? ? ? 48 8B E9 83 FA FF 0F 84 ? ? ? ? 4C 8B 0D
+1803d20ac	1808a3450	PARAM	40 55 48 83 EC ? 8B 91 ? ? ? ? 48 8B E9 83 FA FF 0F 84 ? ? ? ? 4C 8B 0D
+1803d20af	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d20bb	1808a6b38	DATA	preview_visibility
+1803d20c2	1808a3450	PARAM	40 55 48 83 EC ? 8B 91 ? ? ? ? 48 8B E9 83 FA FF 0F 84 ? ? ? ? 4C 8B 0D
+1803d20c5	1806d2230	DATA	client.dll
+1803d20da	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d20e7	1808a6b38	DATA	preview_visibility
+1803d20ee	1806d2230	DATA	client.dll
+1803d2103	1808a3520	DATA	48 89 5C 24 18 48 89 74 24 20 57 48 81 EC A0 01 00 00 48 83 B9 ? ? ? ? 00 49 8B D8 8B F2 48 8B F9 75 ? 83 B9 ? ? ? ? 00 74 ? 4C 8D 05 ? ? ? ? BA ? ? ? ? 48 8D 0D ? ? ? ? E8 ? ? ? ? 40 F6 C6 03
+1803d210a	1808a3520	PARAM	48 89 5C 24 18 48 89 74 24 20 57 48 81 EC A0 01 00 00 48 83 B9 ? ? ? ? 00 49 8B D8 8B F2 48 8B F9 75 ? 83 B9 ? ? ? ? 00 74 ? 4C 8D 05 ? ? ? ? BA ? ? ? ? 48 8D 0D ? ? ? ? E8 ? ? ? ? 40 F6 C6 03
+1803d2117	1806ffa28	DATA	net_populate_quality
+1803d211e	1808a1188	DATA	steamnetworkingsockets.dll
+1803d212a	1808a1188	DATA	steamnetworkingsockets.dll
+1803d219f	1808a3520	DATA	48 89 5C 24 18 48 89 74 24 20 57 48 81 EC A0 01 00 00 48 83 B9 ? ? ? ? 00 49 8B D8 8B F2 48 8B F9 75 ? 83 B9 ? ? ? ? 00 74 ? 4C 8D 05 ? ? ? ? BA ? ? ? ? 48 8D 0D ? ? ? ? E8 ? ? ? ? 40 F6 C6 03
+1803d21bf	1808a3520	PARAM	48 89 5C 24 18 48 89 74 24 20 57 48 81 EC A0 01 00 00 48 83 B9 ? ? ? ? 00 49 8B D8 8B F2 48 8B F9 75 ? 83 B9 ? ? ? ? 00 74 ? 4C 8D 05 ? ? ? ? BA ? ? ? ? 48 8D 0D ? ? ? ? E8 ? ? ? ? 40 F6 C6 03
+1803d21c2	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d21ce	1806ffa28	DATA	net_populate_quality
+1803d21d5	1808a3520	PARAM	48 89 5C 24 18 48 89 74 24 20 57 48 81 EC A0 01 00 00 48 83 B9 ? ? ? ? 00 49 8B D8 8B F2 48 8B F9 75 ? 83 B9 ? ? ? ? 00 74 ? 4C 8D 05 ? ? ? ? BA ? ? ? ? 48 8D 0D ? ? ? ? E8 ? ? ? ? 40 F6 C6 03
+1803d21d8	1808a1188	DATA	steamnetworkingsockets.dll
+1803d21ed	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d21fa	1806ffa28	DATA	net_populate_quality
+1803d2201	1808a1188	DATA	steamnetworkingsockets.dll
+1803d2216	1808a34a0	DATA	48 89 54 24 10 53 57 41 55 41 56 48 81 EC 88 00 00 00 48 83 B9 20 0A 00 00 00 49 8B D9 49 8B F8 4C 8B F2 4C 8B E9
+1803d221d	1808a34a0	PARAM	48 89 54 24 10 53 57 41 55 41 56 48 81 EC 88 00 00 00 48 83 B9 20 0A 00 00 00 49 8B D9 49 8B F8 4C 8B F2 4C 8B E9
+1803d222a	1806ffa10	DATA	net_serialize_acks
+1803d2231	1808a1188	DATA	steamnetworkingsockets.dll
+1803d223d	1808a1188	DATA	steamnetworkingsockets.dll
+1803d22b2	1808a34a0	DATA	48 89 54 24 10 53 57 41 55 41 56 48 81 EC 88 00 00 00 48 83 B9 20 0A 00 00 00 49 8B D9 49 8B F8 4C 8B F2 4C 8B E9
+1803d22d2	1808a34a0	PARAM	48 89 54 24 10 53 57 41 55 41 56 48 81 EC 88 00 00 00 48 83 B9 20 0A 00 00 00 49 8B D9 49 8B F8 4C 8B F2 4C 8B E9
+1803d22d5	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d22e1	1806ffa10	DATA	net_serialize_acks
+1803d22e8	1808a34a0	PARAM	48 89 54 24 10 53 57 41 55 41 56 48 81 EC 88 00 00 00 48 83 B9 20 0A 00 00 00 49 8B D9 49 8B F8 4C 8B F2 4C 8B E9
+1803d22eb	1808a1188	DATA	steamnetworkingsockets.dll
+1803d2300	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d230d	1806ffa10	DATA	net_serialize_acks
+1803d2314	1808a1188	DATA	steamnetworkingsockets.dll
+1803d2329	1808a35f0	DATA	48 89 5C 24 08 57 48 83 EC 20 48 8B D9 48 8B 0D ? ? ? ? 48 8B 01 FF 90 ? ? ? ? 8B 8B ? ? ? ? 8B F8 83 F9 01
+1803d2330	1808a35f0	PARAM	48 89 5C 24 08 57 48 83 EC 20 48 8B D9 48 8B 0D ? ? ? ? 48 8B 01 FF 90 ? ? ? ? 8B 8B ? ? ? ? 8B F8 83 F9 01
+1803d233d	1806ff9f8	DATA	preview_panel_think
+1803d2344	1806d2230	DATA	client.dll
+1803d2350	1806d2230	DATA	client.dll
+1803d23c5	1808a35f0	DATA	48 89 5C 24 08 57 48 83 EC 20 48 8B D9 48 8B 0D ? ? ? ? 48 8B 01 FF 90 ? ? ? ? 8B 8B ? ? ? ? 8B F8 83 F9 01
+1803d23e5	1808a35f0	PARAM	48 89 5C 24 08 57 48 83 EC 20 48 8B D9 48 8B 0D ? ? ? ? 48 8B 01 FF 90 ? ? ? ? 8B 8B ? ? ? ? 8B F8 83 F9 01
+1803d23e8	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d23f4	1806ff9f8	DATA	preview_panel_think
+1803d23fb	1808a35f0	PARAM	48 89 5C 24 08 57 48 83 EC 20 48 8B D9 48 8B 0D ? ? ? ? 48 8B 01 FF 90 ? ? ? ? 8B 8B ? ? ? ? 8B F8 83 F9 01
+1803d23fe	1806d2230	DATA	client.dll
+1803d2413	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d2420	1806ff9f8	DATA	preview_panel_think
+1803d2427	1806d2230	DATA	client.dll
+1803d243c	1808a33f0	DATA	8B 15 ? ? ? ? 4C 8D 45 ? 49 8B CF E8 ? ? ? ? 84 C0 0F 84 ? ? ? ? F3 41 0F 10 84 24
+1803d2443	1808a33f0	PARAM	8B 15 ? ? ? ? 4C 8D 45 ? 49 8B CF E8 ? ? ? ? 84 C0 0F 84 ? ? ? ? F3 41 0F 10 84 24
+1803d2450	1808a6b20	DATA	preview_sticker_slot
+1803d2457	1806d2230	DATA	client.dll
+1803d2463	1806d2230	DATA	client.dll
+1803d24dc	1808a33f0	DATA	8B 15 ? ? ? ? 4C 8D 45 ? 49 8B CF E8 ? ? ? ? 84 C0 0F 84 ? ? ? ? F3 41 0F 10 84 24
+1803d24fc	1808a33f0	PARAM	8B 15 ? ? ? ? 4C 8D 45 ? 49 8B CF E8 ? ? ? ? 84 C0 0F 84 ? ? ? ? F3 41 0F 10 84 24
+1803d24ff	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d250b	1808a6b20	DATA	preview_sticker_slot
+1803d2512	1808a33f0	PARAM	8B 15 ? ? ? ? 4C 8D 45 ? 49 8B CF E8 ? ? ? ? 84 C0 0F 84 ? ? ? ? F3 41 0F 10 84 24
+1803d2515	1806d2230	DATA	client.dll
+1803d2544	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d2551	1808a6b20	DATA	preview_sticker_slot
+1803d2558	1806d2230	DATA	client.dll
+1803d256a	1808a3370	DATA	F3 0F 10 35 ? ? ? ? 0F 29 BC 24 ? ? ? ? F3 0F 10 3D ? ? ? ? 44 0F 29 84 24 ? ? ? ? F3 44 0F 10 05 ? ? ? ? 44 0F 29 A4 24
+1803d2571	1808a3370	PARAM	F3 0F 10 35 ? ? ? ? 0F 29 BC 24 ? ? ? ? F3 0F 10 3D ? ? ? ? 44 0F 29 84 24 ? ? ? ? F3 44 0F 10 05 ? ? ? ? 44 0F 29 A4 24
+1803d2574	1808a6b08	DATA	preview_charm_point
+1803d257e	1806d2230	DATA	client.dll
+1803d258a	1806d2230	DATA	client.dll
+1803d2603	1808a3370	DATA	F3 0F 10 35 ? ? ? ? 0F 29 BC 24 ? ? ? ? F3 0F 10 3D ? ? ? ? 44 0F 29 84 24 ? ? ? ? F3 44 0F 10 05 ? ? ? ? 44 0F 29 A4 24
+1803d2623	1808a3370	PARAM	F3 0F 10 35 ? ? ? ? 0F 29 BC 24 ? ? ? ? F3 0F 10 3D ? ? ? ? 44 0F 29 84 24 ? ? ? ? F3 44 0F 10 05 ? ? ? ? 44 0F 29 A4 24
+1803d2626	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d2632	1808a6b08	DATA	preview_charm_point
+1803d2639	1808a3370	PARAM	F3 0F 10 35 ? ? ? ? 0F 29 BC 24 ? ? ? ? F3 0F 10 3D ? ? ? ? 44 0F 29 84 24 ? ? ? ? F3 44 0F 10 05 ? ? ? ? 44 0F 29 A4 24
+1803d263c	1806d2230	DATA	client.dll
+1803d266b	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d2678	1808a6b08	DATA	preview_charm_point
+1803d267f	1806d2230	DATA	client.dll
+1803d2691	1808a39d0	DATA	F3 0F 10 0D ? ? ? ? 41 0F 28 C2 48 8B 05 ? ? ? ? 33 D2 49 8B 8D
+1803d2698	1808a39d0	PARAM	F3 0F 10 0D ? ? ? ? 41 0F 28 C2 48 8B 05 ? ? ? ? 33 D2 49 8B 8D
+1803d269b	1808a6c58	DATA	preview_charm_flash
+1803d26a5	1806d2230	DATA	client.dll
+1803d26b1	1806d2230	DATA	client.dll
+1803d272a	1808a39d0	DATA	F3 0F 10 0D ? ? ? ? 41 0F 28 C2 48 8B 05 ? ? ? ? 33 D2 49 8B 8D
+1803d274a	1808a39d0	PARAM	F3 0F 10 0D ? ? ? ? 41 0F 28 C2 48 8B 05 ? ? ? ? 33 D2 49 8B 8D
+1803d274d	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d2759	1808a6c58	DATA	preview_charm_flash
+1803d2760	1808a39d0	PARAM	F3 0F 10 0D ? ? ? ? 41 0F 28 C2 48 8B 05 ? ? ? ? 33 D2 49 8B 8D
+1803d2763	1806d2230	DATA	client.dll
+1803d2792	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d279f	1808a6c58	DATA	preview_charm_flash
+1803d27a6	1806d2230	DATA	client.dll
+1803d27b8	1808a3120	DATA	48 89 5C 24 18 48 89 6C 24 20 56 48 83 EC 40 8B 5A 60 48 8B F2 48 8B E9 83 FB FF
+1803d27bf	1808a3120	PARAM	48 89 5C 24 18 48 89 6C 24 20 56 48 83 EC 40 8B 5A 60 48 8B F2 48 8B E9 83 FB FF
+1803d27c2	1808a6c40	DATA	vote_start_handler
+1803d27cc	1806d2230	DATA	client.dll
+1803d27d8	1806d2230	DATA	client.dll
+1803d284d	1808a3120	DATA	48 89 5C 24 18 48 89 6C 24 20 56 48 83 EC 40 8B 5A 60 48 8B F2 48 8B E9 83 FB FF
+1803d286d	1808a3120	PARAM	48 89 5C 24 18 48 89 6C 24 20 56 48 83 EC 40 8B 5A 60 48 8B F2 48 8B E9 83 FB FF
+1803d2870	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d287c	1808a6c40	DATA	vote_start_handler
+1803d2883	1808a3120	PARAM	48 89 5C 24 18 48 89 6C 24 20 56 48 83 EC 40 8B 5A 60 48 8B F2 48 8B E9 83 FB FF
+1803d2886	1806d2230	DATA	client.dll
+1803d289b	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d28a8	1808a6c40	DATA	vote_start_handler
+1803d28af	1806d2230	DATA	client.dll
+1803d28c4	1808a30c0	DATA	48 89 5C 24 10 48 89 6C 24 18 56 48 83 EC 30 8B 5A 58 48 8B F2 48 8B E9 83 FB FF
+1803d28cb	1808a30c0	PARAM	48 89 5C 24 10 48 89 6C 24 18 56 48 83 EC 30 8B 5A 58 48 8B F2 48 8B E9 83 FB FF
+1803d28d8	1808a6c28	DATA	vote_pass_handler
+1803d28df	1806d2230	DATA	client.dll
+1803d28eb	1806d2230	DATA	client.dll
+1803d2960	1808a30c0	DATA	48 89 5C 24 10 48 89 6C 24 18 56 48 83 EC 30 8B 5A 58 48 8B F2 48 8B E9 83 FB FF
+1803d2980	1808a30c0	PARAM	48 89 5C 24 10 48 89 6C 24 18 56 48 83 EC 30 8B 5A 58 48 8B F2 48 8B E9 83 FB FF
+1803d2983	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d298f	1808a6c28	DATA	vote_pass_handler
+1803d2996	1808a30c0	PARAM	48 89 5C 24 10 48 89 6C 24 18 56 48 83 EC 30 8B 5A 58 48 8B F2 48 8B E9 83 FB FF
+1803d2999	1806d2230	DATA	client.dll
+1803d29ae	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d29bb	1808a6c28	DATA	vote_pass_handler
+1803d29c2	1806d2230	DATA	client.dll
+1803d29d7	1808a36b0	DATA	48 89 5C 24 08 48 89 74 24 10 57 48 83 EC 30 8B 5A 48 48 8B FA 48 8B F1 83 FB FF
+1803d29de	1808a36b0	PARAM	48 89 5C 24 08 48 89 74 24 10 57 48 83 EC 30 8B 5A 48 48 8B FA 48 8B F1 83 FB FF
+1803d29eb	1808a6c10	DATA	vote_failed_handler
+1803d29f2	1806d2230	DATA	client.dll
+1803d29fe	1806d2230	DATA	client.dll
+1803d2a73	1808a36b0	DATA	48 89 5C 24 08 48 89 74 24 10 57 48 83 EC 30 8B 5A 48 48 8B FA 48 8B F1 83 FB FF
+1803d2a93	1808a36b0	PARAM	48 89 5C 24 08 48 89 74 24 10 57 48 83 EC 30 8B 5A 48 48 8B FA 48 8B F1 83 FB FF
+1803d2a96	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d2aa2	1808a6c10	DATA	vote_failed_handler
+1803d2aa9	1808a36b0	PARAM	48 89 5C 24 08 48 89 74 24 10 57 48 83 EC 30 8B 5A 48 48 8B FA 48 8B F1 83 FB FF
+1803d2aac	1806d2230	DATA	client.dll
+1803d2ac1	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d2ace	1808a6c10	DATA	vote_failed_handler
+1803d2ad5	1806d2230	DATA	client.dll
+1803d2aea	1808a3660	DATA	48 89 5C 24 08 57 48 83 EC 40 8B 5A 48 48 8D 05 ? ? ? ? 44 8B 42 4C
+1803d2af1	1808a3660	PARAM	48 89 5C 24 08 57 48 83 EC 40 8B 5A 48 48 8D 05 ? ? ? ? 44 8B 42 4C
+1803d2afe	1808a6bf0	DATA	call_vote_failed_handler
+1803d2b05	1806d2230	DATA	client.dll
+1803d2b11	1806d2230	DATA	client.dll
+1803d2b86	1808a3660	DATA	48 89 5C 24 08 57 48 83 EC 40 8B 5A 48 48 8D 05 ? ? ? ? 44 8B 42 4C
+1803d2ba6	1808a3660	PARAM	48 89 5C 24 08 57 48 83 EC 40 8B 5A 48 48 8D 05 ? ? ? ? 44 8B 42 4C
+1803d2ba9	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d2bb5	1808a6bf0	DATA	call_vote_failed_handler
+1803d2bbc	1808a3660	PARAM	48 89 5C 24 08 57 48 83 EC 40 8B 5A 48 48 8D 05 ? ? ? ? 44 8B 42 4C
+1803d2bbf	1806d2230	DATA	client.dll
+1803d2bd4	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d2be1	1808a6bf0	DATA	call_vote_failed_handler
+1803d2be8	1806d2230	DATA	client.dll
+1803d2bfd	1808a4f68	DATA	40 55 53 56 41 56 41 57 48 8B EC 48 83 EC 20 4D 8B F8 4C 8B F2
+1803d2c04	1808a4f68	PARAM	40 55 53 56 41 56 41 57 48 8B EC 48 83 EC 20 4D 8B F8 4C 8B F2
+1803d2c11	1806ffca8	DATA	get_viewmodel_offsets
+1803d2c18	1806d2230	DATA	client.dll
+1803d2c24	1806d2230	DATA	client.dll
+1803d2c99	1808a4f68	DATA	40 55 53 56 41 56 41 57 48 8B EC 48 83 EC 20 4D 8B F8 4C 8B F2
+1803d2cb9	1808a4f68	PARAM	40 55 53 56 41 56 41 57 48 8B EC 48 83 EC 20 4D 8B F8 4C 8B F2
+1803d2cbc	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d2cc8	1806ffca8	DATA	get_viewmodel_offsets
+1803d2ccf	1808a4f68	PARAM	40 55 53 56 41 56 41 57 48 8B EC 48 83 EC 20 4D 8B F8 4C 8B F2
+1803d2cd2	1806d2230	DATA	client.dll
+1803d2ce7	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d2cf4	1806ffca8	DATA	get_viewmodel_offsets
+1803d2cfb	1806d2230	DATA	client.dll
+1803d2d10	1808a4f20	DATA	48 8B C4 55 56 57 41 57 48 8D A8 ? ? ? ? 48 81 EC ? ? ? ? 48 8B F9
+1803d2d17	1808a4f20	PARAM	48 8B C4 55 56 57 41 57 48 8D A8 ? ? ? ? 48 81 EC ? ? ? ? 48 8B F9
+1803d2d24	1806ffc98	DATA	calc_viewmodel
+1803d2d2b	1806d2230	DATA	client.dll
+1803d2d37	1806d2230	DATA	client.dll
+1803d2dac	1808a4f20	DATA	48 8B C4 55 56 57 41 57 48 8D A8 ? ? ? ? 48 81 EC ? ? ? ? 48 8B F9
+1803d2dcc	1808a4f20	PARAM	48 8B C4 55 56 57 41 57 48 8D A8 ? ? ? ? 48 81 EC ? ? ? ? 48 8B F9
+1803d2dcf	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d2ddb	1806ffc98	DATA	calc_viewmodel
+1803d2de2	1808a4f20	PARAM	48 8B C4 55 56 57 41 57 48 8D A8 ? ? ? ? 48 81 EC ? ? ? ? 48 8B F9
+1803d2de5	1806d2230	DATA	client.dll
+1803d2dfa	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d2e07	1806ffc98	DATA	calc_viewmodel
+1803d2e0e	1806d2230	DATA	client.dll
+1803d2e23	1808a4ed0	DATA	48 89 5C 24 08 57 48 83 EC 50 48 8D 0D ? ? ? ? E8 ? ? ? ? F3 0F 11 44 24 68 E8
+1803d2e2a	1808a4ed0	PARAM	48 89 5C 24 08 57 48 83 EC 50 48 8D 0D ? ? ? ? E8 ? ? ? ? F3 0F 11 44 24 68 E8
+1803d2e37	1806de7d8	DATA	viewmodel_fov
+1803d2e3e	1806d2230	DATA	client.dll
+1803d2e4a	1806d2230	DATA	client.dll
+1803d2ebf	1808a4ed0	DATA	48 89 5C 24 08 57 48 83 EC 50 48 8D 0D ? ? ? ? E8 ? ? ? ? F3 0F 11 44 24 68 E8
+1803d2edf	1808a4ed0	PARAM	48 89 5C 24 08 57 48 83 EC 50 48 8D 0D ? ? ? ? E8 ? ? ? ? F3 0F 11 44 24 68 E8
+1803d2ee2	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d2eee	1806de7d8	DATA	viewmodel_fov
+1803d2ef5	1808a4ed0	PARAM	48 89 5C 24 08 57 48 83 EC 50 48 8D 0D ? ? ? ? E8 ? ? ? ? F3 0F 11 44 24 68 E8
+1803d2ef8	1806d2230	DATA	client.dll
+1803d2f0d	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d2f1a	1806de7d8	DATA	viewmodel_fov
+1803d2f21	1806d2230	DATA	client.dll
+1803d2f36	1808a52e0	DATA	48 89 5C 24 10 48 89 6C 24 18 48 89 74 24 20 48 89 4C 24 08 57 41 54 41 55 41 56 41 57 48 83 EC 20 48 63 02
+1803d2f3d	1808a52e0	PARAM	48 89 5C 24 10 48 89 6C 24 18 48 89 74 24 20 48 89 4C 24 08 57 41 54 41 55 41 56 41 57 48 83 EC 20 48 63 02
+1803d2f4a	1806ff978	DATA	setup_fog
+1803d2f51	1806d2230	DATA	client.dll
+1803d2f5d	1806d2230	DATA	client.dll
+1803d2fd2	1808a52e0	DATA	48 89 5C 24 10 48 89 6C 24 18 48 89 74 24 20 48 89 4C 24 08 57 41 54 41 55 41 56 41 57 48 83 EC 20 48 63 02
+1803d2ff2	1808a52e0	PARAM	48 89 5C 24 10 48 89 6C 24 18 48 89 74 24 20 48 89 4C 24 08 57 41 54 41 55 41 56 41 57 48 83 EC 20 48 63 02
+1803d2ff5	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d3001	1806ff978	DATA	setup_fog
+1803d3008	1808a52e0	PARAM	48 89 5C 24 10 48 89 6C 24 18 48 89 74 24 20 48 89 4C 24 08 57 41 54 41 55 41 56 41 57 48 83 EC 20 48 63 02
+1803d300b	1806d2230	DATA	client.dll
+1803d3020	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d302d	1806ff978	DATA	setup_fog
+1803d3034	1806d2230	DATA	client.dll
+1803d3049	1808a5290	DATA	48 89 5C 24 20 56 57 41 57 48 83 EC 60 F3 0F 10 81 ? ? ? ? 48 8B F9
+1803d3050	1808a5290	PARAM	48 89 5C 24 20 56 57 41 57 48 83 EC 60 F3 0F 10 81 ? ? ? ? 48 8B F9
+1803d305d	1808a6bd8	DATA	gradient_fog_apply
+1803d3064	1806d2230	DATA	client.dll
+1803d3070	1806d2230	DATA	client.dll
+1803d30e9	1808a5290	DATA	48 89 5C 24 20 56 57 41 57 48 83 EC 60 F3 0F 10 81 ? ? ? ? 48 8B F9
+1803d3109	1808a5290	PARAM	48 89 5C 24 20 56 57 41 57 48 83 EC 60 F3 0F 10 81 ? ? ? ? 48 8B F9
+1803d310c	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d3118	1808a6bd8	DATA	gradient_fog_apply
+1803d311f	1808a5290	PARAM	48 89 5C 24 20 56 57 41 57 48 83 EC 60 F3 0F 10 81 ? ? ? ? 48 8B F9
+1803d3122	1806d2230	DATA	client.dll
+1803d3150	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d315d	1808a6bd8	DATA	gradient_fog_apply
+1803d3164	1806d2230	DATA	client.dll
+1803d3176	1808a4e80	DATA	40 55 56 41 56 48 8B EC 48 83 EC 70 44 8B 89 ? ? ? ? 4D 8B F0 48 8B F2
+1803d317d	1808a4e80	PARAM	40 55 56 41 56 48 8B EC 48 83 EC 70 44 8B 89 ? ? ? ? 4D 8B F0 48 8B F2
+1803d3180	1806ffc80	DATA	viewmodel_offsets
+1803d318a	1806d2230	DATA	client.dll
+1803d3196	1806d2230	DATA	client.dll
+1803d320b	1808a4e80	DATA	40 55 56 41 56 48 8B EC 48 83 EC 70 44 8B 89 ? ? ? ? 4D 8B F0 48 8B F2
+1803d322b	1808a4e80	PARAM	40 55 56 41 56 48 8B EC 48 83 EC 70 44 8B 89 ? ? ? ? 4D 8B F0 48 8B F2
+1803d322e	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d323a	1806ffc80	DATA	viewmodel_offsets
+1803d3241	1808a4e80	PARAM	40 55 56 41 56 48 8B EC 48 83 EC 70 44 8B 89 ? ? ? ? 4D 8B F0 48 8B F2
+1803d3244	1806d2230	DATA	client.dll
+1803d3259	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d3266	1806ffc80	DATA	viewmodel_offsets
+1803d326d	1806d2230	DATA	client.dll
+1803d3282	1808a4e40	DATA	33 C0 48 8D 91 ? ? ? ? 38 81 ? ? ? ? 48 0F 45 C2 C3
+1803d3289	1808a4e40	PARAM	33 C0 48 8D 91 ? ? ? ? 38 81 ? ? ? ? 48 0F 45 C2 C3
+1803d3296	1808a6bc8	DATA	zoom_state
+1803d329d	1806d2230	DATA	client.dll
+1803d32a9	1806d2230	DATA	client.dll
+1803d3322	1808a4e40	DATA	33 C0 48 8D 91 ? ? ? ? 38 81 ? ? ? ? 48 0F 45 C2 C3
+1803d3342	1808a4e40	PARAM	33 C0 48 8D 91 ? ? ? ? 38 81 ? ? ? ? 48 0F 45 C2 C3
+1803d3345	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d3351	1808a6bc8	DATA	zoom_state
+1803d3358	1808a4e40	PARAM	33 C0 48 8D 91 ? ? ? ? 38 81 ? ? ? ? 48 0F 45 C2 C3
+1803d335b	1806d2230	DATA	client.dll
+1803d338e	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d339b	1808a6bc8	DATA	zoom_state
+1803d33a2	1806d2230	DATA	client.dll
+1803d33b4	1808a3830	DATA	48 89 5C 24 18 48 89 6C 24 20 57 48 83 EC 40 48 8B F9
+1803d33bb	1808a3830	PARAM	48 89 5C 24 18 48 89 6C 24 20 57 48 83 EC 40 48 8B F9
+1803d33be	1806ffac0	DATA	frame_stage_notify
+1803d33c8	1806d2230	DATA	client.dll
+1803d33d4	1806d2230	DATA	client.dll
+1803d3449	1808a3830	DATA	48 89 5C 24 18 48 89 6C 24 20 57 48 83 EC 40 48 8B F9
+1803d3469	1808a3830	PARAM	48 89 5C 24 18 48 89 6C 24 20 57 48 83 EC 40 48 8B F9
+1803d346c	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d3478	1806ffac0	DATA	frame_stage_notify
+1803d347f	1808a3830	PARAM	48 89 5C 24 18 48 89 6C 24 20 57 48 83 EC 40 48 8B F9
+1803d3482	1806d2230	DATA	client.dll
+1803d3497	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d34a4	1806ffac0	DATA	frame_stage_notify
+1803d34ab	1806d2230	DATA	client.dll
+1803d34c0	1808a3800	DATA	48 83 EC 28 48 8B 05 ? ? ? ? 48 85 C0 0F 85 81
+1803d34c7	1808a3800	PARAM	48 83 EC 28 48 8B 05 ? ? ? ? 48 85 C0 0F 85 81
+1803d34d4	1808a6bb8	DATA	item_system
+1803d34db	1806d2230	DATA	client.dll
+1803d34e7	1806d2230	DATA	client.dll
+1803d355c	1808a3800	DATA	48 83 EC 28 48 8B 05 ? ? ? ? 48 85 C0 0F 85 81
+1803d357c	1808a3800	PARAM	48 83 EC 28 48 8B 05 ? ? ? ? 48 85 C0 0F 85 81
+1803d357f	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d358b	1808a6bb8	DATA	item_system
+1803d3592	1808a3800	PARAM	48 83 EC 28 48 8B 05 ? ? ? ? 48 85 C0 0F 85 81
+1803d3595	1806d2230	DATA	client.dll
+1803d35aa	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d35b7	1808a6bb8	DATA	item_system
+1803d35be	1806d2230	DATA	client.dll
+1803d35d3	1808a37b0	DATA	48 89 5C 24 08 55 56 57 48 83 EC 60 48 83 3D ? ? ? ? 00 0F B6 F2 48 8B F9 0F 84
+1803d35da	1808a37b0	PARAM	48 89 5C 24 08 55 56 57 48 83 EC 60 48 83 3D ? ? ? ? 00 0F B6 F2 48 8B F9 0F 84
+1803d35e7	1808a6d18	DATA	can_player_buy
+1803d35ee	1806d2230	DATA	client.dll
+1803d35fa	1806d2230	DATA	client.dll
+1803d366f	1808a37b0	DATA	48 89 5C 24 08 55 56 57 48 83 EC 60 48 83 3D ? ? ? ? 00 0F B6 F2 48 8B F9 0F 84
+1803d368f	1808a37b0	PARAM	48 89 5C 24 08 55 56 57 48 83 EC 60 48 83 3D ? ? ? ? 00 0F B6 F2 48 8B F9 0F 84
+1803d3692	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d369e	1808a6d18	DATA	can_player_buy
+1803d36a5	1808a37b0	PARAM	48 89 5C 24 08 55 56 57 48 83 EC 60 48 83 3D ? ? ? ? 00 0F B6 F2 48 8B F9 0F 84
+1803d36a8	1806d2230	DATA	client.dll
+1803d36bd	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d36ca	1808a6d18	DATA	can_player_buy
+1803d36d1	1806d2230	DATA	client.dll
+1803d36e6	1808a3710	DATA	48 89 5C 24 08 57 48 83 EC 20 33 FF 4C 8B CA 8B D9 8B C7 48 85 D2 74 ? 38 02 74 ? 48 C7 C2 FF FF FF FF 48 FF C2 41 38 04 11 75 ? 41 B8 26 59 41 31
+1803d36ed	1808a3710	PARAM	48 89 5C 24 08 57 48 83 EC 20 33 FF 4C 8B CA 8B D9 8B C7 48 85 D2 74 ? 38 02 74 ? 48 C7 C2 FF FF FF FF 48 FF C2 41 38 04 11 75 ? 41 B8 26 59 41 31
+1803d36fa	1808a6d08	DATA	subclass_vdata
+1803d3701	1806d2230	DATA	client.dll
+1803d370d	1806d2230	DATA	client.dll
+1803d3782	1808a3710	DATA	48 89 5C 24 08 57 48 83 EC 20 33 FF 4C 8B CA 8B D9 8B C7 48 85 D2 74 ? 38 02 74 ? 48 C7 C2 FF FF FF FF 48 FF C2 41 38 04 11 75 ? 41 B8 26 59 41 31
+1803d37a2	1808a3710	PARAM	48 89 5C 24 08 57 48 83 EC 20 33 FF 4C 8B CA 8B D9 8B C7 48 85 D2 74 ? 38 02 74 ? 48 C7 C2 FF FF FF FF 48 FF C2 41 38 04 11 75 ? 41 B8 26 59 41 31
+1803d37a5	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d37b1	1808a6d08	DATA	subclass_vdata
+1803d37b8	1808a3710	PARAM	48 89 5C 24 08 57 48 83 EC 20 33 FF 4C 8B CA 8B D9 8B C7 48 85 D2 74 ? 38 02 74 ? 48 C7 C2 FF FF FF FF 48 FF C2 41 38 04 11 75 ? 41 B8 26 59 41 31
+1803d37bb	1806d2230	DATA	client.dll
+1803d37d0	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d37dd	1808a6d08	DATA	subclass_vdata
+1803d37e4	1806d2230	DATA	client.dll
+1803d37f9	1808a3e30	DATA	40 53 48 83 EC 20 48 8B 89 ? ? ? ? 48 8B DA 48 8B 01 FF 50 68 48 8B C8 48 8B D3 48 83 C4 20 5B E9
+1803d3800	1808a3e30	PARAM	40 53 48 83 EC 20 48 8B 89 ? ? ? ? 48 8B DA 48 8B 01 FF 50 68 48 8B C8 48 8B D3 48 83 C4 20 5B E9
+1803d380d	1808a6cf8	DATA	lookup_bone
+1803d3814	1806d2230	DATA	client.dll
+1803d3820	1806d2230	DATA	client.dll
+1803d3895	1808a3e30	DATA	40 53 48 83 EC 20 48 8B 89 ? ? ? ? 48 8B DA 48 8B 01 FF 50 68 48 8B C8 48 8B D3 48 83 C4 20 5B E9
+1803d38b5	1808a3e30	PARAM	40 53 48 83 EC 20 48 8B 89 ? ? ? ? 48 8B DA 48 8B 01 FF 50 68 48 8B C8 48 8B D3 48 83 C4 20 5B E9
+1803d38b8	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d38c4	1808a6cf8	DATA	lookup_bone
+1803d38cb	1808a3e30	PARAM	40 53 48 83 EC 20 48 8B 89 ? ? ? ? 48 8B DA 48 8B 01 FF 50 68 48 8B C8 48 8B D3 48 83 C4 20 5B E9
+1803d38ce	1806d2230	DATA	client.dll
+1803d38e3	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d38f0	1808a6cf8	DATA	lookup_bone
+1803d38f7	1806d2230	DATA	client.dll
+1803d390c	1808a3d90	DATA	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 57 48 83 EC 20 48 8B E9 41 8B F8 48 8B 89 ? ? ? ? 48 8B DA 48 8B 01 FF 50 68 48 8B F0 48 85 C0 74 08
+1803d3913	1808a3d90	PARAM	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 57 48 83 EC 20 48 8B E9 41 8B F8 48 8B 89 ? ? ? ? 48 8B DA 48 8B 01 FF 50 68 48 8B F0 48 85 C0 74 08
+1803d3920	1808a6ce8	DATA	bone_transform
+1803d3927	1806d2230	DATA	client.dll
+1803d3933	1806d2230	DATA	client.dll
+1803d39a8	1808a3d90	DATA	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 57 48 83 EC 20 48 8B E9 41 8B F8 48 8B 89 ? ? ? ? 48 8B DA 48 8B 01 FF 50 68 48 8B F0 48 85 C0 74 08
+1803d39c8	1808a3d90	PARAM	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 57 48 83 EC 20 48 8B E9 41 8B F8 48 8B 89 ? ? ? ? 48 8B DA 48 8B 01 FF 50 68 48 8B F0 48 85 C0 74 08
+1803d39cb	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d39d7	1808a6ce8	DATA	bone_transform
+1803d39de	1808a3d90	PARAM	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 57 48 83 EC 20 48 8B E9 41 8B F8 48 8B 89 ? ? ? ? 48 8B DA 48 8B 01 FF 50 68 48 8B F0 48 85 C0 74 08
+1803d39e1	1806d2230	DATA	client.dll
+1803d39f6	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d3a03	1808a6ce8	DATA	bone_transform
+1803d3a0a	1806d2230	DATA	client.dll
+1803d3a1f	1808a3c90	DATA	48 89 6C 24 18 48 89 7C 24 20 41 56 48 83 EC 20 48 63 29 4C 8B F2 48 8B F9 3B 69 10 0F 85 ? ? ? ? F7 41 14 00 00 00 40 0F 85 ? ? ? ? 8B 49 10 48 89 5C 24 30 48 89 74 24 38 81 F9 FE FF FF 7F 7E ? BA 01 00 00 00 FF 15 ? ? ? ? 8B 4F 10 41 B9 88 02 00 00
+1803d3a26	1808a3c90	PARAM	48 89 6C 24 18 48 89 7C 24 20 41 56 48 83 EC 20 48 63 29 4C 8B F2 48 8B F9 3B 69 10 0F 85 ? ? ? ? F7 41 14 00 00 00 40 0F 85 ? ? ? ? 8B 49 10 48 89 5C 24 30 48 89 74 24 38 81 F9 FE FF FF 7F 7E ? BA 01 00 00 00 FF 15 ? ? ? ? 8B 4F 10 41 B9 88 02 00 00
+1803d3a33	1806ffb78	DATA	composite_append
+1803d3a3a	1806d2230	DATA	client.dll
+1803d3a46	1806d2230	DATA	client.dll
+1803d3ab1	1808a3c90	DATA	48 89 6C 24 18 48 89 7C 24 20 41 56 48 83 EC 20 48 63 29 4C 8B F2 48 8B F9 3B 69 10 0F 85 ? ? ? ? F7 41 14 00 00 00 40 0F 85 ? ? ? ? 8B 49 10 48 89 5C 24 30 48 89 74 24 38 81 F9 FE FF FF 7F 7E ? BA 01 00 00 00 FF 15 ? ? ? ? 8B 4F 10 41 B9 88 02 00 00
+1803d3ad1	1808a3c90	PARAM	48 89 6C 24 18 48 89 7C 24 20 41 56 48 83 EC 20 48 63 29 4C 8B F2 48 8B F9 3B 69 10 0F 85 ? ? ? ? F7 41 14 00 00 00 40 0F 85 ? ? ? ? 8B 49 10 48 89 5C 24 30 48 89 74 24 38 81 F9 FE FF FF 7F 7E ? BA 01 00 00 00 FF 15 ? ? ? ? 8B 4F 10 41 B9 88 02 00 00
+1803d3ad4	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d3ae0	1806ffb78	DATA	composite_append
+1803d3ae7	1808a3c90	PARAM	48 89 6C 24 18 48 89 7C 24 20 41 56 48 83 EC 20 48 63 29 4C 8B F2 48 8B F9 3B 69 10 0F 85 ? ? ? ? F7 41 14 00 00 00 40 0F 85 ? ? ? ? 8B 49 10 48 89 5C 24 30 48 89 74 24 38 81 F9 FE FF FF 7F 7E ? BA 01 00 00 00 FF 15 ? ? ? ? 8B 4F 10 41 B9 88 02 00 00
+1803d3aea	1806d2230	DATA	client.dll
+1803d3aff	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d3b0c	1806ffb78	DATA	composite_append
+1803d3b13	1806d2230	DATA	client.dll
+1803d3b28	1808a3b48	DATA	48 89 5C 24 08 57 48 83 EC 20 33 C0 48 C7 41 64 00 00 80 3F
+1803d3b2f	1808a3b48	PARAM	48 89 5C 24 08 57 48 83 EC 20 33 C0 48 C7 41 64 00 00 80 3F
+1803d3b3c	1808a6cd0	DATA	composite_make_variable
+1803d3b43	1806d2230	DATA	client.dll
+1803d3b4f	1806d2230	DATA	client.dll
+1803d3bba	1808a3b48	DATA	48 89 5C 24 08 57 48 83 EC 20 33 C0 48 C7 41 64 00 00 80 3F
+1803d3bda	1808a3b48	PARAM	48 89 5C 24 08 57 48 83 EC 20 33 C0 48 C7 41 64 00 00 80 3F
+1803d3bdd	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d3be9	1808a6cd0	DATA	composite_make_variable
+1803d3bf0	1808a3b48	PARAM	48 89 5C 24 08 57 48 83 EC 20 33 C0 48 C7 41 64 00 00 80 3F
+1803d3bf3	1806d2230	DATA	client.dll
+1803d3c08	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d3c15	1808a6cd0	DATA	composite_make_variable
+1803d3c1c	1806d2230	DATA	client.dll
+1803d3c31	1808a3ac0	DATA	48 89 5C 24 18 57 48 83 EC 20 8B 39 48 8D 59 08 83 EF 01 4C 89 74 24 38 4C 8B F1 78 ? 48 63 C7 48 89 74 24 30 48 69 F0 88 02 00 00
+1803d3c42	1808a6cb0	DATA	composite_free_variables
+1803d3c49	1806d2230	DATA	client.dll
+1803d3c55	1806d2230	DATA	client.dll
+1803d3c9e	1808a6cb0	DATA	composite_free_variables
+1803d3ca5	1806d2230	DATA	client.dll
+1803d3cac	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d3cbd	1808a3ac0	DATA	48 89 5C 24 18 57 48 83 EC 20 8B 39 48 8D 59 08 83 EF 01 4C 89 74 24 38 4C 8B F1 78 ? 48 63 C7 48 89 74 24 30 48 69 F0 88 02 00 00
+1803d3cef	1808a3ac0	DATA	48 89 5C 24 18 57 48 83 EC 20 8B 39 48 8D 59 08 83 EF 01 4C 89 74 24 38 4C 8B F1 78 ? 48 63 C7 48 89 74 24 30 48 69 F0 88 02 00 00
+1803d3cf6	1808a6cb0	DATA	composite_free_variables
+1803d3cfd	1806d2230	DATA	client.dll
+1803d3d04	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d3d18	1808a3ac0	DATA	48 89 5C 24 18 57 48 83 EC 20 8B 39 48 8D 59 08 83 EF 01 4C 89 74 24 38 4C 8B F1 78 ? 48 63 C7 48 89 74 24 30 48 69 F0 88 02 00 00
+1803d3d1f	1808a6cb0	DATA	composite_free_variables
+1803d3d26	1806d2230	DATA	client.dll
+1803d3d32	1808a3a70	DATA	48 89 5C 24 20 48 89 54 24 10 56 57 41 54 41 55 41 57 48 83 EC 20
+1803d3d40	1808a6c90	DATA	composite_make_container
+1803d3d47	1806d2230	DATA	client.dll
+1803d3d53	1808a3b90	DATA	48 89 6C 24 18 48 89 7C 24 20 41 56 48 83 EC 20 48 63 29 4C 8B F2 48 8B F9 3B 69 10 0F 85 ? ? ? ? F7 41 14 00 00 00 40 0F 85 ? ? ? ? 8B 49 10 48 89 5C 24 30 48 89 74 24 38 81 F9 FE FF FF 7F 7E ? BA 01 00 00 00 FF 15 ? ? ? ? 8B 4F 10 41 B9 38 01 00 00
+1803d3d61	1806ffb60	DATA	composite_add_container
+1803d3d68	1806d2230	DATA	client.dll
+1803d3d74	1808a3a10	DATA	40 53 48 83 EC 20 48 89 6C 24 30 48 8B D9 48 89 74 24 38 8B B1 20 01 00 00 83 EE 01
+1803d3d82	1808a6c70	DATA	composite_free_container
+1803d3d89	1806d2230	DATA	client.dll
+1803d3d95	1808a3fe8	DATA	48 83 EC ? E8 ? ? ? ? 48 85 C0 0F 84 ? ? ? ? 48 8B 10
+1803d3da3	1808a6e58	DATA	regenerate_weapon_skins
+1803d3daa	1806d2230	DATA	client.dll
+1803d3dc2	1808a3fc8	DATA	48 8D 8B ? ? ? ? B2 01 E8
+1803d3e28	1808a3fb0	DATA	33 D2 48 8B CB E8
+1803d3e67	1808a3f48	DATA	83 BB ? ? ? ? 00 7F ? 83 BB ? ? ? ? 00 7E
+1803d3eb9	1806d2230	DATA	client.dll
+1803d3ec0	1808a6e10	DATA	[error] pattern not found | %s:regenerate_weapon_skins loading counts
+1803d3ede	1806d2230	DATA	client.dll
+1803d3ee5	1808a6dc8	DATA	[error] pattern not found | %s:regenerate_weapon_skin body
+1803d3f1a	1808a3f78	DATA	0F B6 9E ? ? ? ? 48 8D 8E ? ? ? ? 48 8B 01 FF 50 18
+1803d3f78	1806d2230	DATA	client.dll
+1803d3f7f	1808a6d80	DATA	[error] pattern not found | %s:composite manager or own item flag
+1803d3f8b	1808a3f18	DATA	40 53 48 83 EC 20 48 8B D9 48 81 C1 08 02 00 00
+1803d3f92	1808a6d70	DATA	set_attribute
+1803d3f99	1806d2230	DATA	client.dll
+1803d3fab	1808a3ee8	DATA	40 53 48 83 EC 20 48 63 81 ? ? ? ? 44 0F B7 CA
+1803d3fb2	1808a3ee8	PARAM	40 53 48 83 EC 20 48 63 81 ? ? ? ? 44 0F B7 CA
+1803d3fbf	1808a6d58	DATA	remove_attribute
+1803d3fc6	1806d2230	DATA	client.dll
+1803d3fd2	1806d2230	DATA	client.dll
+1803d4038	1808a3ee8	DATA	40 53 48 83 EC 20 48 63 81 ? ? ? ? 44 0F B7 CA
+1803d4058	1808a3ee8	PARAM	40 53 48 83 EC 20 48 63 81 ? ? ? ? 44 0F B7 CA
+1803d405b	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d4067	1808a6d58	DATA	remove_attribute
+1803d406e	1808a3ee8	PARAM	40 53 48 83 EC 20 48 63 81 ? ? ? ? 44 0F B7 CA
+1803d4071	1806d2230	DATA	client.dll
+1803d4086	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d4093	1808a6d58	DATA	remove_attribute
+1803d409a	1806d2230	DATA	client.dll
+1803d40a9	1808a3ea0	DATA	48 89 5C 24 ? 48 89 74 24 ? 57 48 83 EC 20 48 8D B9 ? ? ? ? 48 8B F1
+1803d40b7	1808a6d40	DATA	invalidate_description
+1803d40be	1806d2230	DATA	client.dll
+1803d40ca	1808a42c0	DATA	40 55 53 56 48 8D AC 24 ? ? ? ? 48 81 EC ? ? ? ? 48 8B DA 48 8B F1 48 85 C9 75
+1803d40d8	1808a6d28	DATA	add_nametag_entity
+1803d40df	1806d2230	DATA	client.dll
+1803d40eb	1808a4260	DATA	48 89 5C 24 ? 55 56 57 41 54 41 55 41 56 41 57 48 8D 6C 24 ? 48 81 EC 40 01 00 00 48 8B DA
+1803d40f9	1808a6ef8	DATA	add_stattrak_entity
+1803d4100	1806d2230	DATA	client.dll
+1803d410c	1808a4210	DATA	48 89 5C 24 ? 48 89 74 24 ? 57 48 83 EC ? 48 8D 99 ? ? ? ? 48 8B 71
+1803d411a	1808a6ee0	DATA	set_mesh_group_mask
+1803d4121	1806d2230	DATA	client.dll
+1803d412d	1808a41d0	DATA	40 53 48 83 EC 20 48 8B D9 E8 ? ? ? ? 48 83 BB 88 03 00 00
+1803d413b	1808a6ed0	DATA	get_viewmodel
+1803d4142	1806d2230	DATA	client.dll
+1803d414e	1808a41a0	DATA	48 89 5C 24 10 56 48 83 EC 20 48 8B 1D ? ? ? ?
+1803d415c	1808a6ec0	DATA	get_model_path
+1803d4163	1806d2230	DATA	client.dll
+1803d417c	1808a4168	DATA	48 8D 15 ? ? ? ? 48 8B CB E8 ? ? ? ? 48 8B D7 48 8B CB
+1803d4183	1808a6eb0	DATA	set_model
+1803d418a	1806d2230	DATA	client.dll
+1803d4196	1808a4450	DATA	44 88 44 24 ? 48 89 54 24 ? 48 89 4C 24 ? 55
+1803d41a4	1808a6e98	DATA	add_keychain_entity
+1803d41ab	1806d2230	DATA	client.dll
+1803d41b7	1808a43f0	DATA	48 83 EC 28 48 85 C9 0F 84 ? ? ? ? 48 8B 51 10 8B 42 30 0F BA E0 0B 73 07 C1 E8 06 24 01 EB 26
+1803d41c5	1808a6e80	DATA	remove_keychain_entity
+1803d41cc	1806d2230	DATA	client.dll
+1803d41d8	1808a43a8	DATA	48 8D 15 ? ? ? ? 48 81 C1 ? ? ? ? 45 33 C9 41 B8 2A 27 A5 0A
+1803d41e6	1808a6e70	DATA	hud_addon_map
+1803d41ed	1806d2230	DATA	client.dll
+1803d420d	1808a4350	DATA	48 8D 8E ? ? ? ? 48 8D 05 ? ? ? ? 48 89 86 ? ? ? ? E8 ? ? ? ? 48 8D 05 ? ? ? ? 48 89 06
+1803d4214	1808a6fa8	DATA	composite_owner
+1803d421b	1806d2230	DATA	client.dll
+1803d423b	1808a4310	DATA	48 8B 05 ? ? ? ? 8B 48 04 89 0D ? ? ? ? 48 89 15
+1803d4242	1808a6f90	DATA	mouse_trace_target
+1803d4249	1806d2230	DATA	client.dll
+1803d42ad	1808a4798	DATA	85 D2 0F 88 ? ? ? ? 55 56 57
+1803d42b4	1808a6f80	DATA	set_bodygroup
+1803d42bb	1806d2230	DATA	client.dll
+1803d42c7	1808a4758	DATA	48 8B C4 55 48 8B EC 48 83 EC 70 48 89 58 10 48 89 70 18
+1803d42d5	1808a6f68	DATA	body_group_commit
+1803d42dc	1806d2230	DATA	client.dll
+1803d42e8	1808a4728	DATA	3B 91 ? ? ? ? 74 24 89 91 ? ? ? ? 48 8B 81
+1803d42f6	1808a6f50	DATA	set_material_group
+1803d42fd	1806d2230	DATA	client.dll
+1803d4309	1808a46e0	DATA	40 55 53 56 57 41 57 48 8D 6C 24 C9 48 81 EC A0 00 00 00 48 8D 05
+1803d4317	1806ffb00	DATA	reflect_weapon_state
+1803d431e	1806d2230	DATA	client.dll
+1803d4334	1808a46b8	DATA	E8 ? ? ? ? 8B F8 C6 84 24
+1803d433b	1808a6f38	DATA	clear_hud_weapon_icon
+1803d4342	1806d2230	DATA	client.dll
+1803d434e	1808a4fb0	DATA	48 89 74 24 ? 57 48 83 EC 30 48 8B 0D ? ? ? ? 48 8B FA 45 33 C9 48 8D 15 ? ? ? ? 45 33 C0 48 8B 01 FF 50 30
+1803d435c	1806e1a90	DATA	level_init
+1803d4363	1806d2230	DATA	client.dll
+1803d436f	1808a4620	DATA	48 83 EC ? 48 8B 0D ? ? ? ? 48 8D 15 ? ? ? ? 45 33 C9 45 33 C0 48 8B 01 FF 50 30 48 85 C0 74 ? 48 8B 0D ? ? ? ? 48 8B D0 4C 8B 01 41 FF 50 40 48 83 C4
+1803d437d	1806e1aa0	DATA	level_shutdown
+1803d4384	1806d2230	DATA	client.dll
+1803d439c	1808a4600	DATA	48 8B 0D ? ? ? ? 48 8D 34 52
+1803d43aa	1808a6f20	DATA	game_trace_manager
+1803d43ba	1806d2230	DATA	client.dll
+1803d43c6	1808a45a0	DATA	48 89 54 24 ? 48 89 4C 24 ? 55 53 56 57 41 54 41 56 41 57 48 8D AC 24 ? ? ? ? B8 ? ? 00 00 E8
+1803d43d4	1808a6f10	DATA	trace_ray
+1803d43db	1806d2230	DATA	client.dll
+1803d43e7	1808a4a10	DATA	48 89 5C 24 ? 48 89 74 24 ? 57 48 83 EC ? 0F B6 41 ? 33 FF 24
+1803d43f5	1808a7050	DATA	trace_filter_init
+1803d43fc	1806d2230	DATA	client.dll
+1803d4408	1808a49d0	DATA	48 83 EC 38 F3 0F 10 15 ? ? ? ? 44 88 4C 24 20 4D 8B C8 E8
+1803d4416	1808a7040	DATA	point_contents
+1803d441d	1806d2230	DATA	client.dll
+1803d4429	1808a4970	DATA	48 89 5C 24 ? 48 89 6C 24 ? 48 89 74 24 ? 57 41 56 41 57 48 83 EC ? F2 0F 10 02 4D 8D 71 08
+1803d4437	1808a7028	DATA	trace_bullet_data_init
+1803d443e	1806d2230	DATA	client.dll
+1803d444a	1808a4940	DATA	40 53 57 41 56 48 83 EC 50 8B 84 24
+1803d4458	1806ff9e8	DATA	trace_bullet
+1803d445f	1806d2230	DATA	client.dll
+1803d446b	1808a48e0	DATA	48 8B C4 48 89 58 10 4C 89 48 20 55 56 57 41 54 41 55 41 56 41 57 48 8D A8 18 FF FF FF 48 81 EC
+1803d4479	1808a7010	DATA	bullet_trace_build
+1803d4480	1806d2230	DATA	client.dll
+1803d448c	1808a4890	DATA	40 55 56 41 54 41 55 41 56 48 8B EC 48 81 EC 80 00 00 00 4C 8D A9 20 1C
+1803d449a	1808a6ff8	DATA	bullet_trace_rebuild
+1803d44a1	1806d2230	DATA	client.dll
+1803d44b4	1808a4de0	DATA	48 8B C4 44 89 48 20 48 89 50 10 48 89 48 08 55 57 41 57 48 8D A8 78 FE FF FF 48 81 EC 70 02 00
+1803d44bb	1808a6fe0	DATA	bullet_penetration
+1803d44c2	1806d2230	DATA	client.dll
+1803d44ce	1808a4840	DATA	48 89 74 24 18 48 89 7C 24 20 41 56 48 83 EC 20 48 8B F9 41 8B C1
+1803d44dc	1808a6fc8	DATA	hitboxes_and_transforms
+1803d44e3	1806d2230	DATA	client.dll
+1803d44ef	1808a47c0	DATA	48 89 5C 24 08 48 89 74 24 10 57 48 81 EC E0 00 00 00 48 8B F2 0F 29 B4 24 D0 00 00 00 41 8B 10 0F 28 F3 49 8B D8 48 8B F9 E8
+1803d44fd	1808a6fb8	DATA	transform_blend
+1803d4504	1806d2230	DATA	client.dll
+1803d4510	1808a4d90	DATA	48 89 5C 24 18 48 89 6C 24 20 56 57 41 56 48 83 EC 60 44 8B 92 ? ? ? ?
+1803d451e	1808a70e0	DATA	shoot_position_at
+1803d4525	1806d2230	DATA	client.dll
+1803d4531	1808a4d30	DATA	48 8B C4 48 89 58 18 48 89 48 08 55 56 57 41 54 41 55 41 56 41 57 48 8D A8 28 FF FF FF
+1803d453f	1808a70d0	DATA	aim_punch_decay
+1803d4546	1806d2230	DATA	client.dll
+1803d4552	1808a4cb0	DATA	48 89 5C 24 10 55 56 41 56 48 83 EC 60 4D 8B F0 8B EA 48 8B D9 E8 ? ? ? ? 48 8B F0 48 85 C0 0F 84 ? ? ? ? 4C 8B 0B 48 8B CB
+1803d4560	1808a70c0	DATA	weapon_recoil
+1803d4567	1806d2230	DATA	client.dll
+1803d4573	1808a4c20	DATA	40 55 53 57 41 56 41 57 48 8D AC 24 10 FF FF FF 48 81 EC F0 01 00 00 4D 8B F1 4D 8B F8 48 8B DA E8 ? ? ? ? 48 8B F8 48 85 C0 75 0F
+1803d4581	1808a70b0	DATA	taser_trace
+1803d4588	1806d2230	DATA	client.dll
+1803d4594	1808a4b50	DATA	48 8B C4 55 53 56 41 55 41 57 48 8D 68 A8 48 81 EC 30 01 00 00 0F 29 78 A8 0F 57 FF 44 0F 29 48 88 49 8B F0 4C 8B EA 4C 8B F9 4D 85 C0 74 ? F2 0F 10 02 F2 41 0F 11 00 8B 42 08 41 89 40 08 48 8B 1D
+1803d45a2	1808a7098	DATA	smoke_line_density
+1803d45a9	1806d2230	DATA	client.dll
+1803d45b5	1808a4ad0	DATA	40 53 48 83 EC 20 48 83 79 38 00 48 8B D9 75 05 E8 ? ? ? ? 48 8B 5B 38 48 85 DB 74 57 48 8B 05 ? ? ? ? 80 78 58 00
+1803d45c3	1808a7088	DATA	use_cone
+1803d45ca	1806d2230	DATA	client.dll
+1803d45d6	1808a4a50	DATA	40 55 56 41 55 48 8D AC 24 F0 FE FF FF 48 81 EC 10 02 00 00 48 83 79 38 00 48 8B F1 0F 29 B4 24 E0 01 00 00 0F 28 F1 75 05
+1803d45e4	1808a7078	DATA	find_use_entity
+1803d45eb	1806d2230	DATA	client.dll
+1803d45f7	1808a50a0	DATA	48 89 5C 24 08 48 89 6C 24 18 56 57 41 56 48 83 EC 40 49 8B F8 48 8B DA 48 8B E9 48 85 D2 0F 84 ? ? ? ? 45 33 F6 4C 8D 0D ? ? ? ?
+1803d4605	1808a7068	DATA	use_target_info
+1803d460c	1806d2230	DATA	client.dll
+1803d4618	1808a5020	DATA	48 8B C4 48 89 58 08 48 89 70 18 55 57 41 54 41 56 41 57 48 8D A8 F8 FE FF FF 48 81 EC E0 01 00 00 0F 29 70 C8 4D 8B F1
+1803d4626	1808a71a0	DATA	use_target_check
+1803d462d	1806d2230	DATA	client.dll
+1803d4648	1808a5498	DATA	00 48 89 07 48 8D 05 ? ? ? ? 48 89 87 E0 00 00 00
+1803d4656	1806ffd18	DATA	service_read
+1803d4666	1808a51c0	DATA	filesystem_stdio.dll
+1803d468c	1808a5468	DATA	48 8D 8F 20 FF FF FF 8B D5 E8 ? ? ? ? FF D3
+1803d4693	1808a7188	DATA	filesystem_close
+1803d469a	1808a51c0	DATA	filesystem_stdio.dll
+1803d46b2	1808a5448	DATA	48 8B 35 ? ? ? ? 44 89 6C 24 ?
+1803d46c0	1808a7170	DATA	particle_manager
+1803d46d0	1806d2230	DATA	client.dll
+1803d46dc	1808a5418	DATA	4C 8B DC 53 48 81 EC 90 00 00 00 F2 0F 10 05
+1803d46ea	1808a7160	DATA	particle_create
+1803d46f1	1806d2230	DATA	client.dll
+1803d46fd	1808a53d8	DATA	48 83 EC 58 F3 41 0F 10 51 04 F3 41 0F 10 09 F3 41 0F 10 59 08
+1803d470b	1808a7140	DATA	particle_set_control_point
+1803d4712	1806d2230	DATA	client.dll
+1803d471e	1808a5370	DATA	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 57 48 83 EC 40 48 8B F9 49 8B E9 33 C9 41 8B F0 83 FA FF
+1803d472c	1808a7128	DATA	particle_set_transform
+1803d4733	1806d2230	DATA	client.dll
+1803d473f	1808a5350	DATA	40 56 48 83 EC ? 41 8B F0
+1803d474d	1808a7110	DATA	particle_init_effect
+1803d4754	1806d2230	DATA	client.dll
+1803d4760	1808a56f8	DATA	83 FA ? 0F 84 ? ? ? ? 41 54
+1803d476e	1808a70f8	DATA	particle_destroy
+1803d4775	1806d2230	DATA	client.dll
+1803d4781	1808a56c8	DATA	41 54 41 55 41 57 48 81 EC 90 00 00 00 4D 8B F9
+1803d478f	1808a7268	DATA	particle_set_entity_binding
+1803d4796	1806d2230	DATA	client.dll
+1803d47a2	1808a5670	DATA	48 89 5C 24 10 48 89 74 24 18 48 89 7C 24 20 55 48 8B EC 48 83 EC 40 48 8B F1 0F 57 C9
+1803d47b0	1808a7250	DATA	view_ambient_copy
+1803d47b7	1806d2230	DATA	client.dll
+1803d47cf	1808a5648	DATA	48 8B 0D ? ? ? ? 48 8B 01 FF 50 ? FF C3
+1803d47dd	1808a7238	DATA	game_event_manager
+1803d47ed	1806d2230	DATA	client.dll
+1803d4805	1808a5620	DATA	48 8D 05 ? ? ? ? 4D 8B F8 48 89 01
+1803d4813	1808a7218	DATA	game_event_get_controller
+1803d4823	1806d2230	DATA	client.dll
+1803d484a	1808a5600	DATA	E8 ? ? ? ? 0F 28 D8 89 5C 24 20
+1803d4851	1808a7200	DATA	game_event_get_float
+1803d4858	1806d2230	DATA	client.dll
+1803d486a	1806d3b88	DATA	C_KeychainModule
+1803d4884	1806d2230	DATA	client.dll
+1803d48ea	1806d3b88	DATA	C_KeychainModule
+1803d48f1	1806d2230	DATA	client.dll
+1803d48f8	1808a6460	DATA	[error] vtable not found | %s:%s
+1803d4904	1808a1330	DATA	48 89 5C 24 ? 57 48 83 EC ? 8B 41 ? 48 8D 79
+1803d490b	1808a71e8	DATA	init_path_buffer
+1803d4912	1806d2230	DATA	client.dll
+1803d491e	1808a12a0	DATA	48 8B C4 48 89 68 08 48 89 70 10 57 48 81 EC 40 01 00 00 0F 29 70 E8 49 8B F1 F3 0F 10 B2 D4 04 00 00
+1803d492c	1806ffd90	DATA	get_matrix_for_view
+1803d4933	1806d2230	DATA	client.dll
+1803d493f	1808a1240	DATA	48 89 5C 24 10 48 89 6C 24 18 56 57 41 56 48 81 EC B0 00 00 00 4C 8B F1 48 8D 94 24
+1803d494d	1806ffd08	DATA	set_up_views
+1803d4954	1806d2230	DATA	client.dll
+1803d4960	1808a1308	DATA	40 53 55 57 48 81 EC 80 00 00 00
+1803d496e	1808a71d0	DATA	resource_precache
+1803d4975	1806d3710	DATA	resourcesystem.dll
+1803d4981	1808a10a0	DATA	48 89 5C 24 ? 48 89 74 24 ? 48 89 7C 24 ? 48 89 4C 24 ? 55 41 54 41 55 41 56 41 57 48 8D 6C 24 ? 48 81 EC ? ? ? ? 33 FF 4D 0F BE F8 89 7D ? 45 0F B6 E1 4C 8B 2D
+1803d498f	1808a71b8	DATA	get_resource_view
+1803d4996	1808a0d20	DATA	rendersystemdx11.dll
+1803d49b5	1808a0d20	DATA	rendersystemdx11.dll
+1803d49ea	1808a10a0	DATA	48 89 5C 24 ? 48 89 74 24 ? 48 89 7C 24 ? 48 89 4C 24 ? 55 41 54 41 55 41 56 41 57 48 8D 6C 24 ? 48 81 EC ? ? ? ? 33 FF 4D 0F BE F8 89 7D ? 45 0F B6 E1 4C 8B 2D
+1803d4a35	1808a0d20	DATA	rendersystemdx11.dll
+1803d4a3c	1808a7318	DATA	[error] pattern not found | %s:get_resource_view second match
+1803d4a48	1808a5228	DATA	40 53 48 83 EC 30 80 FA 06 0F B6 C2 41 B9 16
+1803d4a4f	1808a7308	DATA	kv3_alloc
+1803d4a56	1806fff58	DATA	tier0.dll
+1803d4a62	1808a51e0	DATA	40 57 41 57 48 83 EC 38 4C 8B 01 44 8B FA 49 8B C0 48 8B F9 48 C1 E8 02
+1803d4a70	1808a72f8	DATA	kv3_destroy
+1803d4a77	1806fff58	DATA	tier0.dll
+1803d4a83	1808a5590	DATA	48 89 5C 24 ? 48 89 6C 24 ? 48 89 74 24 ? 48 89 7C 24 ? 41 56 48 81 EC ? ? ? ? 48 8B 05 ? ? ? ? 48 8B F2
+1803d4a91	1808a72e8	DATA	material_create
+1803d4a98	1806d30a8	DATA	materialsystem2.dll
+1803d4aa4	1808a5540	DATA	48 89 5C 24 ? 56 57 41 56 48 81 EC ? ? ? ? 4D 8B F0 48 8B FA 4D 85 C9
+1803d4ab2	1808a72d8	DATA	material_copy
+1803d4ab9	1806d30a8	DATA	materialsystem2.dll
+1803d4ac5	1808a5d08	DATA	48 89 5C 24 08 48 89 74 24 10 57 48 83 EC 30 48 8B 59 20
+1803d4ad3	1806ffdf8	DATA	prepare_scene_material
+1803d4ada	1806d30a8	DATA	materialsystem2.dll
+1803d4ae6	1808a5960	DATA	85 D2 0F 88 ? ? ? ? 48 89 4C 24 ? 55 56
+1803d4af4	1806ffd78	DATA	draw_flash_effect
+1803d4afb	1806d2230	DATA	client.dll
+1803d4b07	1808a5938	DATA	48 8B C4 53 57 48 83 EC 68 48 8B FA
+1803d4b15	1806ffd68	DATA	render_scope
+1803d4b1c	1806d2230	DATA	client.dll
+1803d4b28	1808a58e0	DATA	48 83 EC 28 FF 15 ? ? ? ? 84 C0 74 ? 33 C9 E8 ? ? ? ? 8B 05 ? ? ? ? 33 D2 83 F8 FF
+1803d4b36	1806ffd50	DATA	first_person_pawn
+1803d4b3d	1806d2230	DATA	client.dll
+1803d4b49	1808a5880	DATA	40 53 48 83 EC 20 83 B9 38 04 00 00 00 48 8B D9 0F 84 ? ? ? ? 33 C9 48 89 7C 24 40 E8
+1803d4b57	1808a72c0	DATA	spectator_command
+1803d4b5e	1806d2230	DATA	client.dll
+1803d4b6a	1808a5810	DATA	40 53 41 54 41 56 41 57 48 83 EC 78 48 8B D9 45 0F B6 F1 48 8B 8C 24 C0 00 00 00 45 8B F8 4C 8B E2
+1803d4b78	1808a72a8	DATA	event_listener_register
+1803d4b7f	1806d2230	DATA	client.dll
+1803d4b8b	1808a57a0	DATA	4D 85 C0 0F 84 ? ? ? ? 48 89 5C 24 10 4C 89 44 24 18 56 48 83 EC 20 48 8B D9 48 8B F2 49 8B C8 E8
+1803d4b99	1808a7288	DATA	event_listener_unregister
+1803d4ba0	1806d2230	DATA	client.dll
+1803d4bac	1808a5768	DATA	FF 90 20 03 00 00 48 8B 0D ? ? ? ? 48 8B 01 FF 50 20 E8
+1803d4bba	1808a73f0	DATA	render_start_call
+1803d4bc1	1806d2230	DATA	client.dll
+1803d4bdd	1808a5720	DATA	40 53 48 83 EC 20 48 8B D9 38 91 ? ? ? ? 74 ? 88 91 ? ? ? ? 48 8B 89
+1803d4be4	1808a73d8	DATA	set_render_alpha
+1803d4beb	1806d2230	DATA	client.dll
+1803d4c01	1808a5ad0	DATA	E8 ? ? ? ? 41 8B 5F 10
+1803d4c08	1808a73c0	DATA	world_group_handle
+1803d4c0f	1806d2230	DATA	client.dll
+1803d4c27	1808a5ab0	DATA	48 8B 0D ? ? ? ? 48 8B 14 FA
+1803d4c35	1808a73a8	DATA	render_game_system
+1803d4c45	1806d2230	DATA	client.dll
+1803d4c60	1808a5a80	DATA	A8 00 00 00 48 8D 05 ? ? ? ? 4C 89 74 24 20
+1803d4c6e	1806e1a70	DATA	override_view
+1803d4c7e	1806d2230	DATA	client.dll
+1803d4c9f	1808a59e0	DATA	48 89 6C 24 ? 48 89 74 24 ? 57 48 83 EC 30 48 8B B9 ? ? ? ? 48 8B F1 48 8B CF 48 89 5C 24
+1803d4ca6	1806ffe20	DATA	update_fov_sensitivity
+1803d4cad	1806d2230	DATA	client.dll
+1803d4cb9	1808a5a60	DATA	E8 ? ? ? ? 8B 85 2C 85 01 00
+1803d4cc7	1808a7390	DATA	node_setup_bones
+1803d4cce	1806d2230	DATA	client.dll
+1803d4d09	1808a5a60	DATA	E8 ? ? ? ? 8B 85 2C 85 01 00
+1803d4d14	1808a7390	DATA	node_setup_bones
+1803d4d1e	1806d2230	DATA	client.dll
+1803d4d37	1808a5a60	DATA	E8 ? ? ? ? 8B 85 2C 85 01 00
+1803d4d3e	1808a7390	DATA	node_setup_bones
+1803d4d45	1806d2230	DATA	client.dll
+1803d4d57	1808a5a60	DATA	E8 ? ? ? ? 8B 85 2C 85 01 00
+1803d4d5e	1808a7390	DATA	node_setup_bones
+1803d4d65	1806d2230	DATA	client.dll
+1803d4d6c	1808a61b0	DATA	[error] call not resolved | %s:%s | %s
+1803d4d7b	1808a5a40	DATA	E8 ? ? ? ? 40 84 ED 74 17
+1803d4d89	1808a7378	DATA	node_set_skeleton
+1803d4d90	1806d2230	DATA	client.dll
+1803d4dcb	1808a5a40	DATA	E8 ? ? ? ? 40 84 ED 74 17
+1803d4dd6	1808a7378	DATA	node_set_skeleton
+1803d4de0	1806d2230	DATA	client.dll
+1803d4df9	1808a5a40	DATA	E8 ? ? ? ? 40 84 ED 74 17
+1803d4e00	1808a7378	DATA	node_set_skeleton
+1803d4e07	1806d2230	DATA	client.dll
+1803d4e19	1808a5a40	DATA	E8 ? ? ? ? 40 84 ED 74 17
+1803d4e20	1808a7378	DATA	node_set_skeleton
+1803d4e27	1806d2230	DATA	client.dll
+1803d4e2e	1808a61b0	DATA	[error] call not resolved | %s:%s | %s
+1803d4e3d	1808a59a8	DATA	8B 0D ? ? ? ? 8B D3 E8 ? ? ? ? F2 0F 10 00
+1803d4e4b	1808a7368	DATA	get_view_angles
+1803d4e52	1806d2230	DATA	client.dll
+1803d4e8e	1808a59a8	DATA	8B 0D ? ? ? ? 8B D3 E8 ? ? ? ? F2 0F 10 00
+1803d4e99	1808a7368	DATA	get_view_angles
+1803d4ea3	1806d2230	DATA	client.dll
+1803d4ebc	1808a59a8	DATA	8B 0D ? ? ? ? 8B D3 E8 ? ? ? ? F2 0F 10 00
+1803d4ec3	1808a7368	DATA	get_view_angles
+1803d4eca	1806d2230	DATA	client.dll
+1803d4edc	1808a59a8	DATA	8B 0D ? ? ? ? 8B D3 E8 ? ? ? ? F2 0F 10 00
+1803d4ee3	1808a7368	DATA	get_view_angles
+1803d4eea	1806d2230	DATA	client.dll
+1803d4ef1	1808a61b0	DATA	[error] call not resolved | %s:%s | %s
+1803d4f00	1808a5988	DATA	41 B0 01 48 8B D7 49 8B CD E8
+1803d4f0e	1806ffe10	DATA	render_decals
+1803d4f15	1806d2230	DATA	client.dll
+1803d4f51	1808a5988	DATA	41 B0 01 48 8B D7 49 8B CD E8
+1803d4f5c	1806ffe10	DATA	render_decals
+1803d4f66	1806d2230	DATA	client.dll
+1803d4f7f	1808a5988	DATA	41 B0 01 48 8B D7 49 8B CD E8
+1803d4f86	1806ffe10	DATA	render_decals
+1803d4f8d	1806d2230	DATA	client.dll
+1803d4f9f	1808a5988	DATA	41 B0 01 48 8B D7 49 8B CD E8
+1803d4fa6	1806ffe10	DATA	render_decals
+1803d4fad	1806d2230	DATA	client.dll
+1803d4fb4	1808a61b0	DATA	[error] call not resolved | %s:%s | %s
+1803d4fc3	1808a5cf0	DATA	E8 ? ? ? ? 0F 10 45 88
+1803d4fd1	1808a7358	DATA	string_copy
+1803d4fd8	1806d2230	DATA	client.dll
+1803d5013	1808a5cf0	DATA	E8 ? ? ? ? 0F 10 45 88
+1803d501e	1808a7358	DATA	string_copy
+1803d5028	1806d2230	DATA	client.dll
+1803d5041	1808a5cf0	DATA	E8 ? ? ? ? 0F 10 45 88
+1803d5048	1808a7358	DATA	string_copy
+1803d504f	1806d2230	DATA	client.dll
+1803d5061	1808a5cf0	DATA	E8 ? ? ? ? 0F 10 45 88
+1803d5068	1808a7358	DATA	string_copy
+1803d506f	1806d2230	DATA	client.dll
+1803d5076	1808a61b0	DATA	[error] call not resolved | %s:%s | %s
+1803d508b	1808a5ca0	DATA	48 89 5C 24 ? 55 56 57 48 83 EC 30 49 8B C0 48 8B FA 48 8B F1 48 8B 09 F6 C1 03
+1803d5092	1808a5ca0	PARAM	48 89 5C 24 ? 55 56 57 48 83 EC 30 49 8B C0 48 8B FA 48 8B F1 48 8B 09 F6 C1 03
+1803d509f	1808a7480	DATA	serialize_move_crc
+1803d50a6	1806d2230	DATA	client.dll
+1803d50b2	1806d2230	DATA	client.dll
+1803d5118	1808a5ca0	DATA	48 89 5C 24 ? 55 56 57 48 83 EC 30 49 8B C0 48 8B FA 48 8B F1 48 8B 09 F6 C1 03
+1803d5138	1808a5ca0	PARAM	48 89 5C 24 ? 55 56 57 48 83 EC 30 49 8B C0 48 8B FA 48 8B F1 48 8B 09 F6 C1 03
+1803d513b	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d5147	1808a7480	DATA	serialize_move_crc
+1803d514e	1808a5ca0	PARAM	48 89 5C 24 ? 55 56 57 48 83 EC 30 49 8B C0 48 8B FA 48 8B F1 48 8B 09 F6 C1 03
+1803d5151	1806d2230	DATA	client.dll
+1803d5166	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d5173	1808a7480	DATA	serialize_move_crc
+1803d517a	1806d2230	DATA	client.dll
+1803d5189	1808a5c50	DATA	48 8B 54 CA 08 8D 41 01 89 47 08 EB 16 48 8B 0F E8 ? ? ? ? 48 8B D0 48 8B CF
+1803d5197	1808a7468	DATA	subtick_move_alloc
+1803d519e	1806d2230	DATA	client.dll
+1803d51e1	1808a5c50	DATA	48 8B 54 CA 08 8D 41 01 89 47 08 EB 16 48 8B 0F E8 ? ? ? ? 48 8B D0 48 8B CF
+1803d51eb	1808a7468	DATA	subtick_move_alloc
+1803d51f2	1806d2230	DATA	client.dll
+1803d521d	1808a5c50	DATA	48 8B 54 CA 08 8D 41 01 89 47 08 EB 16 48 8B 0F E8 ? ? ? ? 48 8B D0 48 8B CF
+1803d5224	1808a7468	DATA	subtick_move_alloc
+1803d522b	1806d2230	DATA	client.dll
+1803d523d	1808a5c50	DATA	48 8B 54 CA 08 8D 41 01 89 47 08 EB 16 48 8B 0F E8 ? ? ? ? 48 8B D0 48 8B CF
+1803d5244	1808a7468	DATA	subtick_move_alloc
+1803d524b	1806d2230	DATA	client.dll
+1803d5252	1808a61b0	DATA	[error] call not resolved | %s:%s | %s
+1803d5265	1808a5c28	DATA	E8 ? ? ? ? 4C 8B D0 45 8B 4A 10
+1803d526c	1808a7458	DATA	utl_vector_push
+1803d5273	1806d2230	DATA	client.dll
+1803d52b6	1808a5c28	DATA	E8 ? ? ? ? 4C 8B D0 45 8B 4A 10
+1803d52c1	1808a7458	DATA	utl_vector_push
+1803d52cb	1806d2230	DATA	client.dll
+1803d52e4	1808a5c28	DATA	E8 ? ? ? ? 4C 8B D0 45 8B 4A 10
+1803d52eb	1808a7458	DATA	utl_vector_push
+1803d52f2	1806d2230	DATA	client.dll
+1803d5304	1808a5c28	DATA	E8 ? ? ? ? 4C 8B D0 45 8B 4A 10
+1803d530b	1808a7458	DATA	utl_vector_push
+1803d5312	1806d2230	DATA	client.dll
+1803d5319	1808a61b0	DATA	[error] call not resolved | %s:%s | %s
+1803d5328	1808a5bf0	DATA	48 8B 0D ? ? ? ? 48 89 44 24 20 E8 ? ? ? ? 48 8B F8 EB
+1803d5336	1808a7448	DATA	icon_generator
+1803d533d	1806d2230	DATA	client.dll
+1803d5355	1808a5bf0	DATA	48 8B 0D ? ? ? ? 48 89 44 24 20 E8 ? ? ? ? 48 8B F8 EB
+1803d5362	1808a7448	DATA	icon_generator
+1803d5378	1806d2230	DATA	client.dll
+1803d538c	1806d2230	DATA	client.dll
+1803d539e	1808a5bf0	DATA	48 8B 0D ? ? ? ? 48 89 44 24 20 E8 ? ? ? ? 48 8B F8 EB
+1803d53a5	1808a7448	DATA	icon_generator
+1803d53ac	1806d2230	DATA	client.dll
+1803d53b3	1808a6180	DATA	[error] address not resolved | %s:%s | %s
+1803d53c8	1808a5b90	DATA	48 89 5C 24 18 48 89 6C 24 20 57 48 81 EC D0 00 00 00 33 ED 48 8B D9 40 38 A9 51 01 00 00 0F 84
+1803d53cf	1808a5b90	PARAM	48 89 5C 24 18 48 89 6C 24 20 57 48 81 EC D0 00 00 00 33 ED 48 8B D9 40 38 A9 51 01 00 00 0F 84
+1803d53dc	1808a7438	DATA	icon_update
+1803d53e3	1806d2230	DATA	client.dll
+1803d53ef	1806d2230	DATA	client.dll
+1803d5455	1808a5b90	DATA	48 89 5C 24 18 48 89 6C 24 20 57 48 81 EC D0 00 00 00 33 ED 48 8B D9 40 38 A9 51 01 00 00 0F 84
+1803d5475	1808a5b90	PARAM	48 89 5C 24 18 48 89 6C 24 20 57 48 81 EC D0 00 00 00 33 ED 48 8B D9 40 38 A9 51 01 00 00 0F 84
+1803d5478	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d5484	1808a7438	DATA	icon_update
+1803d548b	1808a5b90	PARAM	48 89 5C 24 18 48 89 6C 24 20 57 48 81 EC D0 00 00 00 33 ED 48 8B D9 40 38 A9 51 01 00 00 0F 84
+1803d548e	1806d2230	DATA	client.dll
+1803d54a3	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d54b0	1808a7438	DATA	icon_update
+1803d54b7	1806d2230	DATA	client.dll
+1803d54cc	1808a5af0	DATA	40 53 48 83 EC 40 80 3D ? ? ? ? 00 48 8B D9 74 ? 48 8B 0D ? ? ? ? 45 33 C9 45 33 C0 33 D2 48 8B 01 FF 90 ? ? ? ? C6 05 ? ? ? ? 00 83 BB 9C 00 00 00 09
+1803d54d3	1808a5af0	PARAM	40 53 48 83 EC 40 80 3D ? ? ? ? 00 48 8B D9 74 ? 48 8B 0D ? ? ? ? 45 33 C9 45 33 C0 33 D2 48 8B 01 FF 90 ? ? ? ? C6 05 ? ? ? ? 00 83 BB 9C 00 00 00 09
+1803d54e0	1808a7428	DATA	icon_post
+1803d54e7	1806d2230	DATA	client.dll
+1803d54f3	1806d2230	DATA	client.dll
+1803d5565	1808a5af0	DATA	40 53 48 83 EC 40 80 3D ? ? ? ? 00 48 8B D9 74 ? 48 8B 0D ? ? ? ? 45 33 C9 45 33 C0 33 D2 48 8B 01 FF 90 ? ? ? ? C6 05 ? ? ? ? 00 83 BB 9C 00 00 00 09
+1803d5585	1808a5af0	PARAM	40 53 48 83 EC 40 80 3D ? ? ? ? 00 48 8B D9 74 ? 48 8B 0D ? ? ? ? 45 33 C9 45 33 C0 33 D2 48 8B 01 FF 90 ? ? ? ? C6 05 ? ? ? ? 00 83 BB 9C 00 00 00 09
+1803d5588	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d5594	1808a7428	DATA	icon_post
+1803d559b	1808a5af0	PARAM	40 53 48 83 EC 40 80 3D ? ? ? ? 00 48 8B D9 74 ? 48 8B 0D ? ? ? ? 45 33 C9 45 33 C0 33 D2 48 8B 01 FF 90 ? ? ? ? C6 05 ? ? ? ? 00 83 BB 9C 00 00 00 09
+1803d559e	1806d2230	DATA	client.dll
+1803d55d7	1808a5af0	PARAM	40 53 48 83 EC 40 80 3D ? ? ? ? 00 48 8B D9 74 ? 48 8B 0D ? ? ? ? 45 33 C9 45 33 C0 33 D2 48 8B 01 FF 90 ? ? ? ? C6 05 ? ? ? ? 00 83 BB 9C 00 00 00 09
+1803d55e1	1808a7418	DATA	render_device
+1803d55e8	1806d2230	DATA	client.dll
+1803d55ef	1808a6180	DATA	[error] address not resolved | %s:%s | %s
+1803d5604	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d5611	1808a7428	DATA	icon_post
+1803d5618	1806d2230	DATA	client.dll
+1803d5631	1808a6060	DATA	48 89 5C 24 10 48 89 6C 24 18 48 89 7C 24 20 41 56 48 83 EC 20 45 33 F6 C6 81 54 01 00 00 00 89 91 A0 00 00 00 48 8B E9 44 89 81 9C 00 00 00
+1803d5638	1808a6060	PARAM	48 89 5C 24 10 48 89 6C 24 18 48 89 7C 24 20 41 56 48 83 EC 20 45 33 F6 C6 81 54 01 00 00 00 89 91 A0 00 00 00 48 8B E9 44 89 81 9C 00 00 00
+1803d563b	1808a7408	DATA	icon_finish
+1803d5645	1806d2230	DATA	client.dll
+1803d5651	1806d2230	DATA	client.dll
+1803d56bf	1808a6060	DATA	48 89 5C 24 10 48 89 6C 24 18 48 89 7C 24 20 41 56 48 83 EC 20 45 33 F6 C6 81 54 01 00 00 00 89 91 A0 00 00 00 48 8B E9 44 89 81 9C 00 00 00
+1803d56df	1808a6060	PARAM	48 89 5C 24 10 48 89 6C 24 18 48 89 7C 24 20 41 56 48 83 EC 20 45 33 F6 C6 81 54 01 00 00 00 89 91 A0 00 00 00 48 8B E9 44 89 81 9C 00 00 00
+1803d56e2	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d56ee	1808a7408	DATA	icon_finish
+1803d56f5	1808a6060	PARAM	48 89 5C 24 10 48 89 6C 24 18 48 89 7C 24 20 41 56 48 83 EC 20 45 33 F6 C6 81 54 01 00 00 00 89 91 A0 00 00 00 48 8B E9 44 89 81 9C 00 00 00
+1803d56f8	1806d2230	DATA	client.dll
+1803d570d	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d571a	1808a7408	DATA	icon_finish
+1803d5721	1806d2230	DATA	client.dll
+1803d5736	1808a6010	DATA	48 8B C4 55 48 8D A8 58 FD FF FF 48 81 EC A0 03 00 00 48 89 58 10 48 89 70 18
+1803d573d	1808a6010	PARAM	48 8B C4 55 48 8D A8 58 FD FF FF 48 81 EC A0 03 00 00 48 89 58 10 48 89 70 18
+1803d574a	1808a7540	DATA	icon_targets
+1803d5751	1806d2230	DATA	client.dll
+1803d575d	1806d2230	DATA	client.dll
+1803d57c3	1808a6010	DATA	48 8B C4 55 48 8D A8 58 FD FF FF 48 81 EC A0 03 00 00 48 89 58 10 48 89 70 18
+1803d57e3	1808a6010	PARAM	48 8B C4 55 48 8D A8 58 FD FF FF 48 81 EC A0 03 00 00 48 89 58 10 48 89 70 18
+1803d57e6	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d57f2	1808a7540	DATA	icon_targets
+1803d57f9	1808a6010	PARAM	48 8B C4 55 48 8D A8 58 FD FF FF 48 81 EC A0 03 00 00 48 89 58 10 48 89 70 18
+1803d57fc	1806d2230	DATA	client.dll
+1803d5811	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d581e	1808a7540	DATA	icon_targets
+1803d5825	1806d2230	DATA	client.dll
+1803d583a	1808a5fb0	DATA	48 89 5C 24 08 48 89 74 24 10 57 48 83 EC 20 48 8D 05 ? ? ? ? 48 8B F9 48 89 01 45 33 C9
+1803d5841	1808a5fb0	PARAM	48 89 5C 24 08 48 89 74 24 10 57 48 83 EC 20 48 8D 05 ? ? ? ? 48 8B F9 48 89 01 45 33 C9
+1803d584e	1808a7530	DATA	item_view_ctor
+1803d5855	1806d2230	DATA	client.dll
+1803d5861	1806d2230	DATA	client.dll
+1803d58c7	1808a5fb0	DATA	48 89 5C 24 08 48 89 74 24 10 57 48 83 EC 20 48 8D 05 ? ? ? ? 48 8B F9 48 89 01 45 33 C9
+1803d58e7	1808a5fb0	PARAM	48 89 5C 24 08 48 89 74 24 10 57 48 83 EC 20 48 8D 05 ? ? ? ? 48 8B F9 48 89 01 45 33 C9
+1803d58ea	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d58f6	1808a7530	DATA	item_view_ctor
+1803d58fd	1808a5fb0	PARAM	48 89 5C 24 08 48 89 74 24 10 57 48 83 EC 20 48 8D 05 ? ? ? ? 48 8B F9 48 89 01 45 33 C9
+1803d5900	1806d2230	DATA	client.dll
+1803d5915	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d5922	1808a7530	DATA	item_view_ctor
+1803d5929	1806d2230	DATA	client.dll
+1803d593e	1808a5f50	DATA	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 48 89 7C 24 20 41 56 48 83 EC 20 48 8B D9 45 8B F1
+1803d5945	1808a5f50	PARAM	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 48 89 7C 24 20 41 56 48 83 EC 20 48 8B D9 45 8B F1
+1803d5952	1808a7520	DATA	item_view_init
+1803d5959	1806d2230	DATA	client.dll
+1803d5965	1806d2230	DATA	client.dll
+1803d59cb	1808a5f50	DATA	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 48 89 7C 24 20 41 56 48 83 EC 20 48 8B D9 45 8B F1
+1803d59eb	1808a5f50	PARAM	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 48 89 7C 24 20 41 56 48 83 EC 20 48 8B D9 45 8B F1
+1803d59ee	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d59fa	1808a7520	DATA	item_view_init
+1803d5a01	1808a5f50	PARAM	48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 48 89 7C 24 20 41 56 48 83 EC 20 48 8B D9 45 8B F1
+1803d5a04	1806d2230	DATA	client.dll
+1803d5a19	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d5a26	1808a7520	DATA	item_view_init
+1803d5a2d	1806d2230	DATA	client.dll
+1803d5a42	1808a5ef0	DATA	48 89 5C 24 20 55 56 57 48 8B EC 48 83 EC 40 48 8B 1D ? ? ? ? 48 8B F9 48 85 DB 75
+1803d5a49	1808a5ef0	PARAM	48 89 5C 24 20 55 56 57 48 8B EC 48 83 EC 40 48 8B 1D ? ? ? ? 48 8B F9 48 85 DB 75
+1803d5a56	1808a7510	DATA	item_view_name
+1803d5a5d	1806d2230	DATA	client.dll
+1803d5a69	1806d2230	DATA	client.dll
+1803d5acf	1808a5ef0	DATA	48 89 5C 24 20 55 56 57 48 8B EC 48 83 EC 40 48 8B 1D ? ? ? ? 48 8B F9 48 85 DB 75
+1803d5aef	1808a5ef0	PARAM	48 89 5C 24 20 55 56 57 48 8B EC 48 83 EC 40 48 8B 1D ? ? ? ? 48 8B F9 48 85 DB 75
+1803d5af2	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d5afe	1808a7510	DATA	item_view_name
+1803d5b05	1808a5ef0	PARAM	48 89 5C 24 20 55 56 57 48 8B EC 48 83 EC 40 48 8B 1D ? ? ? ? 48 8B F9 48 85 DB 75
+1803d5b08	1806d2230	DATA	client.dll
+1803d5b1d	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d5b2a	1808a7510	DATA	item_view_name
+1803d5b31	1806d2230	DATA	client.dll
+1803d5b46	1808a5e80	DATA	48 89 5C 24 08 57 48 83 EC 20 48 8B D9 89 54 24 38 48 81 C1 D8 00 00 00 48 8D 54 24 38 41 0F B6 F8 E8
+1803d5b4d	1808a5e80	PARAM	48 89 5C 24 08 57 48 83 EC 20 48 8B D9 89 54 24 38 48 81 C1 D8 00 00 00 48 8D 54 24 38 41 0F B6 F8 E8
+1803d5b5a	1808a74f0	DATA	item_definition_by_index
+1803d5b61	1806d2230	DATA	client.dll
+1803d5b6d	1806d2230	DATA	client.dll
+1803d5bd3	1808a5e80	DATA	48 89 5C 24 08 57 48 83 EC 20 48 8B D9 89 54 24 38 48 81 C1 D8 00 00 00 48 8D 54 24 38 41 0F B6 F8 E8
+1803d5bf3	1808a5e80	PARAM	48 89 5C 24 08 57 48 83 EC 20 48 8B D9 89 54 24 38 48 81 C1 D8 00 00 00 48 8D 54 24 38 41 0F B6 F8 E8
+1803d5bf6	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d5c02	1808a74f0	DATA	item_definition_by_index
+1803d5c09	1808a5e80	PARAM	48 89 5C 24 08 57 48 83 EC 20 48 8B D9 89 54 24 38 48 81 C1 D8 00 00 00 48 8D 54 24 38 41 0F B6 F8 E8
+1803d5c0c	1806d2230	DATA	client.dll
+1803d5c21	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d5c2e	1808a74f0	DATA	item_definition_by_index
+1803d5c35	1806d2230	DATA	client.dll
+1803d5c4a	1808a5da0	DATA	48 8B 07 48 8B CF FF 90 ? ? ? ? 48 8D 8F D8 00 00 00 45 33 C9 4C 8D 44 24 20 48 89 44 24 20 48 8D 94 24 ? ? ? ? 48 8B D8 E8 ? ? ? ? 48 8D 8F 20 01 00 00 48 63 F0 48 8D 54 24 28 44 89 74 24 28 48 89 5C 24 30 E8
+1803d5c51	1808a5da0	PARAM	48 8B 07 48 8B CF FF 90 ? ? ? ? 48 8D 8F D8 00 00 00 45 33 C9 4C 8D 44 24 20 48 89 44 24 20 48 8D 94 24 ? ? ? ? 48 8B D8 E8 ? ? ? ? 48 8D 8F 20 01 00 00 48 63 F0 48 8D 54 24 28 44 89 74 24 28 48 89 5C 24 30 E8
+1803d5c5e	1808a74e0	DATA	schema_add_item
+1803d5c65	1806d2230	DATA	client.dll
+1803d5c71	1806d2230	DATA	client.dll
+1803d5cea	1808a5da0	DATA	48 8B 07 48 8B CF FF 90 ? ? ? ? 48 8D 8F D8 00 00 00 45 33 C9 4C 8D 44 24 20 48 89 44 24 20 48 8D 94 24 ? ? ? ? 48 8B D8 E8 ? ? ? ? 48 8D 8F 20 01 00 00 48 63 F0 48 8D 54 24 28 44 89 74 24 28 48 89 5C 24 30 E8
+1803d5d0a	1808a5da0	PARAM	48 8B 07 48 8B CF FF 90 ? ? ? ? 48 8D 8F D8 00 00 00 45 33 C9 4C 8D 44 24 20 48 89 44 24 20 48 8D 94 24 ? ? ? ? 48 8B D8 E8 ? ? ? ? 48 8D 8F 20 01 00 00 48 63 F0 48 8D 54 24 28 44 89 74 24 28 48 89 5C 24 30 E8
+1803d5d0d	1808a61d8	DATA	[error] pattern not found | %s:%s | %s
+1803d5d19	1808a74e0	DATA	schema_add_item
+1803d5d20	1808a5da0	PARAM	48 8B 07 48 8B CF FF 90 ? ? ? ? 48 8D 8F D8 00 00 00 45 33 C9 4C 8D 44 24 20 48 89 44 24 20 48 8D 94 24 ? ? ? ? 48 8B D8 E8 ? ? ? ? 48 8D 8F 20 01 00 00 48 63 F0 48 8D 54 24 28 44 89 74 24 28 48 89 5C 24 30 E8
+1803d5d23	1806d2230	DATA	client.dll
+1803d5d67	1808a6200	DATA	[error] module not found | module: %s | %s
+1803d5d74	1808a74e0	DATA	schema_add_item
+1803d5d7b	1806d2230	DATA	client.dll
+1803d5daa	1808a74b8	DATA	[patterns] %d/%d resolved, %d outdated
+1803d5dc4	1808a7498	DATA	[patterns] all %d resolved
